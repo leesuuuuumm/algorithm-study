@@ -1,7 +1,12 @@
 # algorithm-study
 
+## ✅ commit 규칙
+- `[문제출처] (문제번호)_(문제이름)`
+- [BOJ] 1339번_단어 수학
+- [PRG] 성격 유형 검사하기
+- 백준 : BOJ / 프로그래머스 : PRG / 코드트리 : CDT / 리트코드: LC
 
-## ✔ 문제 풀이
+## ✅ 문제 풀이
   <details>
   <summary>1주차</summary>
   <div markdown="1">
