@@ -1,7 +1,12 @@
 # algorithm-study
 
+## ✅ commit 규칙
+- `[문제출처] (문제번호)_(문제이름)`
+- [BOJ] 1339번_단어 수학
+- [PRG] 성격 유형 검사하기
+- 백준 : BOJ / 프로그래머스 : PRG / 코드트리 : CDT / 리트코드: LC
 
-## ✔ 문제 풀이
+## ✅ 문제 풀이
   <details>
   <summary>1주차</summary>
   <div markdown="1">
@@ -10,11 +15,11 @@
  
   | 이름 | 문제 1   | 정답코드 | 문제  2  | 정답코드 |
   | :--: | :-----------:  | :-----:  | :-----------:  | :-----:  | 
-  | 김도형 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 |
-  | 신민선 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 |
-  | 이명범 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 |
+  | 김도형 | [리트코드_15_3Sum](https://leetcode.com/problems/3sum/)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/3Sum.py) | [프로그래머스_[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py) |
+  | 신민선 | [백준 1300_K번째 수](https://www.acmicpc.net/problem/1300)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/K%EB%B2%88%EC%A7%B8%20%EC%88%98.java) | [백준 2343_기타 레슨](https://www.acmicpc.net/problem/2343)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B8%B0%ED%83%80%20%EB%A0%88%EC%8A%A8.java) |
+  | 이명범 | [백준_2118_두개의 탑](https://www.acmicpc.net/problem/2118)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_2118_두개의탑.java) | [백준_5557_1학년](https://www.acmicpc.net/problem/5557)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_5557_1학년.java) |
   | 이수민 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 |
-  | 이승민 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 | [백준 17070_파이프 옮기기1](https://www.acmicpc.net/problem/17070)  | 깃헙 링크 첨부 |
+  | 이승민 | [백준 20437_문자열 게임2](https://www.acmicpc.net/problem/20437) | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%842.java) | [프로그래머스_할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)  | [깃헙 링크 첨부](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java) |
 
 
   </div>
