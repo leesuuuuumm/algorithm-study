@@ -28,7 +28,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_2096_내려가기](https://www.acmicpc.net/problem/2096) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_2096_내려가기.java) | []() | [✔]() |
+  | 이명범 | [백준_2096_내려가기](https://www.acmicpc.net/problem/2096) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_2096_내려가기.java) | [백준_10775_공항](https://www.acmicpc.net/problem/10775) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_10775_공항.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
