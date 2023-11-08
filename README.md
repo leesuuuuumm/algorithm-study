@@ -33,5 +33,16 @@
   | 이승민 | [백준 17609_회문](https://www.acmicpc.net/problem/17609) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%9A%8C%EB%AC%B8.java) | [백준 15927_회문은 회문아니야!!](https://www.acmicpc.net/problem/15927) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%9A%8C%EB%AC%B8%EC%9D%80%20%ED%9A%8C%EB%AC%B8%20%EC%95%84%EB%8B%88%EC%95%BC!!.java) |
 
 
+  ### 23.11.09 목요일
+ 
+  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
+
   </div>
   </details>
