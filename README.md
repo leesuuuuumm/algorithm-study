@@ -37,7 +37,7 @@
  
   | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_92_Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Z.py) | [백준_1074_Z](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Reverse%20Linked%20List%20II.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1562_계단수](https://www.acmicpc.net/problem/1562) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_1562_계단수.java) | [백준_2211_네트워크복구](https://www.acmicpc.net/problem/2211) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1주차/이명범/Main_2211_네트워크복구.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
