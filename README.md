@@ -52,7 +52,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) | [프로그래머스_프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) |
 
   </div>
   </details>
