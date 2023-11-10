@@ -48,7 +48,7 @@
  
   | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :----: | :-----------: | :----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Gas Station](https://leetcode.com/problems/gas-station/description/) | [✔](https://github.com/kimdozzi/algorithm-study/commit/40339b69bdd983a32de45be32caf7527dd69bd76#diff-42f7c9c8085e3672cea6693fdda6254725828c33cc875649538f4cbba47b06fc) | [리트코드_Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [✔](https://github.com/kimdozzi/algorithm-study/commit/40339b69bdd983a32de45be32caf7527dd69bd76#diff-67d8c473b9fc9e0c7273bdfe74b271ae5499c29652b454a5bb9289eb6bd24f96) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
