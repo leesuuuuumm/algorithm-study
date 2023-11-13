@@ -62,12 +62,12 @@
   <div markdown="1">
 
   ### 23.11.13 월요일
- 
+
   | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [백준_1541_잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py) | [리트코드_Min_Stack](https://leetcode.com/problems/min-stack/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Min%20Stack.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1781_컵라면](https://www.acmicpc.net/problem/1781) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1781_컵라면.java) | [백준_11729_하노이탑이동순서](https://www.acmicpc.net/problem/11729) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11729_하노이탑이동순서.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
