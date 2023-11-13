@@ -69,7 +69,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1781_컵라면](https://www.acmicpc.net/problem/1781) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1781_컵라면.java) | [백준_11729_하노이탑이동순서](https://www.acmicpc.net/problem/11729) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11729_하노이탑이동순서.java) |
   | 이수민 | [프로그래머스 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.java) | [프로그래머스 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%95%EC%B6%95.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 13144_List of Unique Numbers](https://www.acmicpc.net/problem/13144) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/List%20of%20Unique%20Numbers.java) | [백준 1253_좋다](https://www.acmicpc.net/problem/1253) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%A2%8B%EB%8B%A4.java) |
 
   ### 23.11.14 화요일
  
