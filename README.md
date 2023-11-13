@@ -71,5 +71,15 @@
   | 이수민 | [프로그래머스 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.java) | [프로그래머스 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%95%EC%B6%95.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
+  ### 23.11.14 화요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
   </div>
   </details>
