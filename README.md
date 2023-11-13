@@ -67,7 +67,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_1781_컵라면](https://www.acmicpc.net/problem/1781) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1781_컵라면.java) | []() | [✔]() |
+  | 이명범 | [백준_1781_컵라면](https://www.acmicpc.net/problem/1781) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1781_컵라면.java) | [백준_11729_하노이탑이동순서](https://www.acmicpc.net/problem/11729) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11729_하노이탑이동순서.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
