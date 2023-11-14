@@ -78,7 +78,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1015_수열정렬](https://www.acmicpc.net/problem/1015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1015_수열정렬.java) [백준_1613_역사](https://www.acmicpc.net/problem/1613) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1613_역사.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 14719_빗물](https://www.acmicpc.net/source/69271102) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B9%97%EB%AC%BC.java) | [프로그래머스 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   </div>
