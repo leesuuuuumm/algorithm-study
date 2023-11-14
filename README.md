@@ -13,7 +13,7 @@
 
   ### 23.11.07 화요일
  
-  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------:  | :-----:  | :-----------:  | :-----:  | 
   | 김도형 | [리트코드_15_3Sum](https://leetcode.com/problems/3sum/)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/3Sum.py) | [프로그래머스_[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py) |
   | 신민선 | [백준 1300_K번째 수](https://www.acmicpc.net/problem/1300)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/K%EB%B2%88%EC%A7%B8%20%EC%88%98.java) | [백준 2343_기타 레슨](https://www.acmicpc.net/problem/2343)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B8%B0%ED%83%80%20%EB%A0%88%EC%8A%A8.java) |
@@ -24,7 +24,7 @@
 
   ### 23.11.08 수요일
  
-  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_63_Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Unique%20Paths%20II.py) | [리트코드_11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Container%20With%20Most%20Water.py) |
   | 신민선 | [백준_1715_카드 정렬하기](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) | [백준_1744_수 묶기](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%88%98%20%EB%AC%B6%EA%B8%B0.java) |
@@ -35,7 +35,7 @@
 
   ### 23.11.09 목요일
  
-  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_92_Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Z.py) | [백준_1074_Z](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Reverse%20Linked%20List%20II.py) |
   | 신민선 | [백준_1541_잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.java) | [회의실 배정하기](https://www.acmicpc.net/problem/1931) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%ED%95%98%EA%B8%B0.java) |
@@ -84,7 +84,7 @@
  
   ### 23.11.15 수요일
  
-  | 이름 | 문제 1 | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
