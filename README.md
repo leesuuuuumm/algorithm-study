@@ -77,7 +77,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_1015_수열정렬](https://www.acmicpc.net/problem/1015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1015_수열정렬.java) | []() | [✔]() |
+  | 이명범 | [백준_1015_수열정렬](https://www.acmicpc.net/problem/1015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1015_수열정렬.java) [백준_1613_역사](https://www.acmicpc.net/problem/1613) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1613_역사.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
