@@ -90,7 +90,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1676_팩토리얼0의개수](https://www.acmicpc.net/problem/1676) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1676_팩토리얼0의개수.java) | [백준_13023_ABCDE](https://www.acmicpc.net/problem/13023) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_13023_ABCDE.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스_튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8A%9C%ED%94%8C.java) |
   
 
   </div>
