@@ -13,7 +13,7 @@
 
   ### 23.11.07 화요일
  
-  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------:  | :-----:  | :-----------:  | :-----:  | 
   | 김도형 | [리트코드_15_3Sum](https://leetcode.com/problems/3sum/)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/3Sum.py) | [프로그래머스_[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.py) |
   | 신민선 | [백준 1300_K번째 수](https://www.acmicpc.net/problem/1300)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/K%EB%B2%88%EC%A7%B8%20%EC%88%98.java) | [백준 2343_기타 레슨](https://www.acmicpc.net/problem/2343)  | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B8%B0%ED%83%80%20%EB%A0%88%EC%8A%A8.java) |
@@ -24,7 +24,7 @@
 
   ### 23.11.08 수요일
  
-  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_63_Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Unique%20Paths%20II.py) | [리트코드_11_Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Container%20With%20Most%20Water.py) |
   | 신민선 | [백준_1715_카드 정렬하기](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) | [백준_1744_수 묶기](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%88%98%20%EB%AC%B6%EA%B8%B0.java) |
@@ -35,7 +35,7 @@
 
   ### 23.11.09 목요일
  
-  | 이름 | 문제 1  | 정답코드 | 문제 2 | 정답코드 |
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_92_Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Z.py) | [백준_1074_Z](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Reverse%20Linked%20List%20II.py) |
   | 신민선 | [백준_1541_잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.java) | [회의실 배정하기](https://www.acmicpc.net/problem/1931) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95%ED%95%98%EA%B8%B0.java) |
@@ -66,20 +66,32 @@
   | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_1541_잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py) | [리트코드_Min_Stack](https://leetcode.com/problems/min-stack/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Min%20Stack.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_11689_GCD(n.k)=1](https://www.acmicpc.net/problem/11689) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/GCD(n.k)%3D1.java) | [백준 제곱ㄴㄴ](https://www.acmicpc.net/problem/1016) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%A0%9C%EA%B3%B1%E3%84%B4%E3%84%B4%EC%88%98.java) |
   | 이명범 | [백준_1781_컵라면](https://www.acmicpc.net/problem/1781) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1781_컵라면.java) | [백준_11729_하노이탑이동순서](https://www.acmicpc.net/problem/11729) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11729_하노이탑이동순서.java) |
   | 이수민 | [프로그래머스 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.java) | [프로그래머스 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%95%EC%B6%95.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 13144_List of Unique Numbers](https://www.acmicpc.net/problem/13144) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/List%20of%20Unique%20Numbers.java) | [백준 1253_좋다](https://www.acmicpc.net/problem/1253) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%A2%8B%EB%8B%A4.java) |
 
   ### 23.11.14 화요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Max%20Points%20on%20a%20Line.py) | [리트코드_Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Minimum%20Rounds%20to%20Complete%20All%20Tasks.py) |
+  | 신민선 | [백준_1033_칵테일](https://www.acmicpc.net/problem/1033) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B9%B5%ED%85%8C%EC%9D%BC.java) | [백준_1850_최대공약수](https://www.acmicpc.net/problem/1850) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98.java) |
+  | 이명범 | [백준_1015_수열정렬](https://www.acmicpc.net/problem/1015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1015_수열정렬.java) | [백준_1613_역사](https://www.acmicpc.net/problem/1613) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1613_역사.java) |
+  | 이수민 | [백준 14719_빗물](https://www.acmicpc.net/source/69271102) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B9%97%EB%AC%BC.java) | [프로그래머스 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) |
+  | 이승민 | [백준 1941_소문난 칠공주](https://www.acmicpc.net/problem/1941) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%86%8C%EB%AC%B8%EB%82%9C%20%EC%B9%A0%EA%B3%B5%EC%A3%BC.java) | [프로그래머스_괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) |
+ 
+ 
+  ### 23.11.15 수요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | [백준_1713_후보 추천하기](https://www.acmicpc.net/problem/1713) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%9B%84%EB%B3%B4%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0.py) | [리트코드_Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Trapping%20Rain%20Water.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1676_팩토리얼0의개수](https://www.acmicpc.net/problem/1676) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1676_팩토리얼0의개수.java) | [백준_13023_ABCDE](https://www.acmicpc.net/problem/13023) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_13023_ABCDE.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
+  
 
   </div>
   </details>
