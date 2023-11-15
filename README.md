@@ -89,9 +89,18 @@
   | 김도형 | [백준_1713_후보 추천하기](https://www.acmicpc.net/problem/1713) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%9B%84%EB%B3%B4%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0.py) | [리트코드_Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Trapping%20Rain%20Water.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 20920_영단어 암기는 괴로워](https://www.acmicpc.net/problem/20920) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%81%EB%8B%A8%EC%96%B4%20%EC%95%94%EA%B8%B0%EB%8A%94%20%EA%B4%B4%EB%A1%9C%EC%9B%8C.java) | [백준 1522_문자열 교환](https://www.acmicpc.net/problem/1522) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B5%90%ED%99%98.java) |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
+  ### 23.11.16 목요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
-  
 
   </div>
   </details>
