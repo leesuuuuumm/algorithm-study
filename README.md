@@ -88,7 +88,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_1713_후보 추천하기](https://www.acmicpc.net/problem/1713) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%9B%84%EB%B3%B4%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0.py) | [리트코드_Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Trapping%20Rain%20Water.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_1676_팩토리얼0의개수](https://www.acmicpc.net/problem/1676) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1676_팩토리얼0의개수.java) | []() | [✔]() |
+  | 이명범 | [백준_1676_팩토리얼0의개수](https://www.acmicpc.net/problem/1676) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_1676_팩토리얼0의개수.java) | [백준_13023_ABCDE](https://www.acmicpc.net/problem/13023) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_13023_ABCDE.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
   
