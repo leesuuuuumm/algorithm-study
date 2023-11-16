@@ -100,7 +100,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 1992_쿼드트리](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java) | [백준 16918_봄버맨](https://www.acmicpc.net/problem/16918) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B4%84%EB%B2%84%EB%A7%A8.java) |
 
 
   </div>
