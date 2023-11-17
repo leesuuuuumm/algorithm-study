@@ -111,7 +111,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [백준 2493_탑](https://www.acmicpc.net/problem/2493) | [✔]() | [프로그래머스 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [✔]() |
+  | 이수민 | [백준 2493_탑](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%91.java) | [프로그래머스 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
   
   </div>
