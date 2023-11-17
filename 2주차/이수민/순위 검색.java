@@ -1,6 +1,6 @@
 import java.util.*;
 
- 
+  
 class Solution {
     static HashMap<String, List<Integer>> map;
  
