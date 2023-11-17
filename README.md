@@ -104,7 +104,7 @@
   | 이승민 | [백준 1992_쿼드트리](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java) | [백준 16918_봄버맨](https://www.acmicpc.net/problem/16918) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B4%84%EB%B2%84%EB%A7%A8.java) |
 
     
-  ### 23.11.16 금요일
+  ### 23.11.17 금요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -112,7 +112,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_2212_센서.java) | [백준_11779_최소비용구하기2(G3)](https://www.acmicpc.net/problem/11779) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11779_최소비용구하기2.java) |
   | 이수민 | [백준 2493_탑](https://www.acmicpc.net/problem/2493) | [✔]() | [프로그래머스 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%94%BC%EB%A1%9C%EB%8F%84.java) | [프로그래머스_[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
   
   </div>
   </details>
