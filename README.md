@@ -110,7 +110,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_2212_센서.java) | []() | [✔]() |
+  | 이명범 | [백준_2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_2212_센서.java) | [백준_11779_최소비용구하기2(G3)](https://www.acmicpc.net/problem/11779) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11779_최소비용구하기2.java) |
   | 이수민 | [백준 2493_탑](https://www.acmicpc.net/problem/2493) | [✔]() | [프로그래머스 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
   
