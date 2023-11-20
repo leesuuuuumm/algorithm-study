@@ -128,7 +128,7 @@
   | 김도형 | [프로그래머스_행렬 테두리 회전하기(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) | [리트코드_House_Robber_ii_(Medium)](https://leetcode.com/problems/house-robber-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/house%20robber%20ii.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1138_한 줄로 서기](https://www.acmicpc.net/problem/1138) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%9C%20%EC%A4%84%EB%A1%9C%20%EC%84%9C%EA%B8%B0.java) | [프로그래머스 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.java) |
   | 이승민 | [프로그래머스_모음사전(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.java) | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.java) |
   
 
