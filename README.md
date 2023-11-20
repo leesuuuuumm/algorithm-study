@@ -109,10 +109,71 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_16928_뱀과 사다리 게임(골드5)](https://www.acmicpc.net/problem/16928) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EB%B1%80%EA%B3%BC%20%EC%82%AC%EB%8B%A4%EB%A6%AC%20%EA%B2%8C%EC%9E%84.py) | [백준_2630_색종이 만들기(실버2)](https://www.acmicpc.net/problem/2630) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%83%89%EC%A2%85%EC%9D%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_1717_집합의 표현(G5)](https://www.acmicpc.net/problem/1717) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.java) | [백준_1976_여행 가자(G4)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.java) |
   | 이명범 | [백준_2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_2212_센서.java) | [백준_11779_최소비용구하기2(G3)](https://www.acmicpc.net/problem/11779) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2주차/이명범/Main_11779_최소비용구하기2.java) |
   | 이수민 | [백준 2493_탑(G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%91.java) | [프로그래머스 순위 검색(lv2)](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.java) |
   | 이승민 | [프로그래머스_피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%94%BC%EB%A1%9C%EB%8F%84.java) | [프로그래머스_[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/2%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
+  
+  </div>
+  </details>
+
+<details>
+  <summary>3주차</summary>
+  <div markdown="1">
+
+  ### 23.11.20 월요일
+
+  | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | [프로그래머스_행렬 테두리 회전하기(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) | [리트코드_House_Robber_ii_(Medium)](https://leetcode.com/problems/house-robber-ii/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/house%20robber%20ii.py) |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_모음사전(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.java) | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.java) |
+  
+
+  ### 23.11.21 화요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
+
+  ### 23.11.22 수요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
+
+  ### 23.11.23 목요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
+
+  ### 23.11.24 금요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
   
   </div>
   </details>
