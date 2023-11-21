@@ -140,7 +140,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1939_중량제한(G3)](https://www.acmicpc.net/problem/1939) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_1939_중량제한.java) | [백준_17780_새로운게임(G2)](https://www.acmicpc.net/problem/17780) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_17780_새로운게임.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [프로그래머스_뒤에 있는 큰 수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) |
 
 
   ### 23.11.22 수요일
