@@ -43,7 +43,7 @@ class Solution {
                 p+= (10-i);
             }
         }
-        if(max<r-p){           
+        if(max<r-p){   
             for(int i=0;i<ryan.length;i++){
                 answer[i] = ryan[i];
             }
