@@ -151,7 +151,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_8983_사냥꾼(G4)](https://www.acmicpc.net/problem/8983) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_8983_사냥꾼.java) | [프로그래머스_표병합(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_표병합.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 1600_말이 되고픈 원숭이(G3)](https://www.acmicpc.net/problem/1600) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4.java) | [백준 13022_늑대와 올바른 단어(S2)](https://www.acmicpc.net/problem/13022) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%8A%91%EB%8C%80%EC%99%80%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%8B%A8%EC%96%B4.java) |
 
 
   ### 23.11.23 목요일
