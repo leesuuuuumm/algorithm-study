@@ -150,7 +150,7 @@
   | 김도형 | [프로그래머스_[3차] n진수 게임(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) | [프로그래머스_[3차] 압축(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | [✔]() | [프로그래머스 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 
