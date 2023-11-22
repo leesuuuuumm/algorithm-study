@@ -1,6 +1,6 @@
 def solution(n, t, m, p):
     def solve(x, k):
-        s = "0"
+        s = ""
         while x:
             tmp = str(x % k)
 
@@ -22,10 +22,8 @@ def solution(n, t, m, p):
 
         return s[::-1]
 
-    max_length = 0
-    num = ''
+    num = '0'
     for i in range(1, m * t):
         num += solve(i, n)
-        max_length += len(num)
 
     return num[p-1::m][:t]
