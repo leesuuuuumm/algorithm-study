@@ -150,7 +150,7 @@
   | 김도형 | [프로그래머스_[3차] n진수 게임(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) | [프로그래머스_[3차] 압축(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [프로그래머스 코딩 테스트 공부(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | [✔]() | [프로그래머스 합승 택시 요금(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [✔]() |
+  | 이수민 | [프로그래머스 후보키(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%9B%84%EB%B3%B4%ED%82%A4.java) | [프로그래머스 프렌즈4블록(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 
