@@ -149,7 +149,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [프로그래머스_[3차] n진수 게임(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) | [프로그래머스_[3차] 압축(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_8983_사냥꾼(G4)](https://www.acmicpc.net/problem/8983) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_8983_사냥꾼.java) | []() | [✔]() |
+  | 이명범 | [백준_8983_사냥꾼(G4)](https://www.acmicpc.net/problem/8983) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_8983_사냥꾼.java) | [프로그래머스_표병합(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_표병합.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
