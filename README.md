@@ -136,7 +136,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
+  | 김도형 | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677(Lv.2)) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py) | [k진수에서 소수 개수 구하기(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |
   | 신민선 | [백준_1516_게임개발(G3)](https://www.acmicpc.net/problem/1516) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C.java) | [백준_16931_겉넓이 구하기(S2)](https://www.acmicpc.net/problem/16931) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B2%89%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
   | 이명범 | [백준_1939_중량제한(G3)](https://www.acmicpc.net/problem/1939) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_1939_중량제한.java) | [백준_17780_새로운게임(G2)](https://www.acmicpc.net/problem/17780) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_17780_새로운게임.java) |
   | 이수민 | [프로그래머스 양궁대회(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.java) | [프로그래머스 보석 쇼핑(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.java) |
@@ -147,7 +147,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [프로그래머스_[3차] n진수 게임(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) | [프로그래머스_[3차] 압축(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
