@@ -148,7 +148,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [프로그래머스_[3차] n진수 게임(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.py) | [프로그래머스_[3차] 압축(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%5B3%EC%B0%A8%5D%20%EC%95%95%EC%B6%95.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [SWEA_1248_공통조상(D5)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B3%B5%ED%86%B5%EC%A1%B0%EC%83%81.java) | [SWEA_10806_수 만들기(D6)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXTC4piqD_IDFASe) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
   | 이명범 | [백준_8983_사냥꾼(G4)](https://www.acmicpc.net/problem/8983) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_8983_사냥꾼.java) | [프로그래머스_표병합(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_표병합.java) |
   | 이수민 | [프로그래머스 후보키(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%9B%84%EB%B3%B4%ED%82%A4.java) | [프로그래머스 프렌즈4블록(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.java) |
   | 이승민 | [백준 1600_말이 되고픈 원숭이(G3)](https://www.acmicpc.net/problem/1600) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4.java) | [백준 13022_늑대와 올바른 단어(S2)](https://www.acmicpc.net/problem/13022) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%8A%91%EB%8C%80%EC%99%80%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%8B%A8%EC%96%B4.java) |
@@ -159,11 +159,11 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Word Search II(hard)](https://leetcode.com/problems/word-search-ii/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Word%20Search%20II.java)) | [리트코드_Minimum Genetic Mutation(medium)](https://leetcode.com/problems/minimum-genetic-mutation/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Minimum%20Genetic%20Mutation.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_카카오프렌즈컬러링북(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_카카오프렌즈컬러링북.java) | [프로그래머스_양궁대회(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_양궁대회.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 21608_상어 초등학교(G5)](https://www.acmicpc.net/problem/21608) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.java) | [백준 17276_배열 돌리기(S2)](https://www.acmicpc.net/problem/17276) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.java) |
 
 
   ### 23.11.24 금요일
