@@ -170,7 +170,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Longest Substring Without Repeating Characters(medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Longest%20Substring%20Without%20Repeating%20Characters.py) | [백준_주사위_굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
