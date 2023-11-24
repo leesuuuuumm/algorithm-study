@@ -172,7 +172,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_Longest Substring Without Repeating Characters(medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Longest%20Substring%20Without%20Repeating%20Characters.py) | [백준_주사위_굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_9944_NxM보드완주하기](https://www.acmicpc.net/problem/9944) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_9944_NxM보드완주하기.java) | []() | [✔]() |
+  | 이명범 | [백준_9944_NxM보드완주하기](https://www.acmicpc.net/problem/9944) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_9944_NxM보드완주하기.java) | [프로그래머스_이모티콘할인행사(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_이모티콘할인행사.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [백준 14719_빗물(G5)](https://www.acmicpc.net/problem/14719) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B9%97%EB%AC%BC.java) | [백준 16926_배열 돌리기 1(S1)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201.java) |
   
