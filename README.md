@@ -160,7 +160,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_Word Search II(hard)](https://leetcode.com/problems/word-search-ii/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Word%20Search%20II.java)) | [리트코드_Minimum Genetic Mutation(medium)](https://leetcode.com/problems/minimum-genetic-mutation/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Minimum%20Genetic%20Mutation.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_1948_임계경로(P5)](https://www.acmicpc.net/problem/1948) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%9E%84%EA%B3%84%EA%B2%BD%EB%A1%9C.java) | [백준_1753_최단경로(G4)](https://www.acmicpc.net/problem/1753) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.java) |
   | 이명범 | [프로그래머스_카카오프렌즈컬러링북(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_카카오프렌즈컬러링북.java) | [프로그래머스_양궁대회(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_양궁대회.java) |
   | 이수민 | [백준 2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%BC%EC%84%9C.java) | [백준 16918_봄버맨(S1)](https://www.acmicpc.net/problem/16918) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B4%84%EB%B2%84%EB%A7%A8.java) |
   | 이승민 | [백준 21608_상어 초등학교(G5)](https://www.acmicpc.net/problem/21608) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.java) | [백준 17276_배열 돌리기(S2)](https://www.acmicpc.net/problem/17276) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.java) |
@@ -170,11 +170,11 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Longest Substring Without Repeating Characters(medium)](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Longest%20Substring%20Without%20Repeating%20Characters.py) | [백준_주사위_굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_9944_NxM보드완주하기](https://www.acmicpc.net/problem/9944) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Main_9944_NxM보드완주하기.java) | [프로그래머스_이모티콘할인행사(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3주차/이명범/Solution_이모티콘할인행사.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 14719_빗물(G5)](https://www.acmicpc.net/problem/14719) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B9%97%EB%AC%BC.java) | [백준 16926_배열 돌리기 1(S1)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/3%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201.java) |
   
   </div>
   </details>
