@@ -189,7 +189,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_4195_친구네트워크(G2)](https://www.acmicpc.net/problem/4195) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_4195_친구네트워크.java) | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [백준 1744번_수 묶기(G4)](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%88%98%20%EB%AC%B6%EA%B8%B0.java) | [프로그래머스_다음 큰 숫자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.java) |
 
