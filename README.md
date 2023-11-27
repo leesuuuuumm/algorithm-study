@@ -187,7 +187,7 @@
 
   | 이름 | 문제 1  | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_740. Delete and Earn(medium)](https://leetcode.com/problems/delete-and-earn/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/delete-and-earn.py) | [리트코드_1335. Minimum Difficulty of a Job Schedule(hard)](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/minimum-difficulty-of-a-job-schedule.java) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_4195_친구네트워크(G2)](https://www.acmicpc.net/problem/4195) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_4195_친구네트워크.java) | [백준_7570_줄세우기(G3)](https://www.acmicpc.net/problem/7570) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_7570_줄세우기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
