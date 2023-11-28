@@ -200,7 +200,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [프로그래머스 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [✔]() | [백준 20437_문자열 게임 2](https://www.acmicpc.net/problem/20437) | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 </div>
