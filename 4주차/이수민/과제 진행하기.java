@@ -70,8 +70,7 @@ class Solution {
                     }
                 }
             }
-        } n
-        
+        } 
         return answer;
     }
 }
