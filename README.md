@@ -200,7 +200,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [프로그래머스 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [✔]() | [백준 20437_문자열 게임 2](https://www.acmicpc.net/problem/20437) | [✔]() |
+  | 이수민 | [프로그래머스 과제 진행하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%BC%EC%A0%9C%20%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0.java) | [백준 20437_문자열 게임 2(G5)](https://www.acmicpc.net/problem/20437) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B2%8C%EC%9E%84%202.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 </div>
