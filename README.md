@@ -212,7 +212,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 
 
 ### 23.11.30 목요일
