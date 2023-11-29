@@ -211,7 +211,7 @@
   | 김도형 | [백준_9019_DSLR(G4)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/DSLR.py) | [백준_18870_좌표 압축(S2)](https://www.acmicpc.net/problem/18870) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 호텔 대실(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.java) | [백준 4179_불!](https://www.acmicpc.net/problem/4179) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B6%88!.java) |
   | 이승민 | [프로그래머스_스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 
 
@@ -226,7 +226,7 @@
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 
-### 23.12.01 금요일
+### 23.12.01 금요일 
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
