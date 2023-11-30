@@ -209,8 +209,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_9019_DSLR(G4)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/DSLR.py) | [백준_18870_좌표 압축(S2)](https://www.acmicpc.net/problem/18870) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [프로그래머스_42578_의상(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%9D%98%EC%83%81.java) | [프로그래머스_42577_전화번호 목록(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) |
+  | 이명범 | [백준_1911_흙길보수하기(G5)](https://www.acmicpc.net/problem/1911) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_1911_흙길보수하기.java) | [백준_19598_최소회의실개수(G5)](https://www.acmicpc.net/problem/19598) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_19598_최소회의실개수.java) |
   | 이수민 | [프로그래머스 호텔 대실(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.java) | [백준 4179_불!(G4)](https://www.acmicpc.net/problem/4179) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B6%88!.java) |
   | 이승민 | [프로그래머스_스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 
@@ -219,11 +219,11 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_542. 01 Matrix(medium)](https://leetcode.com/problems/01-matrix/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/01%20Matrix.py) | [리트코드_36. Valid Sudoku(medium)](https://leetcode.com/problems/valid-sudoku/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Valid%20sudoku.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_12015_가장긴증가하는부분수열2(G2)](https://www.acmicpc.net/problem/12015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_12015_가장긴증가하는부분수열2.java) | [백준_21278_호석이두마리치킨(G5)](https://www.acmicpc.net/problem/21278) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_21278_호석이두마리치킨.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 11779_최소 비용 구하기 2(G3)](https://www.acmicpc.net/problem/11779) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%B5%9C%EC%86%8C%20%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.java) | [백준 4485_녹색 옷 입은 애가 젤다지?(G4)](https://www.acmicpc.net/problem/4485) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80.java) |
 
 
 ### 23.12.01 금요일 
