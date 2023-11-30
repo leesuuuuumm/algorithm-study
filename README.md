@@ -223,7 +223,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_12015_가장긴증가하는부분수열2(G2)](https://www.acmicpc.net/problem/12015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_12015_가장긴증가하는부분수열2.java) | [백준_21278_호석이두마리치킨(G5)](https://www.acmicpc.net/problem/21278) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_21278_호석이두마리치킨.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 11779_최소 비용 구하기 2(G3)](https://www.acmicpc.net/problem/11779) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%B5%9C%EC%86%8C%20%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%202.java) | [백준 4485_녹색 옷 입은 애가 젤다지?(G4)](https://www.acmicpc.net/problem/4485) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%85%B9%EC%83%89%20%EC%98%B7%20%EC%9E%85%EC%9D%80%20%EC%95%A0%EA%B0%80%20%EC%A0%A4%EB%8B%A4%EC%A7%80.java) |
 
 
 ### 23.12.01 금요일 
