@@ -219,7 +219,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_542. 01 Matrix(medium)](https://leetcode.com/problems/01-matrix/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/01%20Matrix.py) | [리트코드_36. Valid Sudoku(medium)](https://leetcode.com/problems/valid-sudoku/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Valid%20sudoku.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_12015_가장긴증가하는부분수열2(G2)](https://www.acmicpc.net/problem/12015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_12015_가장긴증가하는부분수열2.java) | [백준_21278_호석이두마리치킨(G5)](https://www.acmicpc.net/problem/21278) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_21278_호석이두마리치킨.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
