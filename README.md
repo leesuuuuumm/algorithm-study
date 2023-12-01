@@ -230,7 +230,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_142. Linked List Cycle II(medium)](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Linked%20List%20Cycle%20II.py) | [리트코드_334. Increasing Triplet Subsequence(medium)](https://leetcode.com/problems/increasing-triplet-subsequence/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Increasing%20Triplet%20Subsequence.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
