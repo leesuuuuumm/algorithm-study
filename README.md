@@ -234,7 +234,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_오픈채팅방(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java) | [프로그래머스_[3차] 파일명 정렬(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.java) |
   
 
   
