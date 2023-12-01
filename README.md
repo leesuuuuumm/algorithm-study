@@ -232,7 +232,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_142. Linked List Cycle II(medium)](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Linked%20List%20Cycle%20II.py) | [리트코드_334. Increasing Triplet Subsequence(medium)](https://leetcode.com/problems/increasing-triplet-subsequence/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Increasing%20Triplet%20Subsequence.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_1016_제곱ㄴㄴ수(G1)](https://www.acmicpc.net/problem/1016) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_1016_제곱ㄴㄴ수.java) | []() | [✔]() |
+  | 이명범 | [백준_1016_제곱ㄴㄴ수(G1)](https://www.acmicpc.net/problem/1016) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_1016_제곱ㄴㄴ수.java) | [백준_2533_사회망서비스(G3)](https://www.acmicpc.net/problem/2533) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4주차/이명범/Main_2533_사회망서비스.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [프로그래머스_오픈채팅방(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java) | [프로그래머스_[3차] 파일명 정렬(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.java) |
   
