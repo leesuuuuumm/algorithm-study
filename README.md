@@ -252,7 +252,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 14620_꽃길(S2)](https://www.acmicpc.net/problem/14620) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%BD%83%EA%B8%B8.java) | [백준 1987_알파벳(G4)](https://www.acmicpc.net/problem/1987) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%95%8C%ED%8C%8C%EB%B2%B3.java) |
 
 
   ### 23.12.05 화요일
