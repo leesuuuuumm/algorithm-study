@@ -236,7 +236,24 @@
   | 이수민 | [프로그래머스 택배상자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.java) | [프로그래머스 괄호 회전하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) |
   | 이승민 | [프로그래머스_오픈채팅방(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java) | [프로그래머스_[3차] 파일명 정렬(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/4%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.java) |
   
-
   
 </div>
 </details>
+
+ <details>
+  <summary>5주차</summary>
+  <div markdown="1">
+
+   ### 23.12.04 월요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
+ 
+  </div>
+  </details>
