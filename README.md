@@ -263,7 +263,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [프로그래머스 무인도 여행(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.java) | [백준 1976_여행 가자(G4)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_숫자 변환하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) | [프로그래머스_롤케이크 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
 
 
   ### 23.12.06 요일
