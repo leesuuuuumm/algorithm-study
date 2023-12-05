@@ -262,7 +262,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 무인도 여행(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.java) | [백준 1976_여행 가자(G4)](https://www.acmicpc.net/problem/1976) | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 
