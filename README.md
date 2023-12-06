@@ -274,7 +274,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_16398_행성연결(G4)](https://www.acmicpc.net/problem/16398) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_16398_행성연결.java) | [백준_18405_경쟁적전염(G5)](https://www.acmicpc.net/problem/18405) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_18405_경쟁적전염.java) |
   | 이수민 | [프로그래머스 마법의 엘리베이터(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EB%B2%95%EC%9D%98%20%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0.java) | [프로그래머스 괄호 변환(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 1719_택배(G3)](https://www.acmicpc.net/problem/1719) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%83%9D%EB%B0%B0.java) | [백준 15565_귀여운 라이언(S1)](https://www.acmicpc.net/problem/15565) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.java) |
 
 
   ### 23.12.07 목요일
