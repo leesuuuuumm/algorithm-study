@@ -272,7 +272,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_16398_행성연결(G4)](https://www.acmicpc.net/problem/16398) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_16398_행성연결.java) | []() | [✔]() |
+  | 이명범 | [백준_16398_행성연결(G4)](https://www.acmicpc.net/problem/16398) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_16398_행성연결.java) | [백준_18405_경쟁적전염(G5)](https://www.acmicpc.net/problem/18405) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_18405_경쟁적전염.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
