@@ -270,18 +270,18 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [백준_1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EA%B1%B0%EC%A7%93%EB%A7%90.py) | [백준_1976_여행 가자(G5)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%97%AC%ED%96%89%20%EA%B0%80%EC%9E%90.py) |
+  | 신민선 | [백준_9663_N-Queen(G4)](https://www.acmicpc.net/problem/9663) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/N-Queen.java) | [백준_14888_연산자 끼워넣기(S1)](https://www.acmicpc.net/problem/14888) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java) |
   | 이명범 | [백준_16398_행성연결(G4)](https://www.acmicpc.net/problem/16398) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_16398_행성연결.java) | [백준_18405_경쟁적전염(G5)](https://www.acmicpc.net/problem/18405) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_18405_경쟁적전염.java) |
   | 이수민 | [프로그래머스 마법의 엘리베이터(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EB%B2%95%EC%9D%98%20%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0.java) | [프로그래머스 괄호 변환(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 1719_택배(G3)](https://www.acmicpc.net/problem/1719) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%83%9D%EB%B0%B0.java) | [백준 15565_귀여운 라이언(S1)](https://www.acmicpc.net/problem/15565) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%EC%96%B8.java) |
 
 
   ### 23.12.07 목요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [백준_2493_탑(G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%83%91.py) | [코드트리_Carry 피하기 2(어려움)](https://www.codetree.ai/missions/5/problems/escaping-carry-2/description) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Carry%20%ED%94%BC%ED%95%98%EA%B8%B02.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
