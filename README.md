@@ -284,7 +284,7 @@
   | 김도형 | [백준_2493_탑(G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%83%91.py) | [코드트리_Carry 피하기 2(어려움)](https://www.codetree.ai/missions/5/problems/escaping-carry-2/description) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Carry%20%ED%94%BC%ED%95%98%EA%B8%B02.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2230_수 고르기(G5)](https://www.acmicpc.net/problem/2230) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) | [프로그래머스 미로 탈출(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
 
