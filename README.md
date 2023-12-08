@@ -296,7 +296,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_디펜스 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/142085#qna) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.java) | [프로그래머스_2개 이하로 다른 비트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.java) |
 
 
    ### 23.12.05 화요일
