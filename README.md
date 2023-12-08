@@ -292,7 +292,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_400_Nth Digit(medium)](https://leetcode.com/problems/nth-digit/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Nth%20digit.py) | [리트코드_457_Circular Array Loop(medium)](https://leetcode.com/problems/circular-array-loop/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Circular%20Array%20Loop.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
