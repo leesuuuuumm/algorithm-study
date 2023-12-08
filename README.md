@@ -283,20 +283,20 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_2493_탑(G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%ED%83%91.py) | [코드트리_Carry 피하기 2(어려움)](https://www.codetree.ai/missions/5/problems/escaping-carry-2/description) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Carry%20%ED%94%BC%ED%95%98%EA%B8%B02.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_6198_옥상정원꾸미기(G5)](https://www.acmicpc.net/problem/6195) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_6198_옥상정원꾸미기.java) | [백준_16974_레벨햄버거(G5)](https://www.acmicpc.net/problem/16974) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_16974_레벨햄버거.java) |
   | 이수민 | [백준 2230_수 고르기(G5)](https://www.acmicpc.net/problem/2230) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) | [프로그래머스 미로 탈출(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_[3차] n진수 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.java) | [프로그래머스_택배상자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.java) |
 
 
   ### 23.12.08 금요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_400_Nth Digit(medium)](https://leetcode.com/problems/nth-digit/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Nth%20digit.py) | [리트코드_457_Circular Array Loop(medium)](https://leetcode.com/problems/circular-array-loop/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Circular%20Array%20Loop.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1461_도서관(G5)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_1461_도서관.java) | [백준_2318_전구와스위치(G5)](https://www.acmicpc.net/problem/2318) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_2318_전구와스위치.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [프로그래머스_디펜스 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/142085#qna) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.java) | [프로그래머스_2개 이하로 다른 비트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.java) |
 
 
    ### 23.12.05 화요일
