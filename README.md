@@ -294,7 +294,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_400_Nth Digit(medium)](https://leetcode.com/problems/nth-digit/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Nth%20digit.py) | [리트코드_457_Circular Array Loop(medium)](https://leetcode.com/problems/circular-array-loop/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Circular%20Array%20Loop.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_1461_도서관(G5)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_1461_도서관.java) | []() | [✔]() |
+  | 이명범 | [백준_1461_도서관(G5)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_1461_도서관.java) | [백준_2318_전구와스위치(G5)](https://www.acmicpc.net/problem/2318) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5주차/이명범/Main_2318_전구와스위치.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [프로그래머스_디펜스 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/142085#qna) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.java) | [프로그래머스_2개 이하로 다른 비트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/5%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.java) |
 
