@@ -311,7 +311,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_4_Median of Two Sorted Arrays(hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Median%20of%20Two%20Sorted%20Arrays.py) | [백준_1024_수열의 합(S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_7682_틱택토(G5)](https://www.acmicpc.net/problem/7682) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_7682_틱택토.java) | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.java) | [프로그래머스_큰 수 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
