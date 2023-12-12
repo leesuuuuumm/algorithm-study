@@ -305,11 +305,21 @@
   <summary>6주차</summary>
   <div markdown="1">
 
-   ### 23.12.05 화요일
+   ### 23.12.11 월요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_4_Median of Two Sorted Arrays(hard)](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Median%20of%20Two%20Sorted%20Arrays.py) | [백준_1024_수열의 합(S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.py) |
+  | 신민선 | [백준_200400_사이클 게임(G4)](https://github.com/kimdozzi/algorithm-study/edit/main/README.md) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%82%AC%EC%9D%B4%ED%81%B4%20%EA%B2%8C%EC%9E%84.java) | [백준_1991_트리 순회(S1)](https://www.acmicpc.net/problem/1991) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.java) |
+  | 이명범 | [백준_7682_틱택토(G5)](https://www.acmicpc.net/problem/7682) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_7682_틱택토.java) | [프로그래머스_문자열압축(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Solution_문자열압축.java) |
+  | 이수민 | [프로그래머스 스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) | [프로그래머스 멀쩡한 사각형(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.java) |
+  | 이승민 | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.java) | [프로그래머스_큰 수 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+
+   ### 23.12.12 화요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
