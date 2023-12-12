@@ -322,7 +322,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 뒤에 있는 큰 수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) | [프로그래머스 숫자 변환하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) |
   | 이승민 | [프로그래머스_소수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) | [프로그래머스_연속된 부분 수열의 합(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.java) |
 
   ### 23.12.13 수요일
