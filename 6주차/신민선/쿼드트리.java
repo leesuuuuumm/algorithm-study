@@ -1,7 +1,7 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-public class a1992 {
+import java.io.*;
+import java.util.*;
+
+public class Main {
     static char[][] board;
     static StringBuilder sb = new StringBuilder();
     public static void main(String[] args) throws IOException {
