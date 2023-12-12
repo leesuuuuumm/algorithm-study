@@ -315,6 +315,16 @@
   | 이수민 | [프로그래머스 스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) | [프로그래머스 멀쩡한 사각형(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/62048) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.java) |
   | 이승민 | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.java) | [프로그래머스_큰 수 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
+   ### 23.12.12 화요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
+
   </div>
 </details>
 
