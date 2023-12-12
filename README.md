@@ -320,7 +320,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_11444_피보나치 수 6(G2)](https://www.acmicpc.net/problem/11444) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%206.java) | [백준_1992_쿼드트리(S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [프로그래머스_소수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) | [프로그래머스_연속된 부분 수열의 합(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.java) |
