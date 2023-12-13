@@ -332,7 +332,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 할인 행사(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java) | [프로그래머스 피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%BC%EB%A1%9C%EB%8F%84.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.14 목요일
