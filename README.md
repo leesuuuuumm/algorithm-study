@@ -343,7 +343,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 12865_평범한 배낭(G5)](https://www.acmicpc.net/problem/12865) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.java) | [백준 10844_쉬운 계단 수(S1)](https://www.acmicpc.net/problem/10844) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.java) |
 
   ### 23.12.15 금요일
  
