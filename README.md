@@ -329,17 +329,17 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_6. Zigzag Conversion(medium)](https://leetcode.com/problems/zigzag-conversion/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Zigzag%20Conversion.py) | [리트코드_7. Reverse Integer(medium)](https://leetcode.com/problems/reverse-integer/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Reverse%20Integer.py) |
+  | 신민선 | [백준_11657_타임머신(G4)](https://www.acmicpc.net/problem/11657) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0.java) | [백준_18870_좌표 압축(S2)](https://www.acmicpc.net/problem/18870) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.java) |
+  | 이명범 | [백준_1744_수묶기(G4)](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_1744_수묶기.java) | [백준_2230_수고르기(G5)](https://www.acmicpc.net/problem/2230) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_2230_수고르기.java) |
   | 이수민 | [프로그래머스 할인 행사(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java) | [프로그래머스 피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%BC%EB%A1%9C%EB%8F%84.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 2206_벽 부수고 이동하기(G3)](https://www.acmicpc.net/problem/2206) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java) | [백준 21939_문제 추천 시스템 Version 1(G4)](https://www.acmicpc.net/problem/21939) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%AC%B8%EC%A0%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20Version%201.java) |
 
   ### 23.12.14 목요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [백준_2467_용액(G5)](https://www.acmicpc.net/problem/2467) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/2467_%EC%9A%A9%EC%95%A1.py) | [백준_2512_예산(S2)](https://www.acmicpc.net/problem/2512) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/2512_%EC%98%88%EC%82%B0.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
