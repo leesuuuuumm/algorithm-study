@@ -340,19 +340,19 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_2467_용액(G5)](https://www.acmicpc.net/problem/2467) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/2467_%EC%9A%A9%EC%95%A1.py) | [백준_2512_예산(S2)](https://www.acmicpc.net/problem/2512) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/2512_%EC%98%88%EC%82%B0.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_2447_별 찍기-10(G5)](https://www.acmicpc.net/problem/2447) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-10.java) | [백준_11729_하노이 탑 이동 순서(G5)](https://www.acmicpc.net/problem/11729) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%91%20%EC%9D%B4%EB%8F%99%20%EC%88%9C%EC%84%9C.java) |
+  | 이명범 | [백준_1039_교환(G2)](https://www.acmicpc.net/problem/1039) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_1039_교환.java) | [백준_2294_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_2294_동전2.java) |
+  | 이수민 | [프로그래머스 메뉴 리뉴얼(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.java) | [프로그래머스 문자열 압축(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.java) |
+  | 이승민 | [백준 12865_평범한 배낭(G5)](https://www.acmicpc.net/problem/12865) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.java) | [백준 10844_쉬운 계단 수(S1)](https://www.acmicpc.net/problem/10844) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.java) |
 
   ### 23.12.15 금요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [백준_11003_최솟값 찾기(P5)](https://www.acmicpc.net/problem/11003) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%B0%BE%EA%B8%B0.py) | [백준_17298_오큰수(G4)](https://www.acmicpc.net/problem/17298) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%98%A4%ED%81%B0%EC%88%98.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1024_수열의합(S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_1024_수열의합.java) | [백준_2412_암벽등반(G4)](https://www.acmicpc.net/problem/2412) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_2412_암벽등반.java) |
+  | 이수민 | [프로그래머스 연속 부분 수열 합의 개수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) | [프로그래머스 수식 최대화(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   </div>
