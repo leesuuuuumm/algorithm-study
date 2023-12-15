@@ -352,7 +352,7 @@
   | 김도형 | [백준_11003_최솟값 찾기(P5)](https://www.acmicpc.net/problem/11003) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%B0%BE%EA%B8%B0.py) | [백준_17298_오큰수(G4)](https://www.acmicpc.net/problem/17298) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%98%A4%ED%81%B0%EC%88%98.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1024_수열의합(S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_1024_수열의합.java) | [백준_2412_암벽등반(G4)](https://www.acmicpc.net/problem/2412) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_2412_암벽등반.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 연속 부분 수열 합의 개수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) | [프로그래머스 수식 최대화(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   </div>
