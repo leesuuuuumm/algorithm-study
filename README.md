@@ -350,11 +350,27 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [백준_11003_최솟값 찾기(P5)](https://www.acmicpc.net/problem/11003) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EC%B0%BE%EA%B8%B0.py) | [백준_17298_오큰수(G4)](https://www.acmicpc.net/problem/17298) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%98%A4%ED%81%B0%EC%88%98.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_1219_오민식의 고민(P5)](https://www.acmicpc.net/problem/1219) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%98%A4%EB%AF%BC%EC%8B%9D%EC%9D%98%20%EA%B3%A0%EB%AF%BC.java) | [백준_14889_스타트와 링크(S1)](https://www.acmicpc.net/problem/14889) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.java) |
   | 이명범 | [백준_1024_수열의합(S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_1024_수열의합.java) | [백준_2412_암벽등반(G4)](https://www.acmicpc.net/problem/2412) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_2412_암벽등반.java) |
   | 이수민 | [프로그래머스 연속 부분 수열 합의 개수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) | [프로그래머스 수식 최대화(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | [백준 6593_상범 빌딩(G5)](https://www.acmicpc.net/problem/6593) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%EB%B2%94%20%EB%B9%8C%EB%94%A9.java) |
 
+  </div>
+</details>
+<details>
+  <summary>7주차</summary>
+  <div markdown="1">
+    
+  ### 23.12.18 월요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | [백준_1863_스카이라인 쉬운거(G4)](https://www.acmicpc.net/problem/1863) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%20%EC%89%AC%EC%9A%B4%EA%B1%B0.py) | [백준_1715_카드 정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py) |
+  | 신민선 | [백준_1219_오민식의 고민(P5)](https://www.acmicpc.net/problem/1219) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%98%A4%EB%AF%BC%EC%8B%9D%EC%9D%98%20%EA%B3%A0%EB%AF%BC.java) | [백준_14889_스타트와 링크(S1)](https://www.acmicpc.net/problem/14889) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.java) |
+  | 이명범 | [백준_2515_전시장(G2)](https://www.acmicpc.net/problem/2515) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2515_전시장.java) | [백준_13911_집구하기(G2)](https://www.acmicpc.net/problem/13911) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/6주차/이명범/Main_13911_집구하기.java) |
+  | 이수민 | [프로그래머스 연속 부분 수열 합의 개수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) | [프로그래머스 수식 최대화(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/67257) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/6%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.java) |
+  | 이승민 | [CDT_거울에 레이저 쏘기 2(어려움)]() | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B1%B0%EC%9A%B8%EC%97%90%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EC%8F%98%EA%B8%B0%202.java) | [CDT_빙빙 돌며 숫자 사각형 채우기 2(어려움)]() | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B9%99%EB%B9%99%20%EB%8F%8C%EB%A9%B0%20%EC%88%AB%EC%9E%90%20%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B1%84%EC%9A%B0%EA%B8%B0%202.java) |
+  
   </div>
 </details>
 
