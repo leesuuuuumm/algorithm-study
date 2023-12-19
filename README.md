@@ -377,7 +377,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1976_여행가자(G4)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1976_여행가자.java) | [백준_16946_벽부수고이동하기4(G2)](https://www.acmicpc.net/problem/16946) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_16946_벽부수고이동하기4.java) |
   | 이수민 | [백준 1926_그림(S1)](https://www.acmicpc.net/problem/1926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%B8%EB%A6%BC.java) | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B0%EC%A7%93%EB%A7%90.java) |
   | 이승민 | [CDT_마라톤_중간에 택시타기(보통)](https://www.codetree.ai/missions/5/problems/taking-a-taxi-in-the-middle-of-the-marathon-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%A7%88%EB%9D%BC%ED%86%A4%20%EC%A4%91%EA%B0%84%EC%97%90%20%ED%83%9D%EC%8B%9C%ED%83%80%EA%B8%B0%202.java) | [CDT_가운데에서 시작하여 빙빙 돌기(어려움)](https://www.codetree.ai/missions/5/problems/snail-start-from-center?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EC%97%AC%20%EB%B9%99%EB%B9%99%20%EB%8F%8C%EA%B8%B0.java) |
 
