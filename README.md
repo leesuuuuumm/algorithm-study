@@ -377,7 +377,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_Maximum Sum Circular Subarray(medium)](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Maximum%20Sum%20Circular%20Subarray.py) | [리트코드_Continuous Subarrays(medium)](https://leetcode.com/problems/continuous-subarrays/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Continuous%20Subarrays.py) |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_1389_케빈 베이컨의 6단계(S1)](https://www.acmicpc.net/problem/1389) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%BC%80%EB%B9%88%20%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%206%EB%8B%A8%EA%B3%84.java) | [백준_2458_키 순서(G4)](https://www.acmicpc.net/problem/2458) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%82%A4%20%EC%88%9C%EC%84%9C.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 1926_그림(S1)](https://www.acmicpc.net/problem/1926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%B8%EB%A6%BC.java) | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B0%EC%A7%93%EB%A7%90.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
