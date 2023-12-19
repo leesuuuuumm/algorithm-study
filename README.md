@@ -371,21 +371,12 @@
   | 이수민 | [백준 7569_토마토(G5)](https://www.acmicpc.net/problem/7569) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%A0%EB%A7%88%ED%86%A0.java) | [백준 15989_1, 2, 3 더하기 4(G5)](https://www.acmicpc.net/problem/15989) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0%204.java) |
   | 이승민 | [CDT_거울에 레이저 쏘기 2(어려움)]() | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B1%B0%EC%9A%B8%EC%97%90%20%EB%A0%88%EC%9D%B4%EC%A0%80%20%EC%8F%98%EA%B8%B0%202.java) | [CDT_빙빙 돌며 숫자 사각형 채우기 2(어려움)]() | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B9%99%EB%B9%99%20%EB%8F%8C%EB%A9%B0%20%EC%88%AB%EC%9E%90%20%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B1%84%EC%9A%B0%EA%B8%B0%202.java) |
 
+ 
   ### 23.12.19 화요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_1976_여행가자(G4)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1976_여행가자.java) | [백준_16946_벽부수고이동하기4(G2)](https://www.acmicpc.net/problem/16946) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_16946_벽부수고이동하기4.java) |
-  | 이수민 | [백준 1926_그림(S1)](https://www.acmicpc.net/problem/1926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%B8%EB%A6%BC.java) | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B0%EC%A7%93%EB%A7%90.java) |
-  | 이승민 | [CDT_마라톤_중간에 택시타기(보통)](https://www.codetree.ai/missions/5/problems/taking-a-taxi-in-the-middle-of-the-marathon-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%A7%88%EB%9D%BC%ED%86%A4%20%EC%A4%91%EA%B0%84%EC%97%90%20%ED%83%9D%EC%8B%9C%ED%83%80%EA%B8%B0%202.java) | [CDT_가운데에서 시작하여 빙빙 돌기(어려움)](https://www.codetree.ai/missions/5/problems/snail-start-from-center?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EC%97%AC%20%EB%B9%99%EB%B9%99%20%EB%8F%8C%EA%B8%B0.java) |
-
-  ### 23.12.19 화요일
- 
-  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
-  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Maximum Sum Circular Subarray(medium)](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Maximum%20Sum%20Circular%20Subarray.py) | [리트코드_Continuous Subarrays(medium)](https://leetcode.com/problems/continuous-subarrays/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Continuous%20Subarrays.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 1926_그림(S1)](https://www.acmicpc.net/problem/1926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%B8%EB%A6%BC.java) | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B0%EC%A7%93%EB%A7%90.java) |
