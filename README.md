@@ -389,7 +389,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2616_소형기관차(G3)](https://www.acmicpc.net/problem/2616) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2616_소형기관차.java) | [백준_2624_동전바꿔주기](https://www.acmicpc.net/problem/2624) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2624_동전바꿔주기.java) |
   | 이수민 | [백준 13335_트럭(S1)](https://www.acmicpc.net/problem/13335) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8A%B8%EB%9F%AD.java) | [백준 14499_주사위 굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
   
