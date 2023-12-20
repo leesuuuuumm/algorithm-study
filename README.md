@@ -381,6 +381,17 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 1926_그림(S1)](https://www.acmicpc.net/problem/1926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%B8%EB%A6%BC.java) | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B0%EC%A7%93%EB%A7%90.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
+
+
+  ### 23.11.08 수요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 13335_트럭(S1)](https://www.acmicpc.net/problem/13335) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8A%B8%EB%9F%AD.java) | [백준 14499_주사위 굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
+  | 이승민 | []() | [✔]() | []() | [✔]() |
   
   </div>
 </details>
