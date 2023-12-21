@@ -383,7 +383,7 @@
   | 이승민 | [CDT_마라톤_중간에 택시타기(보통)](https://www.codetree.ai/missions/5/problems/taking-a-taxi-in-the-middle-of-the-marathon-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%A7%88%EB%9D%BC%ED%86%A4%20%EC%A4%91%EA%B0%84%EC%97%90%20%ED%83%9D%EC%8B%9C%ED%83%80%EA%B8%B0%202.java) | [CDT_가운데에서 시작하여 빙빙 돌기(어려움)](https://www.codetree.ai/missions/5/problems/snail-start-from-center?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EC%97%AC%20%EB%B9%99%EB%B9%99%20%EB%8F%8C%EA%B8%B0.java) |
 
 
-  ### 23.11.08 수요일
+  ### 23.12.20 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -392,6 +392,16 @@
   | 이명범 | [백준_2616_소형기관차(G3)](https://www.acmicpc.net/problem/2616) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2616_소형기관차.java) | [백준_2624_동전바꿔주기](https://www.acmicpc.net/problem/2624) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2624_동전바꿔주기.java) |
   | 이수민 | [백준 13335_트럭(S1)](https://www.acmicpc.net/problem/13335) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8A%B8%EB%9F%AD.java) | [백준 14499_주사위 굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
   | 이승민 | [백준 5639_이진 검색 트리(G5)](https://www.acmicpc.net/problem/5639) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC.java) | [백준 1074_Z(S1)](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/Z.java) |
+
+  ### 23.12.21 목요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김도형 | [코드트리_오목(보통)](https://www.codetree.ai/missions/5/problems/O-mok/description) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%98%A4%EB%AA%A9.py) | [코드트리_숨은 단어 찾기2(어려움)](https://www.codetree.ai/missions/5/problems/find-hidden-words-2/description) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/%EC%88%A8%EC%9D%80%20%EB%8B%A8%EC%96%B4%20%EC%B0%BE%EA%B8%B0%202.py) |
+  | 신민선 | [백준_1197_최소 스패닝 트리(G4)](https://www.acmicpc.net/problem/1197) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.java) | [백준_17103_골드바흐 파티션(S2)](https://www.acmicpc.net/problem/17103) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%20%ED%8C%8C%ED%8B%B0%EC%85%98.java) |
+  | 이명범 | [백준_2616_소형기관차(G3)](https://www.acmicpc.net/problem/2616) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2616_소형기관차.java) | [백준_2624_동전바꿔주기](https://www.acmicpc.net/problem/2624) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2624_동전바꿔주기.java) |
+  | 이수민 | [백준 13335_트럭(S1)](https://www.acmicpc.net/problem/13335) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8A%B8%EB%9F%AD.java) | [백준 14499_주사위 굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
+  | 이승민 | [CDT Carry 피하기 2(어려움)](https://www.codetree.ai/missions/5/problems/escaping-carry-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/Carry%20%ED%94%BC%ED%95%98%EA%B8%B0%202.java) | [CDT_최고의 13위치 2(보통)](https://www.codetree.ai/missions/5/problems/best-place-of-13-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%B5%9C%EA%B3%A0%EC%9D%98%2013%EC%9C%84%EC%B9%98%202.java) |
   
   </div>
 </details>
