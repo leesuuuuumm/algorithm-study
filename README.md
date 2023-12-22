@@ -402,7 +402,8 @@
   | 이명범 | [백준_1493_박스채우기(G4)](https://www.acmicpc.net/problem/1493) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1493_박스채우기.java) | [백준_14002_가장긴증가하는부분수열4(G4)](https://www.acmicpc.net/problem/14002) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_14002_가장긴증가하는부분수열4.java) |
   | 이수민 | [백준 11559_Puyo Puyo(G4)](https://www.acmicpc.net/problem/11559) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/Puyo%20Puyo.java) | [백준 2667_단지번호붙이기(S1)](https://www.acmicpc.net/problem/2667) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java) |
   | 이승민 | [CDT Carry 피하기 2(어려움)](https://www.codetree.ai/missions/5/problems/escaping-carry-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/Carry%20%ED%94%BC%ED%95%98%EA%B8%B0%202.java) | [CDT_최고의 13위치 2(보통)](https://www.codetree.ai/missions/5/problems/best-place-of-13-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%B5%9C%EA%B3%A0%EC%9D%98%2013%EC%9C%84%EC%B9%98%202.java) |
-  ### 23.12.21 목요일
+  
+  ### 23.12.22 금요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -410,7 +411,7 @@
   | 신민선 | [백준_1068_트리(G5)](https://www.acmicpc.net/problem/1068) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%8A%B8%EB%A6%AC.java) | [백준_1414_불우이웃돕기(G3)](https://www.acmicpc.net/problem/1414) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EB%B6%88%EC%9A%B0%20%EC%9D%B4%EC%9B%83%20%EB%8F%95%EA%B8%B0.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |  
+  | 이승민 | [백준 15681_트리와 쿼리(G5)](https://www.acmicpc.net/problem/15681) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8A%B8%EB%A6%AC%EC%99%80%20%EC%BF%BC%EB%A6%AC.java) | [백준 1068_트리(G5)](https://www.acmicpc.net/problem/1068) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8A%B8%EB%A6%AC.java) |  
   </div>
 </details>
 
