@@ -407,7 +407,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_pow(x,n)(medium)](https://leetcode.com/problems/powx-n/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Pow.py) | [리트코드_super_pow(medium)](https://leetcode.com/problems/super-pow/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Super%20Pow.py) |
   | 신민선 | [백준_1068_트리(G5)](https://www.acmicpc.net/problem/1068) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%8A%B8%EB%A6%AC.java) | [백준_1414_불우이웃돕기(G3)](https://www.acmicpc.net/problem/1414) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EB%B6%88%EC%9A%B0%20%EC%9D%B4%EC%9B%83%20%EB%8F%95%EA%B8%B0.java) |
   | 이명범 | [백준_1600_말이되고픈원숭이(G4)](https://www.acmicpc.net/problem/1600) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1600_말이되고픈원숭이.java) | [백준_9663_NQueen(G3)](https://www.acmicpc.net/problem/9663) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_9663_NQueen.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
