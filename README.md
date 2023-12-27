@@ -437,7 +437,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1707_이분그래프(G5)](https://www.acmicpc.net/problem/1707) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1707_이분그래프.java) | [백준_2660_회장뽑기(G4)](https://www.acmicpc.net/problem/2660) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2660_회장뽑기.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 15683_감시(G4)](https://www.acmicpc.net/problem/15683) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%90%EC%8B%9C.java) | [백준 1541_잃어버린 괄호(S2)](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
