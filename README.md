@@ -434,11 +434,11 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Fraction to Recurring Decimal(medium)](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Fraction%20to%20Recurring%20Decimal.py) | [리트코드_basic calculator ii(medium)](https://leetcode.com/problems/basic-calculator-ii/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/basic%20calculator%20ll.py) |
+  | 신민선 | [백준_1991_트리 순회(S1)](https://www.acmicpc.net/problem/1991) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.java) | [백준_5639_이진 검색 트리(G5)](https://www.acmicpc.net/problem/5639) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC.java) |
   | 이명범 | [백준_1707_이분그래프(G5)](https://www.acmicpc.net/problem/1707) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1707_이분그래프.java) | [백준_2660_회장뽑기(G4)](https://www.acmicpc.net/problem/2660) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2660_회장뽑기.java) |
   | 이수민 | [백준 15683_감시(G4)](https://www.acmicpc.net/problem/15683) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%90%EC%8B%9C.java) | [백준 1541_잃어버린 괄호(S2)](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 5430_AC(G5)](https://www.acmicpc.net/problem/5430) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/AC.java) | [CDT_숨은 단어 찾기 2(어려움)](https://www.codetree.ai/missions/5/problems/find-hidden-words-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%88%A8%EC%9D%80%20%EB%8B%A8%EC%96%B4%20%EC%B0%BE%EA%B8%B0%202.java) |
 
   ### 23.12.22 금요일
  
