@@ -446,7 +446,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1838_버블정렬(G1)](https://www.acmicpc.net/problem/1838) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1838_버블정렬.java) | [백준_9576_책나눠주기(G2)](https://www.acmicpc.net/problem/9576) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_9576_책나눠주기.java) |
   | 이수민 | [백준 7490_0 만들기(G5)](https://www.acmicpc.net/problem/7490) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 1874_스택 수열(S2)](https://www.acmicpc.net/problem/1874) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.java) |
   | 이승민 | [백준 2412_암벽 등반(G4)](https://www.acmicpc.net/problem/2412) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%95%94%EB%B2%BD%20%EB%93%B1%EB%B0%98.java) | [CDT_오목(보통)](https://www.codetree.ai/missions/5/problems/O-mok?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%98%A4%EB%AA%A9.java) |
 
