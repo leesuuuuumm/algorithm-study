@@ -454,7 +454,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_1443. Minimum Time to Collect All Apples in a Tree(medium)](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.py) | [리트코드_937. Reorder Data in Log Files(medium)](https://leetcode.com/problems/reorder-data-in-log-files/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Reorder%20Data%20in%20Log%20Files.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
