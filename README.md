@@ -415,7 +415,7 @@
   </div>
 </details>
 <details>
-  <summary>8주차</summary>
+  <summary>8주차(완료)</summary>
   <div markdown="1">
   
   ### 23.12.25 월요일(크리스마스)
@@ -426,7 +426,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_Matchsticks to Square(medium)](https://leetcode.com/problems/matchsticks-to-square/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Matchsticks%20to%20Square.py) | [리트코드_Beautiful Arrangement(medium)](https://leetcode.com/problems/beautiful-arrangement/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Beautiful%20Arrangement.py) |
   | 신민선 | [백준_5052_전화번호 목록(G4)](https://www.acmicpc.net/problem/5052) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) | [백준_11497_통나무 건너뛰기(S1)](https://www.acmicpc.net/problem/11497) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%86%B5%EB%82%98%EB%AC%B4%20%EA%B1%B4%EB%84%88%EB%9B%B0%EA%B8%B0.java) |
-  | 이명범 | [백준_1414_불우이웃돕기(G3)](https://www.acmicpc.net/problem/1414) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1414_불우이웃돕기.java) | [백준_14391_종이조각(G3)](https://www.acmicpc.net/problem/14391) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_14391_종이조각.java) |
+  | 이명범 | [백준_1414_불우이웃돕기(G3)](https://www.acmicpc.net/problem/1414) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_1414_불우이웃돕기.java) | [백준_14391_종이조각(G3)](https://www.acmicpc.net/problem/14391) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_14391_종이조각.java) |
   | 이수민 | [백준 13549_숨바꼭질 3(G5)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203.java) | [백준 5014_스타트링크(S1)](https://www.acmicpc.net/problem/5014) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.java) |
   | 이승민 | [백준 16987_계란으로 계란치기(G5)](https://www.acmicpc.net/problem/16987) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B3%84%EB%9E%80%EC%9C%BC%EB%A1%9C%20%EA%B3%84%EB%9E%80%EC%B9%98%EA%B8%B0.java) | [백준 2110_공유기 설치(G4)](https://www.acmicpc.net/problem/2110) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.java) |
 
@@ -436,7 +436,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_Fraction to Recurring Decimal(medium)](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Fraction%20to%20Recurring%20Decimal.py) | [리트코드_basic calculator ii(medium)](https://leetcode.com/problems/basic-calculator-ii/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/basic%20calculator%20ll.py) |
   | 신민선 | [백준_1991_트리 순회(S1)](https://www.acmicpc.net/problem/1991) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C.java) | [백준_5639_이진 검색 트리(G5)](https://www.acmicpc.net/problem/5639) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%9D%B4%EC%A7%84%20%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC.java) |
-  | 이명범 | [백준_1707_이분그래프(G5)](https://www.acmicpc.net/problem/1707) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_1707_이분그래프.java) | [백준_2660_회장뽑기(G4)](https://www.acmicpc.net/problem/2660) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/7주차/이명범/Main_2660_회장뽑기.java) |
+  | 이명범 | [백준_1707_이분그래프(G5)](https://www.acmicpc.net/problem/1707) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_1707_이분그래프.java) | [백준_2660_회장뽑기(G4)](https://www.acmicpc.net/problem/2660) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_2660_회장뽑기.java) |
   | 이수민 | [백준 15683_감시(G4)](https://www.acmicpc.net/problem/15683) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%90%EC%8B%9C.java) | [백준 1541_잃어버린 괄호(S2)](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.java) |
   | 이승민 | [백준 5430_AC(G5)](https://www.acmicpc.net/problem/5430) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/AC.java) | [CDT_숨은 단어 찾기 2(어려움)](https://www.codetree.ai/missions/5/problems/find-hidden-words-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%88%A8%EC%9D%80%20%EB%8B%A8%EC%96%B4%20%EC%B0%BE%EA%B8%B0%202.java) |
 
@@ -445,34 +445,34 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_2042_구간합 구하기(G1)](https://www.acmicpc.net/problem/2042) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B5%AC%EA%B0%84%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) | [백준_1052_물병(S1)](https://www.acmicpc.net/problem/1052) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EB%AC%BC%EB%B3%91.java) |
+  | 이명범 | [백준_1838_버블정렬(G1)](https://www.acmicpc.net/problem/1838) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_1838_버블정렬.java) | [백준_9576_책나눠주기(G2)](https://www.acmicpc.net/problem/9576) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_9576_책나눠주기.java) |
   | 이수민 | [백준 7490_0 만들기(G5)](https://www.acmicpc.net/problem/7490) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 1874_스택 수열(S2)](https://www.acmicpc.net/problem/1874) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%83%9D%20%EC%88%98%EC%97%B4.java) |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 2412_암벽 등반(G4)](https://www.acmicpc.net/problem/2412) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%95%94%EB%B2%BD%20%EB%93%B1%EB%B0%98.java) | [CDT_오목(보통)](https://www.codetree.ai/missions/5/problems/O-mok?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%98%A4%EB%AA%A9.java) |
 
   ### 23.12.22 금요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_1443. Minimum Time to Collect All Apples in a Tree(medium)](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.py) | [리트코드_937. Reorder Data in Log Files(medium)](https://leetcode.com/problems/reorder-data-in-log-files/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Reorder%20Data%20in%20Log%20Files.py) |
+  | 신민선 | [백준_10868_최솟값(G1)](https://www.acmicpc.net/problem/10868) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%B5%9C%EC%86%9F%EA%B0%92.java) | []() | [✔]() |
+  | 이명범 | [백준_9252_LCS2(G4)](https://www.acmicpc.net/problem/9252) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_9252_LCS2.java) | [백준_9660_돌게임6(G5)](https://www.acmicpc.net/problem/9660) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8주차/이명범/Main_9660_돌게임6.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [백준 1477_휴게소 세우기(G4)](https://www.acmicpc.net/problem/1477) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%B8%EC%9A%B0%EA%B8%B0.java) | [CDT_아름다운 수열 2(보통)](https://www.codetree.ai/missions/5/problems/beautiful-sequence-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%88%98%EC%97%B4%202.java) |
 </details>
 <details>
   <summary>9주차</summary>
   <div markdown="1">
     
-  ### 23.12.22 금요일
+  ### 24.1.1 월요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_132_Pattern(medium)](https://leetcode.com/problems/132-pattern/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/132%20Pattern.py) | [리트코드_Simplify_Path(medium)](https://leetcode.com/problems/simplify-path/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Simplify%20Path.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1749_점수따먹기(G4)](https://www.acmicpc.net/problem/1749) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_1749_점수따먹기.java) | [백준_1833_고속철도설계하기](https://www.acmicpc.net/problem/1833) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_1833_고속철도설계하기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [CDT_개발자의 능력 2(어려움)](https://www.codetree.ai/missions/5/problems/ability-of-developer-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%8A%A5%EB%A0%A5%202.java) | [백준 1106_파일 합치기 3(G4)](https://www.acmicpc.net/problem/11066) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203.java) |
 
   ### 23.12.22 금요일
  
