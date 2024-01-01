@@ -415,7 +415,7 @@
   </div>
 </details>
 <details>
-  <summary>8주차</summary>
+  <summary>8주차(완료)</summary>
   <div markdown="1">
   
   ### 23.12.25 월요일(크리스마스)
@@ -464,7 +464,7 @@
   <summary>9주차</summary>
   <div markdown="1">
     
-  ### 23.12.22 금요일
+  ### 24.1.1 월요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -472,7 +472,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [CDT_개발자의 능력 2(어려움)](https://www.codetree.ai/missions/5/problems/ability-of-developer-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%8A%A5%EB%A0%A5%202.java) | [백준 1106_파일 합치기 3(G4)](https://www.acmicpc.net/problem/11066) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203.java) |
 
   ### 23.12.22 금요일
  
