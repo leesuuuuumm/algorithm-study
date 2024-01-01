@@ -464,14 +464,14 @@
   <summary>9주차</summary>
   <div markdown="1">
     
-  ### 24.1.1 월요일
+  ### 24.1.01 월요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | [리트코드_132_Pattern(medium)](https://leetcode.com/problems/132-pattern/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/132%20Pattern.py) | [리트코드_Simplify_Path(medium)](https://leetcode.com/problems/simplify-path/description/) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Simplify%20Path.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1749_점수따먹기(G4)](https://www.acmicpc.net/problem/1749) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_1749_점수따먹기.java) | [백준_1833_고속철도설계하기](https://www.acmicpc.net/problem/1833) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_1833_고속철도설계하기.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 17406_배열 돌리기 4(G4)](https://www.acmicpc.net/problem/17406) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%204.java) | [백준 17070_파이프 옮기기 1(G5)](https://www.acmicpc.net/problem/17070) | [✔](https://www.acmicpc.net/problem/17070) |
   | 이승민 | [CDT_개발자의 능력 2(어려움)](https://www.codetree.ai/missions/5/problems/ability-of-developer-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%8A%A5%EB%A0%A5%202.java) | [백준 1106_파일 합치기 3(G4)](https://www.acmicpc.net/problem/11066) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203.java) |
 
   ### 23.12.22 금요일
