@@ -479,7 +479,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_11437_LCA(G3)](https://www.acmicpc.net/problem/11437) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA.java) | [백준_11438_LCA2(P5)](https://www.acmicpc.net/problem/11438) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA2.java) |
   | 이명범 | [백준_2015_수들의합4(G4)](https://www.acmicpc.net/problem/2015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_2015_수들의합4.java) | [백준_11084_나이트의염탐(G2)](https://www.acmicpc.net/problem/11084) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_11084_나이트의염탐.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [CDT_겹치지 않는 선분 2(보통)](https://www.codetree.ai/missions/5/problems/line-segments-that-do-not-overlap-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B2%B9%EC%B9%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%84%A0%EB%B6%84%202.java) | [CDT_스승의 은혜 3(어려움)](https://www.codetree.ai/missions/5/problems/the-grace-form-teacher-3?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%EC%8A%B9%EC%9D%98%20%EC%9D%80%ED%98%9C%203.java) |
