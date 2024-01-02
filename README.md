@@ -611,7 +611,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2210_숫자판 점프(S2)](https://www.acmicpc.net/problem/2210) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.java) | [백준 14891_톱니바퀴(G5)](https://www.acmicpc.net/problem/14891) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
