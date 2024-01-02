@@ -618,7 +618,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Number of Provinces(medium)](https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=graph-theory) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Number%20of%20Provinces.py) | [리트코드_Convert an Array Into a 2D Array With Conditions(medium)](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
