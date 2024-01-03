@@ -491,7 +491,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_2671_잠수함식별(G5)](https://www.acmicpc.net/problem/2671) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_2671_잠수함식별.java) | [백준_14267_회사문화1(G4)](https://www.acmicpc.net/problem/14267) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_14267_회사문화1.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2885_초콜릿 식사(S2)](https://www.acmicpc.net/problem/2885) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%8B%9D%EC%82%AC.java) | [백준 17144_미세먼지 안녕!(G4)](https://www.acmicpc.net/problem/17144) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.java) |
   | 이승민 | [CDT_상해버린 치즈(어려움)](https://www.codetree.ai/missions/5/problems/rotten-cheese?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%ED%95%B4%EB%B2%84%EB%A6%B0%20%EC%B9%98%EC%A6%88.java) | [백준 2448_별 찍기 - 11(G4)](https://www.acmicpc.net/problem/2448) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011.java) |
 
   ### 23.12.22 금요일
