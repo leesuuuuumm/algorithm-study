@@ -484,7 +484,7 @@
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [CDT_겹치지 않는 선분 2(보통)](https://www.codetree.ai/missions/5/problems/line-segments-that-do-not-overlap-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B2%B9%EC%B9%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%84%A0%EB%B6%84%202.java) | [CDT_스승의 은혜 3(어려움)](https://www.codetree.ai/missions/5/problems/the-grace-form-teacher-3?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%EC%8A%B9%EC%9D%98%20%EC%9D%80%ED%98%9C%203.java) |
 
-  ### 23.12.22 금요일
+  ### 24.1.3 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -492,7 +492,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [CDT_상해버린 치즈(어려움)](https://www.codetree.ai/missions/5/problems/rotten-cheese?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%ED%95%B4%EB%B2%84%EB%A6%B0%20%EC%B9%98%EC%A6%88.java) | [백준 2448_별 찍기 - 11(G4)](https://www.acmicpc.net/problem/2448) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011.java) |
 
   ### 23.12.22 금요일
  
