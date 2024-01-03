@@ -479,20 +479,20 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_11437_LCA(G3)](https://www.acmicpc.net/problem/11437) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA.java) | [백준_11438_LCA2(P5)](https://www.acmicpc.net/problem/11438) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA2.java) |
+  | 이명범 | [백준_2015_수들의합4(G4)](https://www.acmicpc.net/problem/2015) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_2015_수들의합4.java) | [백준_11084_나이트의염탐(G2)](https://www.acmicpc.net/problem/11084) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_11084_나이트의염탐.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [CDT_겹치지 않는 선분 2(보통)](https://www.codetree.ai/missions/5/problems/line-segments-that-do-not-overlap-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B2%B9%EC%B9%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%84%A0%EB%B6%84%202.java) | [CDT_스승의 은혜 3(어려움)](https://www.codetree.ai/missions/5/problems/the-grace-form-teacher-3?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%EC%8A%B9%EC%9D%98%20%EC%9D%80%ED%98%9C%203.java) |
 
-  ### 23.12.22 금요일
+  ### 24.1.3 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2671_잠수함식별(G5)](https://www.acmicpc.net/problem/2671) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_2671_잠수함식별.java) | [백준_14267_회사문화1(G4)](https://www.acmicpc.net/problem/14267) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9주차/이명범/Main_14267_회사문화1.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [CDT_상해버린 치즈(어려움)](https://www.codetree.ai/missions/5/problems/rotten-cheese?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%ED%95%B4%EB%B2%84%EB%A6%B0%20%EC%B9%98%EC%A6%88.java) | [백준 2448_별 찍기 - 11(G4)](https://www.acmicpc.net/problem/2448) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011.java) |
 
   ### 23.12.22 금요일
  
@@ -618,7 +618,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김도형 | []() | [✔]() | []() | [✔]() |
+  | 김도형 | [리트코드_Number of Provinces(medium)](https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2&envId=graph-theory) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Number%20of%20Provinces.py) | [리트코드_Convert an Array Into a 2D Array With Conditions(medium)](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/?envType=daily-question&envId=2024-01-02) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%8F%84%ED%98%95/Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.py) |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
