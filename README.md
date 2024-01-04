@@ -500,7 +500,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_13913_숨바꼭질4(G4)](https://www.acmicpc.net/problem/13913) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_13913_숨바꼭질4.java) | [백준_28325_호숫가의개미(G5)](https://www.acmicpc.net/problem/28325) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_28325_호숫가의개미.java) |
   | 이수민 | [백준 12886_돌 그룹(G4)](https://www.acmicpc.net/problem/12886) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%8C%20%EA%B7%B8%EB%A3%B9.java) | [백준 1309_동물원(S1)](https://www.acmicpc.net/problem/1309) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EB%AC%BC%EC%9B%90.java) |
   | 이승민 | [CDT_팀으로 하는 틱택토 2(보통)](https://www.codetree.ai/missions/5/problems/tic-tac-to-as-a-team-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%80%EC%9C%BC%EB%A1%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0%202.java) | [CDT_등장하지 않는 문자열의 길이(어려움)](https://www.codetree.ai/missions/5/problems/length-of-string-that-does-not-appear?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%93%B1%EC%9E%A5%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java) |
 
