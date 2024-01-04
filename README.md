@@ -464,7 +464,7 @@
   <summary>9주차</summary>
   <div markdown="1">
     
-  ### 24.1.1 월요일
+  ### 24.01.01 월요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -474,7 +474,7 @@
   | 이수민 | [백준 17406_배열 돌리기 4(G4)](https://www.acmicpc.net/problem/17406) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%204.java) | [백준 17070_파이프 옮기기 1(G5)](https://www.acmicpc.net/problem/17070) | [✔](https://www.acmicpc.net/problem/17070) |
   | 이승민 | [CDT_개발자의 능력 2(어려움)](https://www.codetree.ai/missions/5/problems/ability-of-developer-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EB%8A%A5%EB%A0%A5%202.java) | [백준 1106_파일 합치기 3(G4)](https://www.acmicpc.net/problem/11066) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203.java) |
 
-  ### 24.1.2 화요일
+  ### 24.01.02 화요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -484,7 +484,7 @@
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | [CDT_겹치지 않는 선분 2(보통)](https://www.codetree.ai/missions/5/problems/line-segments-that-do-not-overlap-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EA%B2%B9%EC%B9%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EC%84%A0%EB%B6%84%202.java) | [CDT_스승의 은혜 3(어려움)](https://www.codetree.ai/missions/5/problems/the-grace-form-teacher-3?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%8A%A4%EC%8A%B9%EC%9D%98%20%EC%9D%80%ED%98%9C%203.java) |
 
-  ### 24.1.3 수요일
+  ### 24.01.03 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -494,14 +494,14 @@
   | 이수민 | [백준 2885_초콜릿 식사(S2)](https://www.acmicpc.net/problem/2885) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B4%88%EC%BD%9C%EB%A6%BF%20%EC%8B%9D%EC%82%AC.java) | [백준 17144_미세먼지 안녕!(G4)](https://www.acmicpc.net/problem/17144) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%95%88%EB%85%95!.java) |
   | 이승민 | [CDT_상해버린 치즈(어려움)](https://www.codetree.ai/missions/5/problems/rotten-cheese?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%83%81%ED%95%B4%EB%B2%84%EB%A6%B0%20%EC%B9%98%EC%A6%88.java) | [백준 2448_별 찍기 - 11(G4)](https://www.acmicpc.net/problem/2448) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-%2011.java) |
 
-  ### 23.12.22 금요일
+  ### 23.01.04 목요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 12886_돌 그룹(G4)](https://www.acmicpc.net/problem/12886) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%8C%20%EA%B7%B8%EB%A3%B9.java) | [백준 1309_동물원(S1)](https://www.acmicpc.net/problem/1309) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EB%AC%BC%EC%9B%90.java) |
   | 이승민 | [CDT_팀으로 하는 틱택토 2(보통)](https://www.codetree.ai/missions/5/problems/tic-tac-to-as-a-team-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%80%EC%9C%BC%EB%A1%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0%202.java) | [CDT_등장하지 않는 문자열의 길이(어려움)](https://www.codetree.ai/missions/5/problems/length-of-string-that-does-not-appear?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%93%B1%EC%9E%A5%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java) |
 
   ### 23.12.22 금요일
@@ -611,7 +611,7 @@
   | 김도형 | []() | [✔]() | []() | [✔]() |
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [백준 2210_숫자판 점프(S2)](https://www.acmicpc.net/problem/2210) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%ED%8C%90%20%EC%A0%90%ED%94%84.java) | [백준 14891_톱니바퀴(G5)](https://www.acmicpc.net/problem/14891) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
