@@ -502,7 +502,7 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이승민 | [CDT_팀으로 하는 틱택토 2(보통)](https://www.codetree.ai/missions/5/problems/tic-tac-to-as-a-team-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%8C%80%EC%9C%BC%EB%A1%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0%202.java) | [CDT_등장하지 않는 문자열의 길이(어려움)](https://www.codetree.ai/missions/5/problems/length-of-string-that-does-not-appear?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EB%93%B1%EC%9E%A5%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java) |
 
   ### 23.12.22 금요일
  
