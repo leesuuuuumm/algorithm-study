@@ -508,7 +508,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1135_뉴스전하기(G2)](https://www.acmicpc.net/problem/1135) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_1135_뉴스전하기.java) | [백준_1451_직사각형으로나누기(G4)](https://www.acmicpc.net/problem/1451) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_1451_직사각형으로나누기.java) |
   | 이수민 | [백준 20922_겹치는 건 싫어(S1)](https://www.acmicpc.net/problem/20922) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4.java) | []() | [✔]() |
   | 이승민 | []() | [✔]() | []() | [✔]() |
   </div>
