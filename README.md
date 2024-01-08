@@ -523,7 +523,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2268_수들의합7(G1)](https://www.acmicpc.net/problem/2268) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_2268_수들의합7.java) | [백준_6091_핑크플로이드(G1)](https://www.acmicpc.net/problem/6091) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_6091_핑크플로이드.java) |
   | 이수민 | [벡준 2206_벽 부수고 이동하기(G3)](https://www.acmicpc.net/problem/2206) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java) | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B1%80.java) |
 
   ### 24.01.09 화요일
