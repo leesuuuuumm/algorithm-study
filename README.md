@@ -462,7 +462,7 @@
   | 이승민 | [백준 1477_휴게소 세우기(G4)](https://www.acmicpc.net/problem/1477) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%ED%9C%B4%EA%B2%8C%EC%86%8C%20%EC%84%B8%EC%9A%B0%EA%B8%B0.java) | [CDT_아름다운 수열 2(보통)](https://www.codetree.ai/missions/5/problems/beautiful-sequence-2?&utm_source=clipboard&utm_medium=text) | [✔](https://github.com/kimdozzi/algorithm-study/blob/main/8%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%8A%B9%EB%AF%BC/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%88%98%EC%97%B4%202.java) |
 </details>
 <details>
-  <summary>9주차</summary>
+  <summary>9주차(완료)</summary>
   <div markdown="1">
     
   ### 24.01.01 월요일
@@ -510,7 +510,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1135_뉴스전하기(G2)](https://www.acmicpc.net/problem/1135) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_1135_뉴스전하기.java) | [백준_1451_직사각형으로나누기(G4)](https://www.acmicpc.net/problem/1451) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9주차/이명범/Main_1451_직사각형으로나누기.java) |
-  | 이수민 | [백준 20922_겹치는 건 싫어(S1)](https://www.acmicpc.net/problem/20922) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4.java) | [밴준2234_성곽(G3)](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%B1%EA%B3%BD.java) | [✔]() |
+  | 이수민 | [백준 20922_겹치는 건 싫어(S1)](https://www.acmicpc.net/problem/20922) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B1%B4%20%EC%8B%AB%EC%96%B4.java) | [밴준2234_성곽(G3)](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%B1%EA%B3%BD.java) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/9%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%B1%EA%B3%BD.java) |
   | 이승민 | []() | [✔]() | []() | [✔]() |
   </div>
 </details>
@@ -524,8 +524,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [벡준 2206_벽 부수고 이동하기(G3)](https://www.acmicpc.net/problem/2206) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java) | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B1%80.java) |
 
   ### 24.01.09 화요일
  
@@ -534,7 +533,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.10 수요일
  
@@ -543,7 +541,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.11 목요일
  
@@ -552,7 +549,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.12 금요일
  
@@ -561,7 +557,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
   </div>
 </details>
 
@@ -577,7 +572,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
  
@@ -587,7 +581,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
  
@@ -597,7 +590,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
  
@@ -607,7 +599,6 @@
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이승민 | []() | [✔]() | []() | [✔]() |
 
   ### 23.12.22 금요일
  
