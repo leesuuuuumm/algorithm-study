@@ -532,7 +532,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_5567_결혼식(S2)](https://www.acmicpc.net/problem/5567) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_5567_결혼식.java) | [백준_7453_합이0인네정수(G2)](https://www.acmicpc.net/problem/7453) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_7453_합이0인네정수.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 16235_나무 재테크(G3)](https://www.acmicpc.net/problem/16235) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.java) | [백준 16236_아기상어(G3)](https://www.acmicpc.net/problem/16236) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.java) |
 
   ### 24.01.10 수요일
  
