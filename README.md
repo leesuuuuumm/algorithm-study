@@ -539,7 +539,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1083_소트(G5)](https://www.acmicpc.net/problem/1083) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_1083_소트.java) | [백준_2637_장난감조립(G2)](https://www.acmicpc.net/problem/2637) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_2637_장난감조립.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.11 목요일
