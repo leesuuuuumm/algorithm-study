@@ -5,7 +5,7 @@ class Solution {
         int s = 0;
         int e = 0;
         int sum = sequence[0];
-        int min = Integer.MAX_VALUE;
+        int min = Integer.MAX_VALUE; 
         while(true){
             if(s >= sequence.length)break;
             if(sum == k){
