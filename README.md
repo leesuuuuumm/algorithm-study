@@ -540,7 +540,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1083_소트(G5)](https://www.acmicpc.net/problem/1083) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_1083_소트.java) | [백준_2637_장난감조립(G2)](https://www.acmicpc.net/problem/2637) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_2637_장난감조립.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 연속된 부분 수열의 합(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.java) | [백준 14503_로봇 청소기(G5)](https://www.acmicpc.net/problem/14503) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.java) |
 
   ### 24.01.11 목요일
  
