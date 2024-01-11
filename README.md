@@ -551,7 +551,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_13711_LCS4(P5)](https://www.acmicpc.net/problem/13711) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_13711_LCS4.java) | [백준_14438_수열과쿼리17](https://www.acmicpc.net/problem/2637) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_14438_수열과쿼리17.java) |
   | 이수민 | [프로그래머스 리코쳇 로봇(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A6%AC%EC%BD%94%EC%B3%87%20%EB%A1%9C%EB%B4%87.java) | []() | [✔]() |
 
   ### 24.01.12 금요일
