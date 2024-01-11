@@ -552,7 +552,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 리코쳇 로봇(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A6%AC%EC%BD%94%EC%B3%87%20%EB%A1%9C%EB%B4%87.java) | []() | [✔]() |
 
   ### 24.01.12 금요일
  
