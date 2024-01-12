@@ -519,7 +519,7 @@
 </details>
 
 <details>
-  <summary>10주차</summary>
+  <summary>10주차(완료)</summary>
   <div markdown="1">
     
   ### 24.01.08 월요일
@@ -560,7 +560,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1958_LCS3(G4)](https://www.acmicpc.net/problem/1958) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_13711_LCS3.java) | [백준_19942_다이어트(G5)](https://www.acmicpc.net/problem/19942) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_19942_다이어트.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 23288_주사위 굴리기2 (G3)](https://www.acmicpc.net/problem/23288) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B02.java) | [벡준 16234_인구 이동(G4)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/10%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.java) |
   </div>
 </details>
 
