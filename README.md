@@ -559,7 +559,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1958_LCS3(G4)](https://www.acmicpc.net/problem/1958) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_13711_LCS3.java) | [백준_19942_다이어트(G5)](https://www.acmicpc.net/problem/19942) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_19942_다이어트.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   </div>
 </details>
