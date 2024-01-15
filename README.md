@@ -573,7 +573,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_9466_텀프로젝트(G3)](https://www.acmicpc.net/problem/9466) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_9466_텀프로젝트.java) | [백준_17086_아기상어2(S2)](https://www.acmicpc.net/problem/17086) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_17086_아기상어2.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.16 화요일
