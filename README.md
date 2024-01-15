@@ -574,7 +574,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_9466_텀프로젝트(G3)](https://www.acmicpc.net/problem/9466) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_9466_텀프로젝트.java) | [백준_17086_아기상어2(S2)](https://www.acmicpc.net/problem/17086) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_17086_아기상어2.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 10844_쉬운 계단 수(S1)](https://www.acmicpc.net/problem/10844) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.java) | [백준 2668_숫자고르기](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
 
   ### 24.01.16 화요일
  
