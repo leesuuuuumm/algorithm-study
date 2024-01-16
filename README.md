@@ -582,7 +582,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 혼자서 하는 틱택토(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/160585#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%BC%EC%9E%90%EC%84%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0.java) | []() | [✔]() |
 
   ### 24.01.17 수요일
  
