@@ -588,7 +588,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_9252_LCA1(G4)](https://www.acmicpc.net/problem/9252) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA2.java) | [백준_1915_가장 큰 정사각형(G4)](https://www.acmicpc.net/problem/1915) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
