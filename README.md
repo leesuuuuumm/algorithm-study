@@ -573,22 +573,22 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | [백준_9466_텀프로젝트(G3)](https://www.acmicpc.net/problem/9466) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_9466_텀프로젝트.java) | [백준_17086_아기상어2(S2)](https://www.acmicpc.net/problem/17086) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/10주차/이명범/Main_17086_아기상어2.java) |
+  | 이명범 | [백준_9466_텀프로젝트(G3)](https://www.acmicpc.net/problem/9466) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_9466_텀프로젝트.java) | [백준_17086_아기상어2(S2)](https://www.acmicpc.net/problem/17086) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_17086_아기상어2.java) |
   | 이수민 | [백준 10844_쉬운 계단 수(S1)](https://www.acmicpc.net/problem/10844) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.java) | [백준 2668_숫자고르기(G5)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
 
   ### 24.01.16 화요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_10844_쉬운 계단 수(S1)](https://www.acmicpc.net/problem/10844) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.java) | [백준_13398_연속합2(G5)](https://www.acmicpc.net/problem/13398) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EC%97%B0%EC%86%8D%ED%95%A92.java) |
+  | 이명범 | [백준_1058_친구(S2)](https://www.acmicpc.net/problem/1058) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_1058_친구.java) | [백준_10159_저울(G4)](https://www.acmicpc.net/problem/10159) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_10159_저울.java) |
   | 이수민 | [프로그래머스 혼자서 하는 틱택토(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/160585#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%BC%EC%9E%90%EC%84%9C%20%ED%95%98%EB%8A%94%20%ED%8B%B1%ED%83%9D%ED%86%A0.java) | []() | [✔]() |
 
   ### 24.01.17 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 신민선 | []() | [✔]() | []() | [✔]() |
+  | 신민선 | [백준_9252_LCA1(G4)](https://www.acmicpc.net/problem/9252) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA2.java) | [백준_1915_가장 큰 정사각형(G4)](https://www.acmicpc.net/problem/1915) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
