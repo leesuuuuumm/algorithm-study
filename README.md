@@ -590,7 +590,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | [백준_9252_LCA1(G4)](https://www.acmicpc.net/problem/9252) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA2.java) | [백준_1915_가장 큰 정사각형(G4)](https://www.acmicpc.net/problem/1915) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 11055_가장 큰 증가하는 부분 수열(S2)](https://www.acmicpc.net/problem/11055) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java) | [백준 1253_좋다(G4)](https://www.acmicpc.net/status?user_id=tnalsdlm&problem_id=1253&from_mine=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A2%8B%EB%8B%A4.java) |
 
   ### 24.01.18 목요일
  
