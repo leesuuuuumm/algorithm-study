@@ -597,7 +597,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14442_벽부수고이동하기(G3)](https://www.acmicpc.net/problem/14442) | [✔](ps://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_14442_벽부수고이동하기.java) | [백준_18513_샘터(G4)](https://www.acmicpc.net/problem/18513) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_18513_샘터.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.19 금요일
