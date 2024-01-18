@@ -589,7 +589,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | [백준_9252_LCA1(G4)](https://www.acmicpc.net/problem/9252) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/LCA2.java) | [백준_1915_가장 큰 정사각형(G4)](https://www.acmicpc.net/problem/1915) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%8B%A0%EB%AF%BC%EC%84%A0/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95.java) |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1757_달려달려(G4)](https://www.acmicpc.net/problem/1757) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_1757_달려달려.java) | [백준_19951_태상이의훈련소생활(G5)](https://www.acmicpc.net/problem/19951) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_19951_태상이의훈련소생활.java) |
   | 이수민 | [백준 11055_가장 큰 증가하는 부분 수열(S2)](https://www.acmicpc.net/problem/11055) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java) | [백준 1253_좋다(G4)](https://www.acmicpc.net/status?user_id=tnalsdlm&problem_id=1253&from_mine=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A2%8B%EB%8B%A4.java) |
 
   ### 24.01.18 목요일
@@ -597,7 +597,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14442_벽부수고이동하기(G3)](https://www.acmicpc.net/problem/14442) | [✔](ps://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_14442_벽부수고이동하기.java) | [백준_18513_샘터(G4)](https://www.acmicpc.net/problem/18513) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_18513_샘터.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.19 금요일
