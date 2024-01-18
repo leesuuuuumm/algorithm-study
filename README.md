@@ -598,7 +598,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_14442_벽부수고이동하기(G3)](https://www.acmicpc.net/problem/14442) | [✔](ps://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_14442_벽부수고이동하기.java) | [백준_18513_샘터(G4)](https://www.acmicpc.net/problem/18513) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_18513_샘터.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 9252_LCS 2(G4)](https://www.acmicpc.net/problem/9252) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/LCS%202.java) | [백준 1932_정수 삼각형(S1)](https://www.acmicpc.net/problem/1932) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/11%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.java) |
 
   ### 24.01.19 금요일
  
