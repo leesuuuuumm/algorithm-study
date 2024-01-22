@@ -565,7 +565,7 @@
 </details>
 
 <details>
-  <summary>11주차</summary>
+  <summary>11주차(완료)</summary>
   <div markdown="1">
     
   ### 24.01.15 월요일
@@ -620,7 +620,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_1700_멀티탭스케줄링(G1)](https://www.acmicpc.net/problem/1700) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_1700_멀티탭스케줄링.java) | [백준_23032_서프라이즈(G3)](https://www.acmicpc.net/problem/23032) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/11주차/이명범/Main_23032_서프라이즈.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 14502_연구소(G4)](https://www.acmicpc.net/problem/14502) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/12%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EA%B5%AC%EC%86%8C.java) | [백준 17142_연구소 3(G3)](https://www.acmicpc.net/problem/17142) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/12%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EA%B5%AC%EC%86%8C%203.java) |
 
   ### 24.01.23 화요일
  
