@@ -627,7 +627,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 신민선 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_22988_재활용캠페인(G1)](https://www.acmicpc.net/problem/22988) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_22988_재활용캠페인.java) | [백준_25516_사과수확하기(S2)](https://www.acmicpc.net/problem/25516) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_25516_사과수확하기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
 
   ### 24.01.24 수요일
