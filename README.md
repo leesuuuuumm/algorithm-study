@@ -633,7 +633,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_13549_숨바꼭질3(G3)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_13549_숨바꼭질3.java) | [백준_14465_소가길을건너간이유5(S2)](https://www.acmicpc.net/problem/14465) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_14465_소가길을건너간이유5.java) |
   | 이수민 | [백준 17140_이차원 배열과 연산(G4)](https://www.acmicpc.net/problem/17140) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/12%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EC%97%B0%EC%82%B0.java) | [백준 2225_합분해(S1)]() | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/12%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%A9%EB%B6%84%ED%95%B4.java) |
 
   ### 24.01.25 목요일
