@@ -641,7 +641,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 디펜스 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/142085#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/12%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.java) | [백준 7562_나이트 이동(S1)](https://www.acmicpc.net/problem/7562) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/12%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EC%9D%B4%ED%8A%B8%20%EC%9D%B4%EB%8F%99.java) |
 
   ### 24.01.26 금요일
  
