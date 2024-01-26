@@ -647,7 +647,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2571_색종이3(G3)](https://www.acmicpc.net/problem/2571) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_2571_색종이3.java) | [백준_15558_점프게임(G5)](https://www.acmicpc.net/problem/15558) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/12주차/이명범/Main_15558_점프게임.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   </div>
 </details>
