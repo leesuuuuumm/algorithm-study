@@ -661,7 +661,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 귤고르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) | [백준 1654_랜선 자르기(S2)](https://www.acmicpc.net/problem/1654) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
 
   ### 24.01.30 화요일
  
