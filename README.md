@@ -611,7 +611,7 @@
 </details>
 
 <details>
-  <summary>12주차</summary>
+  <summary>12주차(완료)</summary>
   <div markdown="1">
     
   ### 24.01.22 월요일
