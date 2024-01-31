@@ -1,29 +1,25 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
+import java.util.*;
 class Solution {
     public int solution(int k, int[] tangerine) {
         int answer = 0;
-        Map<Integer, Integer> map = new HashMap<>();
-
-        for (int i : tangerine) {
-            map.put(i, map.getOrDefault(i, 0) + 1);
+        
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i=0;i<tangerine.length;i++){
+            map.put(tangerine[i],map.getOrDefault(tangerine[i],0)+1);
         }
-
-        List<Integer> list = new ArrayList<>(map.keySet());
-        list.sort(((o1, o2) -> map.get(o2) - map.get(o1)));
-
-        for (Integer i : keyList) {
-            if (k <= 0) {
+        ArrayList<Integer> list = new ArrayList<>();
+        for(Integer i: map.keySet()){
+            list.add(map.get(i));
+        }
+        Collections.sort(list, Collections.reverseOrder());
+        
+        for(Integer i: list){
+            answer++;
+            if(k<=i){
                 break;
             }
-
-            answer++;
-            k -= map.get(i);
+            k-=i;
         }
-
         return answer;
     }
 }
