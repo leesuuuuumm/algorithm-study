@@ -675,7 +675,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 6603_로또(S2)](https://www.acmicpc.net/problem/6603) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%98%90.java) | [프로그래머스 이진 변환 반복하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) |
 
   ### 24.02.01 목요일
  
