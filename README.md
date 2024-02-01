@@ -682,7 +682,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 땅따먹기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java) | []() | [✔]() |
 
   ### 24.02.02 금요일
  
