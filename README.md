@@ -667,14 +667,14 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_24525_SKK문자열(G3)](https://www.acmicpc.net/problem/24525) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_24525_SKK문자열.java) | [백준_25332_수들의합8(G3)](https://www.acmicpc.net/problem/25332) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_25332_수들의합8.java) |
   | 이수민 | [프로그래머스 점 찍기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%90%20%EC%B0%8D%EA%B8%B0.java) | [백준 14620_꽃길(S2)](https://www.acmicpc.net/problem/14620) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%BD%83%EA%B8%B8.java) |
 
   ### 24.01.31 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1368_물대기(G2)](https://www.acmicpc.net/problem/1368) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_1368_물대기.java) | [백준_20182_골목대장호석(G3)](https://www.acmicpc.net/problem/20182) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_20182_골목대장호석.java) |
   | 이수민 | [백준 6603_로또(S2)](https://www.acmicpc.net/problem/6603) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%98%90.java) | [프로그래머스 이진 변환 반복하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) |
 
   ### 24.02.01 목요일
