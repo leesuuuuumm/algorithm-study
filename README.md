@@ -689,6 +689,6 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 18427_함께 블록 쌓기(G4)](https://www.acmicpc.net/problem/18427) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%A8%EA%BB%98%20%EB%B8%94%EB%A1%9D%20%EC%8C%93%EA%B8%B0.java) | []() | [✔]() |
   </div>
 </details>
