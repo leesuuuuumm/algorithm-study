@@ -688,7 +688,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1182_부분수열의합(S2)](https://www.acmicpc.net/problem/1182) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_1182_부분수열의합.java) | [백준_16498_작은벌점(G5)](https://www.acmicpc.net/problem/16498) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_16498_작은벌점.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   </div>
 </details>
