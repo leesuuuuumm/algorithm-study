@@ -689,7 +689,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_1182_부분수열의합(S2)](https://www.acmicpc.net/problem/1182) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_1182_부분수열의합.java) | [백준_16498_작은벌점(G5)](https://www.acmicpc.net/problem/16498) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_16498_작은벌점.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 18427_함께 블록 쌓기(G4)](https://www.acmicpc.net/problem/18427) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/13%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%A8%EA%BB%98%20%EB%B8%94%EB%A1%9D%20%EC%8C%93%EA%B8%B0.java) | []() | [✔]() |
   </div>
 </details>
 
