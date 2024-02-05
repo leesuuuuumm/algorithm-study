@@ -703,7 +703,7 @@
   | 조서영 | []() | [✔]() | []() | [✔]() |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 시소 짝꿍(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/152996#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.java) | [백준 2293_동전 1(G5)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EC%A0%84%201.java) |
   | 이연상 | [백준_14888_연산자 끼워넣기(S2)](https://www.acmicpc.net/problem/14888) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py) | [백준_7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%86%A0%EB%A7%88%ED%86%A0.py) | 
   
   ### 24.02.06 화요일
