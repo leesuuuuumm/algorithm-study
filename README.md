@@ -705,7 +705,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_14888_연산자 끼워넣기(S2)](https://www.acmicpc.net/problem/14888) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py) | [백준_7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%86%A0%EB%A7%88%ED%86%A0.py) | 
   
   ### 24.02.06 화요일
  
