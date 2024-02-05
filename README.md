@@ -700,7 +700,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1010 다리 놓기 (S5)](https://www.acmicpc.net/problem/1010) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1010.cpp) | [백준 15650 N과 M(2) (S3)](https://www.acmicpc.net/problem/15650) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/15650.cpp) |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_2252_줄세우기(G2)](https://www.acmicpc.net/problem/2252) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_2252_줄세우기.java) | [백준_2613_숫자구슬(G3)](https://www.acmicpc.net/problem/2613) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_2613_숫자구슬.java) |
   | 이수민 | [프로그래머스 시소 짝꿍(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/152996#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.java) | [백준 2293_동전 1(G5)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EC%A0%84%201.java) |
