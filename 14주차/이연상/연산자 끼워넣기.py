@@ -41,7 +41,7 @@ dfs(1, nums[0])
 print(maxVal) 
 print(minVal) 
 
-# max, min 함수의 매개변수 순서에 따라 값이 다르다.. 
+# max, min 함수의 매개변수 순서에 따라 값이 다르다...
 
 
 
