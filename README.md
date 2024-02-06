@@ -701,7 +701,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | [백준 1010 다리 놓기 (S5)](https://www.acmicpc.net/problem/1010) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1010.cpp) | [백준 15650 N과 M(2) (S3)](https://www.acmicpc.net/problem/15650) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/15650.cpp) |
-  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 2178 미로탐색(S1)](https://www.acmicpc.net/problem/2178) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89.java) | [백준 2667 단지번호붙이기(S1)](https://www.acmicpc.net/problem/2667) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java) |
   | 이명범 | [백준_2252_줄세우기(G2)](https://www.acmicpc.net/problem/2252) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_2252_줄세우기.java) | [백준_2613_숫자구슬(G3)](https://www.acmicpc.net/problem/2613) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/13주차/이명범/Main_2613_숫자구슬.java) |
   | 이수민 | [프로그래머스 시소 짝꿍(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/152996#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.java) | [백준 2293_동전 1(G5)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EC%A0%84%201.java) |
   | 이연상 | [백준_14888_연산자 끼워넣기(S2)](https://www.acmicpc.net/problem/14888) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.py) | [백준_7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%86%A0%EB%A7%88%ED%86%A0.py) | 
@@ -713,7 +713,7 @@
   | 조서영 | []() | [✔]() | []() | [✔]() |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 20006_랭킹전 대기열(S2)](https://www.acmicpc.net/problem/20006) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%AD%ED%82%B9%EC%A0%84%20%EB%8C%80%EA%B8%B0%EC%97%B4.java) | [백준 9935_문자열 폭발(G4)](https://www.acmicpc.net/problem/9935) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   ### 24.02.07 수요일
