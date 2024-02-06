@@ -710,7 +710,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1072 게임 (S3)](https://www.acmicpc.net/problem/1072) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1072.cpp) | [백준 2003 수들의 합 2 (S4)](https://www.acmicpc.net/problem/2003) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2003.cpp) |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 20006_랭킹전 대기열(S2)](https://www.acmicpc.net/problem/20006) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%AD%ED%82%B9%EC%A0%84%20%EB%8C%80%EA%B8%B0%EC%97%B4.java) | [백준 9935_문자열 폭발(G4)](https://www.acmicpc.net/problem/9935) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.java) |
