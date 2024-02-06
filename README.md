@@ -714,7 +714,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 20006_랭킹전 대기열(S2)](https://www.acmicpc.net/problem/20006) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%AD%ED%82%B9%EC%A0%84%20%EB%8C%80%EA%B8%B0%EC%97%B4.java) | [백준 9935_문자열 폭발(G4)](https://www.acmicpc.net/problem/9935) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_2024_괄호의 값(S2)](https://www.acmicpc.net/problem/2504) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92.py) | [백준_14719_빗물(G5)](https://www.acmicpc.net/problem/14719) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B9%97%EB%AC%BC.py) |
 
   ### 24.02.07 수요일
  
