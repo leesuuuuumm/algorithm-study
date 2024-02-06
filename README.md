@@ -711,7 +711,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | []() | [✔]() | []() | [✔]() |
-  | 박경진 | [백준 11724_연결 요소의 개수(S2)](https://www.acmicpc.net/problem/11724) | [✔]() | [백준 14502_연구소(G4)](https://www.acmicpc.net/problem/14502) | [✔]() |
+  | 박경진 | [백준 11724_연결 요소의 개수(S2)](https://www.acmicpc.net/problem/11724) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98.java) | [백준 14502_연구소(G4)](https://www.acmicpc.net/problem/14502) | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 20006_랭킹전 대기열(S2)](https://www.acmicpc.net/problem/20006) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%AD%ED%82%B9%EC%A0%84%20%EB%8C%80%EA%B8%B0%EC%97%B4.java) | [백준 9935_문자열 폭발(G4)](https://www.acmicpc.net/problem/9935) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
