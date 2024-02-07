@@ -721,7 +721,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | []() | [✔]() | []() | [✔]() |
-  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%86%A0%EB%A7%88%ED%86%A0.java) | [백준 10026_적록색약(G5)](https://www.acmicpc.net/problem/10026) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
