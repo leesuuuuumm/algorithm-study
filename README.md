@@ -724,7 +724,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_2178_미로 탐색(S1)](https://www.acmicpc.net/problem/2178) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) | [백준_1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A6%AC%EB%AA%A8%EC%BB%A8.py) |
   
   ### 24.02.08 목요일
  
