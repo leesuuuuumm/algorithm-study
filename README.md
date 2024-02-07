@@ -723,7 +723,7 @@
   | 조서영 | [백준 1935 후위 표기식2 (S3)](https://www.acmicpc.net/problem/1935) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1935.cpp) | [백준 1874 스택 수열 (S2)](https://www.acmicpc.net/problem/1874) | [✔](https://github.com/young-46/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1874.cpp) |
   | 박경진 | [백준 7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%86%A0%EB%A7%88%ED%86%A0.java) | [백준 10026_적록색약(G5)](https://www.acmicpc.net/problem/10026) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.java) |
   | 이명범 | [백준_14284_간선이어가기2(G5)](https://www.acmicpc.net/problem/14284) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_14284_간선이어가기2.java) | [백준_16724_피리부는사나이(G3)](https://www.acmicpc.net/problem/14284) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_16724_피리부는사나이.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B1%80.java) | [백준 1027_고층 건물(G4)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%A0%EC%B8%B5%20%EA%B1%B4%EB%AC%BC.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   
   ### 24.02.08 목요일
