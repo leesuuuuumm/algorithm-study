@@ -724,7 +724,7 @@
   | 박경진 | [백준 7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%86%A0%EB%A7%88%ED%86%A0.java) | [백준 10026_적록색약(G5)](https://www.acmicpc.net/problem/10026) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.java) |
   | 이명범 | [백준_14284_간선이어가기2(G5)](https://www.acmicpc.net/problem/14284) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_14284_간선이어가기2.java) | [백준_16724_피리부는사나이(G3)](https://www.acmicpc.net/problem/14284) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_16724_피리부는사나이.java) |
   | 이수민 | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B1%80.java) | [백준 1027_고층 건물(G4)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%A0%EC%B8%B5%20%EA%B1%B4%EB%AC%BC.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_2178_미로 탐색(S1)](https://www.acmicpc.net/problem/2178) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.py) | [백준_1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A6%AC%EB%AA%A8%EC%BB%A8.py) |
   
   ### 24.02.08 목요일
  
@@ -732,7 +732,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | []() | [✔]() | []() | [✔]() |
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_5875_오타(G2)](https://www.acmicpc.net/problem/5875) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_5875_오타.java) | [백준_14466_소가길을건너간이유6(G3)](https://www.acmicpc.net/problem/14466) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_14466_소가길을건너간이유6.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
