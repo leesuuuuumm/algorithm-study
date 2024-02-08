@@ -731,7 +731,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | []() | [✔]() | []() | [✔]() |
-  | 박경진 | [백준 1149_RGB거리(S1)](https://www.acmicpc.net/problem/1149) | [✔]() | [백준 2206_벽 부수고 이동하기(G3)](https://www.acmicpc.net/problem/2206) | [✔]() |
+  | 박경진 | [백준 1149_RGB거리(S1)](https://www.acmicpc.net/problem/1149) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/RGB%EA%B1%B0%EB%A6%AC.java) | [백준 2206_벽 부수고 이동하기(G3)](https://www.acmicpc.net/problem/2206) | [✔](https://github.com/janjinn/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java) |
   | 이명범 | [백준_5875_오타(G2)](https://www.acmicpc.net/problem/5875) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_5875_오타.java) | [백준_14466_소가길을건너간이유6(G3)](https://www.acmicpc.net/problem/14466) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_14466_소가길을건너간이유6.java) |
   | 이수민 | [프로그래머스 n^2 배열 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/N%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스 삼각 달팽이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
