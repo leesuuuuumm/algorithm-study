@@ -756,7 +756,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_1629_곱셈(S1)](https://www.acmicpc.net/problem/1629) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B1%EC%85%88.py) | [백준_12865_평범한 배낭(G5)](https://www.acmicpc.net/problem/12865https://www.acmicpc.net/problem/12865https://www.acmicpc.net/problem/12865) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.py) |
 
   ### 24.02.14 수요일
  
