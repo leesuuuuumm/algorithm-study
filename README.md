@@ -693,7 +693,7 @@
 </details>
 
 <details>
-  <summary>14주차</summary>
+  <summary>14주차(완료)</summary>
   <div markdown="1">
     
   ### 24.02.05 월요일
@@ -736,15 +736,7 @@
   | 이수민 | [프로그래머스 n^2 배열 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/N%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스 삼각 달팽이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.java) |
   | 이연상 | [백준_2468_안전 영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.py) | [백준_1987_알파벳(G4)](https://www.acmicpc.net/problem/1987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/14%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%8C%ED%8C%8C%EB%B2%B3.py) |
 
-  ### 24.02.09 금요일
- 
-  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
-  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  ### 24.02.09 금요일(설 연휴)
   
   </div>
 </details>
@@ -753,15 +745,8 @@
   <summary>15주차</summary>
   <div markdown="1">
     
-  ### 24.02.12 월요일
+  ### 24.02.12 월요일(설 연휴)
  
-  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
-  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
   
   ### 24.02.13 화요일
  
