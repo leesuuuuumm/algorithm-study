@@ -765,7 +765,7 @@
   | 조서영 | []() | [✔]() | []() | [✔]() |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 21608_상어 초등학교(G5)](https://www.acmicpc.net/problem/21608) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.java) | [프로그래머스 베스트앨범(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   
   ### 24.02.15 목요일
