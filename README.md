@@ -753,7 +753,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | [백준 11723 집합 (S5)](https://www.acmicpc.net/problem/11723) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11723.cpp) | [백준 1822 차집합 (S4)](https://www.acmicpc.net/problem/1822) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1822.cpp) |
-  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 2583_영역 구하기(S1)](https://www.acmicpc.net/problem/2583) | [✔]() | [백준 12865_평범한 배낭(G5)](https://www.acmicpc.net/problem/12865) | [✔]() |
   | 이명범 | [백준_21608_상어초등학교(G5)](https://www.acmicpc.net/problem/21608) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_21608_상어초등학교.java) | [백준_27172_수나누기게임(G5)](https://www.acmicpc.net/problem/27172) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/14주차/이명범/Main_27172_수나누기게임.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준_1629_곱셈(S1)](https://www.acmicpc.net/problem/1629) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B1%EC%85%88.py) | [백준_12865_평범한 배낭(G5)](https://www.acmicpc.net/problem/12865https://www.acmicpc.net/problem/12865https://www.acmicpc.net/problem/12865) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.py) |
