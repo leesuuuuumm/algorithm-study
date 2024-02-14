@@ -761,7 +761,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 10610 30 (S4)](https://www.acmicpc.net/problem/10610) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10610.cpp) | [백준 11659 구간 합 구하기 4 (S3)](https://www.acmicpc.net/problem/11659) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11659.cpp) |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 2573_빙산(G4)](https://www.acmicpc.net/problem/2573) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B9%99%EC%82%B0.java) | [백준 16236_아기상어(G3)](https://www.acmicpc.net/problem/16236) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4.java) |
