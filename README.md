@@ -766,7 +766,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 21608_상어 초등학교(G5)](https://www.acmicpc.net/problem/21608) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%81%EC%96%B4%20%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.java) | [프로그래머스 베스트앨범(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_게임 맵 최단거리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py) | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.py) |
   
   ### 24.02.15 목요일
  
