@@ -773,7 +773,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 조서영 | [백준 1914 하노이 탑 (S1)](https://www.acmicpc.net/problem/1914) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1914.cpp) | [백준 2751 수 정렬하기 (S5)](https://www.acmicpc.net/problem/2751) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2751.cpp) |
   | 박경진 | [백준 13549_숨바꼭질3(G5)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/janjinn/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) | [백준 16953_A->B(S2)](https://www.acmicpc.net/problem/16953) | [✔](https://github.com/janjinn/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/A-%3EB.java) |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_16938_캠프준비(G5)](https://www.acmicpc.net/problem/16938) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_16938_캠프준비.java) | [백준_17611_직각다각형(G2)](https://www.acmicpc.net/problem/17611) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_17611_직각다각형.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py) | [프로그래머스_H-Index(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/H-Index.py) |
 
