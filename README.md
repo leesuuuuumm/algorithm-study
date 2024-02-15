@@ -775,7 +775,7 @@
   | 박경진 | [백준 13549_숨바꼭질3(G5)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/janjinn/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) | [백준 16953_A->B(S2)](https://www.acmicpc.net/problem/16953) | [✔](https://github.com/janjinn/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/A-%3EB.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.py) | [프로그래머스_H-Index(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/H-Index.py) |
 
   ### 24.02.16 금요일
  
