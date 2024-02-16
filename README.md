@@ -784,7 +784,7 @@
   | 조서영 | []() | [✔]() | []() | [✔]() |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [백준 19238_스타트 택시(G2)](https://www.acmicpc.net/problem/19238) | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   
   </div>
