@@ -781,7 +781,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1181 단어 정렬 (S5)](https://www.acmicpc.net/problem/1181) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1181.cpp) | [백준 1735 분수 합 (S3)](https://www.acmicpc.net/problem/1735) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1735.cpp) |
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_10987_나머지합(G3)](https://www.acmicpc.net/problem/10987) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_10987_나머지합.java) | [백준_17240_TeamSelection(G1)](https://www.acmicpc.net/problem/17240) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_17240_TeamSelection.java) |
   | 이수민 | [프로그래머스 방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [백준 23288_주사위 굴리기2(G3)](https://www.acmicpc.net/problem/23288) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B02.java) |
