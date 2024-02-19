@@ -801,7 +801,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1189_컴백홈(S1)](https://www.acmicpc.net/problem/1189) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%BB%B4%EB%B0%B1%ED%99%88.java) | [백준 19236_청소년 상어(G2)](https://www.acmicpc.net/problem/19236) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%AD%EC%86%8C%EB%85%84%20%EC%83%81%EC%96%B4.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
@@ -812,7 +812,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [백준 1189_컴백홈(S1)](https://www.acmicpc.net/problem/1189) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%BB%B4%EB%B0%B1%ED%99%88.java) | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
