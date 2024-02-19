@@ -801,7 +801,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [✔](https://github.com/janjinn/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84.java) | [프로그래머스_네트워크(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/janjinn/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준_1010_다리놓기(G5)](https://www.acmicpc.net/problem/1010) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_1010_다리놓기.java) | [프로그래머스_1,2,3떨어뜨리기(LV4)](https://school.programmers.co.kr/learn/courses/30/lessons/150364) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Solution_1,2,3떨어뜨리기.java) |
   | 이연상 | [프로그래머스_시소 짝꿍(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8B%9C%EC%86%8C%20%EC%A7%9D%EA%BF%8D.py) | [프로그래머스_택배상자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
