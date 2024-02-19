@@ -742,7 +742,7 @@
 </details>
 
 <details>
-  <summary>15주차</summary>
+  <summary>15주차(완료)</summary>
   <div markdown="1">
     
   ### 24.02.12 월요일(설 연휴)
@@ -781,11 +781,70 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 조서영 | []() | [✔]() | []() | [✔]() |
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1181 단어 정렬 (S5)](https://www.acmicpc.net/problem/1181) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1181.cpp) | [백준 1735 분수 합 (S3)](https://www.acmicpc.net/problem/1735) | [✔](https://github.com/young-46/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1735.cpp) |
+  | 박경진 | [백준 7562_나이트의 이동(S1)](https://www.acmicpc.net/problem/7562) | [✔](https://github.com/janjinn/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99.java) | [백준 14891_톱니바퀴(G5)](https://www.acmicpc.net/problem/14891) | [✔](https://github.com/janjinn/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.java) |
+  | 이명범 | [백준_10987_나머지합(G3)](https://www.acmicpc.net/problem/10987) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_10987_나머지합.java) | [백준_17240_TeamSelection(G1)](https://www.acmicpc.net/problem/17240) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/15주차/이명범/Main_17240_TeamSelection.java) |
   | 이수민 | [프로그래머스 방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [백준 23288_주사위 굴리기2(G3)](https://www.acmicpc.net/problem/23288) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B5%B4%EB%A6%AC%EA%B8%B02.java) |
   | 이연상 | [프로그래머스_다음 큰 숫자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.py) | [프로그래머스_124 나라의 숫자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12899) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/15%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py) |
+
+  
+  </div>
+</details>
+
+<details>
+  <summary>16주차</summary>
+  <div markdown="1">
+    
+  ### 24.02.19 월요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+ 
+  
+  ### 24.02.20 화요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+
+  ### 24.02.21 수요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+  
+  ### 24.02.22 목요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+
+  ### 24.02.23 금요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
   </div>
