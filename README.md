@@ -820,7 +820,7 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/janjinn/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EA%B1%B0%EC%A7%93%EB%A7%90.java) | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/janjinn/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.java) |
   | 이명범 | [백준_5972_택배배송(G5)](https://www.acmicpc.net/problem/5972) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_5972_택배배송.java) | [백준_11725_트리의부모찾기(S2)](https://www.acmicpc.net/problem/11725) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_11725_트리의부모찾기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
