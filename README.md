@@ -813,7 +813,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 13913_숨바꼭질 4(G4)](https://www.acmicpc.net/problem/13913) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%204.java) | [백준 19238_스타트 택시(G2)](https://www.acmicpc.net/problem/19238) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%83%80%ED%8A%B8%20%ED%83%9D%EC%8B%9C.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_광물 캐기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%91%EB%AC%BC%20%EC%BA%90%EA%B8%B0.py) | [프로그래머스_디펜스 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   ### 24.02.21 수요일
