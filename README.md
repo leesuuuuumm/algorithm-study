@@ -824,7 +824,7 @@
   | 이명범 | [백준_5972_택배배송(G5)](https://www.acmicpc.net/problem/5972) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_5972_택배배송.java) | [백준_11725_트리의부모찾기(S2)](https://www.acmicpc.net/problem/11725) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_11725_트리의부모찾기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 16564 히오스 프로게이머 (S1)](https://www.acmicpc.net/problem/16564) | [✔](https://github.com/young-46/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/16564.cpp) | [백준 17124 두 개의 배열 (S3)](https://www.acmicpc.net/problem/17124) | [✔]([https://www.acmicpc.net/problem/17124](https://www.acmicpc.net/problem/17124)) |
   
   ### 24.02.22 목요일
  
