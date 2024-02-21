@@ -810,18 +810,18 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 1043_거짓말(G4)](https://www.acmicpc.net/problem/1043) | [✔](https://github.com/janjinn/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EA%B1%B0%EC%A7%93%EB%A7%90.java) | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/janjinn/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.java) |
+  | 이명범 | [백준_1561_놀이공원(G5)](https://www.acmicpc.net/problem/1561) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_1561_놀이공원.java) | [백준_1697_숨바꼭질(S1)](https://www.acmicpc.net/problem/1697) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_1697_숨바꼭질.java) |
   | 이수민 | [백준 13913_숨바꼭질 4(G4)](https://www.acmicpc.net/problem/13913) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%204.java) | [백준 19238_스타트 택시(G2)](https://www.acmicpc.net/problem/19238) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%83%80%ED%8A%B8%20%ED%83%9D%EC%8B%9C.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_광물 캐기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%91%EB%AC%BC%20%EC%BA%90%EA%B8%B0.py) | [프로그래머스_디펜스 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%94%94%ED%8E%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84.py) |
+  | 조서영 | [백준 2417 정수 제곱근 (S4)](https://www.acmicpc.net/problem/2417) | [✔](https://github.com/young-46/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2417.cpp) | [백준 2805 나무 자르기 (S2)](https://www.acmicpc.net/problem/2805) | [✔](https://github.com/young-46/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2805.cpp) |
 
   ### 24.02.21 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_5972_택배배송(G5)](https://www.acmicpc.net/problem/5972) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_5972_택배배송.java) | [백준_11725_트리의부모찾기(S2)](https://www.acmicpc.net/problem/11725) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_11725_트리의부모찾기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
@@ -831,7 +831,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14496_그대그머가되어(S2)](https://www.acmicpc.net/problem/14496) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_14496_그대그머가되어.java) | [백준_17071_숨바꼭질5(P5)](https://www.acmicpc.net/problem/17071) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_17071_숨바꼭질5.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
@@ -841,7 +841,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_16948_데스나이트(S1)](https://www.acmicpc.net/problem/16948) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_16948_데스나이트.java) | [백준_17179_케이크자르기(G5)](https://www.acmicpc.net/problem/17179) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_17179_케이크자르기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
