@@ -823,7 +823,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_5972_택배배송(G5)](https://www.acmicpc.net/problem/5972) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_5972_택배배송.java) | [백준_11725_트리의부모찾기(S2)](https://www.acmicpc.net/problem/11725) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_11725_트리의부모찾기.java) |
   | 이수민 | [백준 11501_주식(S2)](https://www.acmicpc.net/problem/11501) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%8B%9D.java) | [백준 11559_Puyo Puyo(G4)](https://www.acmicpc.net/problem/11559) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/Puyo%20Puyo.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_무인도 여행(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AC%B4%EC%9D%B8%EB%8F%84%20%EC%97%AC%ED%96%89.py) | [프로그래머스_호텔 대실(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) |
   | 조서영 | [백준 16564 히오스 프로게이머 (S1)](https://www.acmicpc.net/problem/16564) | [✔](https://github.com/young-46/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/16564.cpp) | [백준 17124 두 개의 배열 (S3)](https://www.acmicpc.net/problem/17124) | [✔]([https://www.acmicpc.net/problem/17124](https://www.acmicpc.net/problem/17124)) |
   
   ### 24.02.22 목요일
