@@ -822,7 +822,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_5972_택배배송(G5)](https://www.acmicpc.net/problem/5972) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_5972_택배배송.java) | [백준_11725_트리의부모찾기(S2)](https://www.acmicpc.net/problem/11725) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_11725_트리의부모찾기.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 11501_주식(S2)](https://www.acmicpc.net/problem/11501) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%8B%9D.java) | [백준 11559_Puyo Puyo(G4)](https://www.acmicpc.net/problem/11559) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/Puyo%20Puyo.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | [백준 16564 히오스 프로게이머 (S1)](https://www.acmicpc.net/problem/16564) | [✔](https://github.com/young-46/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/16564.cpp) | [백준 17124 두 개의 배열 (S3)](https://www.acmicpc.net/problem/17124) | [✔]([https://www.acmicpc.net/problem/17124](https://www.acmicpc.net/problem/17124)) |
   
