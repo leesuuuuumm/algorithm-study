@@ -1,9 +1,7 @@
-package algorithm.study;
-
 import java.io.*;
 import java.util.*;
 
-public class Solution_21609_상어중학교 {
+public class Main {
 	static class Point implements Comparable<Point> {
 		int r;
 		int c;
