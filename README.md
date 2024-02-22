@@ -832,7 +832,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_14496_그대그머가되어(S2)](https://www.acmicpc.net/problem/14496) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_14496_그대그머가되어.java) | [백준_17071_숨바꼭질5(P5)](https://www.acmicpc.net/problem/17071) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_17071_숨바꼭질5.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 21609_상어 중학교(G2)](https://www.acmicpc.net/problem/21609) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%81%EC%96%B4%20%EC%A4%91%ED%95%99%EA%B5%90.java) | [백준 17615_볼 모으기(S1)](https://www.acmicpc.net/problem/17615) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%BC%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
