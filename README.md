@@ -842,7 +842,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [백준_16948_데스나이트(S1)](https://www.acmicpc.net/problem/16948) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_16948_데스나이트.java) | [백준_17179_케이크자르기(G5)](https://www.acmicpc.net/problem/17179) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/16주차/이명범/Main_17179_케이크자르기.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 삼각 달팽이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.java) | [백준 15903_카드 합체 놀이(S1)](https://www.acmicpc.net/problem/15903) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/16%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%B4%EB%93%9C%20%ED%95%A9%EC%B2%B4%20%EB%86%80%EC%9D%B4.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
