@@ -851,7 +851,7 @@
 </details>
 
 <details>
-  <summary>16주차</summary>
+  <summary>17주차</summary>
   <div markdown="1">
     
   ### 24.02.26 월요일
