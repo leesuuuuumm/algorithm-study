@@ -862,7 +862,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 9012 괄호 (S4)](https://www.acmicpc.net/problem/9012) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/9012.cpp) | [백준 2164 카드2 (S4)](https://www.acmicpc.net/problem/2164) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2164.cpp) |
  
   
   ### 24.02.27 화요일
