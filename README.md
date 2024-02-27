@@ -872,7 +872,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 5972_택배 배송(G5)](https://www.acmicpc.net/problem/5972) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%9D%EB%B0%B0%20%EB%B0%B0%EC%86%A1.java) | [백준 23290_마법사 상어와 복제(G1)](https://www.acmicpc.net/problem/23290) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B3%B5%EC%A0%9C.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_숫자 카드 나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.py) | [프로그래머스_배달(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%B0%EB%8B%AC.py) |
   | 조서영 | [백준 1654 랜선 자르기 (S2)](https://www.acmicpc.net/problem/1654) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1654.cpp) | [백준 19637 IF문 좀 대신 써 줘 (S3)](https://www.acmicpc.net/problem/19637) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/19637.cpp) |
   
   ### 24.02.28 수요일
