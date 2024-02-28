@@ -883,7 +883,7 @@
   | 이명범 | [백준_1799_비숍(G1)](https://www.acmicpc.net/source/1799) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Main_1799_비숍.java) | [백준_13164_행복유치원(G5)](https://www.acmicpc.net/source/13164) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Main_13164_행복유치원.java) |
   | 이수민 | [백준 2174_로봇 시뮬레이션(G5)](https://www.acmicpc.net/source/74161022) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.java) | [백준 2785_체인(S2)](https://www.acmicpc.net/problem/2785) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%B4%EC%9D%B8.java) |
   | 이연상 | [프로그래머스_방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.py) | [프로그래머스_주차 요금 계산(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1021 회전하는 큐 (S3)](https://www.acmicpc.net/problem/1021) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1021.cpp) | [백준 17413 단어 뒤집기 2 (S3)](https://www.acmicpc.net/problem/17413) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/17413.cpp) |
   
   ### 24.02.29 목요일
  
