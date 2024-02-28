@@ -881,7 +881,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2174_로봇 시뮬레이션(G5)](https://www.acmicpc.net/source/74161022) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.java) | [백준 2785_체인(S2)](https://www.acmicpc.net/problem/2785) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%B4%EC%9D%B8.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
   
