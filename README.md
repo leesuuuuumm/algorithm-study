@@ -893,7 +893,7 @@
   | 이명범 | [프로그래머스_빛의경로사이클(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Solution_빛의경로사이클.java) | [프로그래머스_당구연습(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Solution_당구연습.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_전력망을 둘로 나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.py) | [프로그래머스_호텔 대실(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 10799 쇠막대기 (S2)](https://www.acmicpc.net/problem/10799) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10799.cpp) | [백준 18115 카드 놓기 (S3)](https://www.acmicpc.net/problem/18115) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/18115.cpp) |
 
   ### 24.03.01 금요일(3.1절)
 
