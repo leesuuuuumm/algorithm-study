@@ -913,7 +913,7 @@
   | 이명범 | [백준_14698_전생했더니(G4)](https://www.acmicpc.net/problem/14698) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_14698_전생했더니.java) | [백준_23801_두단계최단경로2(G3)](https://www.acmicpc.net/problem/23801) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_23801_두단계최단경로2.java) |
   | 이수민 | [백준 11497_통나무 건너뛰기(S1)](https://www.acmicpc.net/problem/11497) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%B5%EB%82%98%EB%AC%B4%20%EA%B1%B4%EB%84%88%EB%9B%B0%EA%B8%B0.java) | [백준 21611_마법사 상어와 블리자드(G1)](https://www.acmicpc.net/problem/21611) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%EB%B8%94%EB%A6%AC%EC%9E%90%EB%93%9C.java) |
   | 이연상 | [프로그래머스_땅따먹기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.py) | [프로그래머스_주식가격(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2161 카드1 (S5)](https://www.acmicpc.net/problem/2161) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2161.cpp) | [백준 1476 날짜 계산 (S5)](https://www.acmicpc.net/problem/1476) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1476.cpp) |
  
   
   ### 24.03.05 화요일
@@ -934,7 +934,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 10845 큐 (S4)](https://www.acmicpc.net/problem/10845) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10845.cpp) | [백준 10828 스택 (S4)](https://www.acmicpc.net/problem/10828) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10828.cpp) |
   
   ### 24.03.07 목요일
  
@@ -944,7 +944,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1929 소수 구하기 (S3)](https://www.acmicpc.net/problem/1929) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1929.cpp) | [백준 2839 설탕 배달 (S4)](https://www.acmicpc.net/problem/2839) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2839.cpp) |
 
   ### 24.03.08 금요일
  
