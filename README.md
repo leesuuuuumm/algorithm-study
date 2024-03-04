@@ -879,13 +879,64 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | [백준 2564_경비원(S1)](https://www.acmicpc.net/problem/2564) | [✔](https://github.com/janjinn/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EA%B2%BD%EB%B9%84%EC%9B%90.java) | [백준 14499_주사위 굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/janjinn/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
+  | 이명범 | [백준_1799_비숍(G1)](https://www.acmicpc.net/source/1799) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Main_1799_비숍.java) | [백준_13164_행복유치원(G5)](https://www.acmicpc.net/source/13164) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Main_13164_행복유치원.java) |
+  | 이수민 | [백준 2174_로봇 시뮬레이션(G5)](https://www.acmicpc.net/source/74161022) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.java) | [백준 2785_체인(S2)](https://www.acmicpc.net/problem/2785) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%B4%EC%9D%B8.java) |
+  | 이연상 | [프로그래머스_방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.py) | [프로그래머스_주차 요금 계산(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.py) |
+  | 조서영 | [백준 1021 회전하는 큐 (S3)](https://www.acmicpc.net/problem/1021) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1021.cpp) | [백준 17413 단어 뒤집기 2 (S3)](https://www.acmicpc.net/problem/17413) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/17413.cpp) |
+  
+  ### 24.02.29 목요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | [백준 1541_잃어버린 괄호(S1)](https://www.acmicpc.net/problem/1541) | [✔](https://github.com/janjinn/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%EA%B4%84%ED%98%B8.java) | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/janjinn/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%B1%80.java) |
+  | 이명범 | [프로그래머스_빛의경로사이클(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Solution_빛의경로사이클.java) | [프로그래머스_당구연습(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/17주차/이명범/Solution_당구연습.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_전력망을 둘로 나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.py) | [프로그래머스_호텔 대실(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.py) |
+  | 조서영 | [백준 10799 쇠막대기 (S2)](https://www.acmicpc.net/problem/10799) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10799.cpp) | [백준 18115 카드 놓기 (S3)](https://www.acmicpc.net/problem/18115) | [✔](https://github.com/young-46/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/18115.cpp) |
+
+  ### 24.03.01 금요일(3.1절)
+
+  
+  </div>
+</details>
+
+<details>
+  <summary>18주차</summary>
+  <div markdown="1">
+    
+  ### 24.03.04 월요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [백준 2174_로봇 시뮬레이션(G5)](https://www.acmicpc.net/source/74161022) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.java) | [백준 2785_체인(S2)](https://www.acmicpc.net/problem/2785) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/17%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%B4%EC%9D%B8.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+ 
+  
+  ### 24.03.05 화요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
   
-  ### 24.02.29 목요일
+  ### 24.03.06 수요일
+ 
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+  
+  ### 24.03.07 목요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
@@ -895,7 +946,7 @@
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
-  ### 24.03.01 금요일
+  ### 24.03.08 금요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
