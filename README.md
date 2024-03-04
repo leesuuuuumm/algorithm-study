@@ -911,7 +911,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | [백준 1309_동물원(S2)](https://www.acmicpc.net/problem/1309) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%8F%99%EB%AC%BC%EC%9B%90.java) | [백준 14500_테트로미노(G4)](https://www.acmicpc.net/problem/14500) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.java) |
   | 이명범 | [백준_14698_전생했더니(G4)](https://www.acmicpc.net/problem/14698) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_14698_전생했더니.java) | [백준_23801_두단계최단경로2(G3)](https://www.acmicpc.net/problem/23801) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_23801_두단계최단경로2.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 11497_통나무 건너뛰기(S1)](https://www.acmicpc.net/problem/11497) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%B5%EB%82%98%EB%AC%B4%20%EA%B1%B4%EB%84%88%EB%9B%B0%EA%B8%B0.java) | []() | [✔]() |
   | 이연상 | [프로그래머스_땅따먹기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.py) | [프로그래머스_주식가격(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
