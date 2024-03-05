@@ -922,8 +922,8 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_JadenCase 문자열 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | [프로그래머스_최댓값과 최솟값(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py) |
+  | 이수민 | [백준 2195_문자열복사.(G5)](https://www.acmicpc.net/problem/2195) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B3%B5%EC%82%AC.java) | [백준 22862_가장 긴 짝수 연속한 부분 수열 (large)(G5)](https://www.acmicpc.net/problem/22862) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20(large).java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
   
   ### 24.03.06 수요일
