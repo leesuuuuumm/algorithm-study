@@ -922,7 +922,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2195_문자열복사.(G5)](https://www.acmicpc.net/problem/2195) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B3%B5%EC%82%AC.java) | [백준 22862_가장 긴 짝수 연속한 부분 수열 (large)(G5)](https://www.acmicpc.net/problem/22862) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20(large).java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
   
