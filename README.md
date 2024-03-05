@@ -923,7 +923,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_JadenCase 문자열 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | [프로그래머스_최댓값과 최솟값(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
   
   ### 24.03.06 수요일
