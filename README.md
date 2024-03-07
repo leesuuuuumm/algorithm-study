@@ -930,8 +930,8 @@
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [프로그래머스_영어 끝말잇기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java) | [프로그래머스_방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.java) |
+  | 이명범 | [백준_1863_스카이라인쉬운거(G5)](https://www.acmicpc.net/problem/1863) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_1863_스카이라인쉬운거.java) | [백준_5214_환승(G5)](https://www.acmicpc.net/problem/5214) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_5214_환승.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_최솟값 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | [프로그래머스_올바른 괄호(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py) |
   | 조서영 | [백준 10845 큐 (S4)](https://www.acmicpc.net/problem/10845) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10845.cpp) | [백준 10828 스택 (S4)](https://www.acmicpc.net/problem/10828) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10828.cpp) |
