@@ -920,20 +920,20 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [프로그래머스_숫자 변환하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%88%AB%EC%9E%90%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) | [프로그래머스_다음 큰 숫자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90.java) |
+  | 이명범 | [백준_1011_AlphaCentauri(G5)](https://www.acmicpc.net/problem/1011) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_1011_AlphaCentauri.java) | [백준_2447_별찍기10(G5)](https://www.acmicpc.net/problem/2447) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_2447_별찍기10.java) |
+  | 이연상 | [프로그래머스_JadenCase 문자열 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | [프로그래머스_최댓값과 최솟값(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py) |
   | 이수민 | [백준 2195_문자열복사.(G5)](https://www.acmicpc.net/problem/2195) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B3%B5%EC%82%AC.java) | [백준 22862_가장 긴 짝수 연속한 부분 수열 (large)(G5)](https://www.acmicpc.net/problem/22862) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A7%9D%EC%88%98%20%EC%97%B0%EC%86%8D%ED%95%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20(large).java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1543 문서 검색 (S5)](https://www.acmicpc.net/problem/1543) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1543.cpp) | [백준 18429 근손실 (S3)](https://www.acmicpc.net/problem/18429) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/18429.cpp) |
   
   ### 24.03.06 수요일
  
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [프로그래머스_영어 끝말잇기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java) | [프로그래머스_방문 길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/janjinn/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.java) |
+  | 이명범 | [백준_1863_스카이라인쉬운거(G5)](https://www.acmicpc.net/problem/1863) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_1863_스카이라인쉬운거.java) | [백준_5214_환승(G5)](https://www.acmicpc.net/problem/5214) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/18주차/이명범/Main_5214_환승.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_최솟값 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | [프로그래머스_올바른 괄호(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.py) |
   | 조서영 | [백준 10845 큐 (S4)](https://www.acmicpc.net/problem/10845) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10845.cpp) | [백준 10828 스택 (S4)](https://www.acmicpc.net/problem/10828) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/10828.cpp) |
   
   ### 24.03.07 목요일
@@ -943,7 +943,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_이진 변환 반복하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) | [프로그래머스_숫자의 표현(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
   | 조서영 | [백준 1929 소수 구하기 (S3)](https://www.acmicpc.net/problem/1929) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1929.cpp) | [백준 2839 설탕 배달 (S4)](https://www.acmicpc.net/problem/2839) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2839.cpp) |
 
   ### 24.03.08 금요일
@@ -954,7 +954,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 15649 N과 M (1) (S3)](https://www.acmicpc.net/problem/15649) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/15649.cpp) | [백준 11728 배열 합치기 (S5)](https://www.acmicpc.net/problem/11728) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11728.cpp) |
 
   
   </div>
