@@ -943,7 +943,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_이진 변환 반복하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.py) | [프로그래머스_숫자의 표현(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
   | 조서영 | [백준 1929 소수 구하기 (S3)](https://www.acmicpc.net/problem/1929) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1929.cpp) | [백준 2839 설탕 배달 (S4)](https://www.acmicpc.net/problem/2839) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2839.cpp) |
 
   ### 24.03.08 금요일
