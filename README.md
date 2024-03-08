@@ -953,7 +953,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_피보나치 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.py) | [프로그래머스_짝지어 제거하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py) |
   | 조서영 | [백준 15649 N과 M (1) (S3)](https://www.acmicpc.net/problem/15649) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/15649.cpp) | [백준 11728 배열 합치기 (S5)](https://www.acmicpc.net/problem/11728) | [✔](https://github.com/young-46/algorithm-study/blob/main/18%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11728.cpp) |
 
   
