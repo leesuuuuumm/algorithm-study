@@ -972,7 +972,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_영어 끝말잇기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | [프로그래머스_카펫(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%ED%8E%AB.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
  
