@@ -970,7 +970,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_거리두기확인하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_거리두기확인하기.java) | [프로그래머스_행렬테두리회전하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_행렬테두리회전하기.java) |
   | 이수민 | [백준 1446_지름길(S1)](https://www.acmicpc.net/problem/1446) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%80%EB%A6%84%EA%B8%B8.java) | [백준 2631_줄세우기(G4)](https://www.acmicpc.net/problem/2631) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_영어 끝말잇기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | [프로그래머스_카펫(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%ED%8E%AB.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
