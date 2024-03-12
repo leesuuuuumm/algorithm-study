@@ -969,8 +969,8 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [프로그래머스_괄호 회전하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [✔](https://github.com/janjinn/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) | [프로그래머스_기능개발(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [✔](https://github.com/janjinn/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java) |
+  | 이명범 | [프로그래머스_거리두기확인하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_거리두기확인하기.java) | [프로그래머스_행렬테두리회전하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77485) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_행렬테두리회전하기.java) |
   | 이수민 | [백준 1446_지름길(S1)](https://www.acmicpc.net/problem/1446) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%80%EB%A6%84%EA%B8%B8.java) | [백준 2631_줄세우기(G4)](https://www.acmicpc.net/problem/2631) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_영어 끝말잇기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py) | [프로그래머스_카펫(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%ED%8E%AB.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
@@ -981,10 +981,10 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 1389_케빈 베이컨의 6단계 법칙(S1)](https://www.acmicpc.net/problem/1389) | [✔](https://github.com/janjinn/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%BC%80%EB%B9%88%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%EC%97%AC%EC%84%AF%EB%8B%A8%EA%B3%84%EB%B2%95%EC%B9%99.java) | [백준 2293_동전1(G5)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/janjinn/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%8F%99%EC%A0%841.java) |
+  | 이명범 | [프로그래머스_방금그곡(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_방금그곡.java) | [프로그래머스_무인도여행(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_무인도여행.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_점프와 순간이동(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99.py) | [프로그래머스_구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
