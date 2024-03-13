@@ -993,7 +993,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_두큐합같게만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_두큐합같게만들기.java) | [프로그래머스_프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_프렌즈4블록.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
