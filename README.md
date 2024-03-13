@@ -994,7 +994,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | [프로그래머스_두큐합같게만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_두큐합같게만들기.java) | [프로그래머스_프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_프렌즈4블록.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2607_비슷한 단어(S2)](https://www.acmicpc.net/problem/2607) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B9%84%EC%8A%B7%ED%95%9C%20%EB%8B%A8%EC%96%B4.java) | [백준 16954_움직이는 미로 탈출(G3)](https://www.acmicpc.net/problem/16954) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%20%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.java) |
   | 이연상 | [프로그래머스_N개의 최소공배수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) | [프로그래머스_예상 대진표(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
