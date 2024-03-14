@@ -1005,7 +1005,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_오픈채팅방(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_오픈채팅방.java) | [프로그래머스_주차요금계산(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/19주차/이명범/Solution_주차요금계산.java) |
   | 이수민 | [백준 2075_N번째 큰 수(S2)](https://www.acmicpc.net/problem/2075) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/N%EB%B2%88%EC%A7%B8%20%ED%81%B0%20%EC%88%98.java) | [백준 1600_말이 되고픈 원숭이(G3)](https://www.acmicpc.net/problem/1600) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4.java) |
   | 이연상 | [프로그래머스_멀리 뛰기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.py) | [프로그래머스_귤 고르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
