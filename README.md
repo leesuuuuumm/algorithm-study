@@ -1018,7 +1018,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 2467_용액(G5)](https://www.acmicpc.net/problem/2467) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%A9%EC%95%A1.java) | [백준 14442_벽 부수고 이동하기2(G3)](https://www.acmicpc.net/problem/14442) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B02.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_연속 부분 수열 합의 개수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.py) | [프로그래머스_괄호 회전하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/19%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
