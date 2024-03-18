@@ -1033,7 +1033,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%97%B0%EC%86%8D%ED%95%A9.java) | [백준 1011_Fly me to the Alpha Centauri(G5)](https://www.acmicpc.net/problem/1011) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/Fly_me_to_the_Alpha_Centauri.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
