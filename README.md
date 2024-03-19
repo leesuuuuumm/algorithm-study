@@ -1047,7 +1047,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2146_다리 만들기(G3)](https://www.acmicpc.net/problem/2146) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A4%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 11052_카드 구매하기(S1)](https://www.acmicpc.net/problem/11052) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_행렬의 곱셈(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py) | [프로그래머스_의상(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%98%EC%83%81.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
