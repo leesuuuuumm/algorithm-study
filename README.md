@@ -1034,10 +1034,10 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | [백준 1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%97%B0%EC%86%8D%ED%95%A9.java) | [백준 1011_Fly me to the Alpha Centauri(G5)](https://www.acmicpc.net/problem/1011) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/Fly_me_to_the_Alpha_Centauri.java) |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_뉴스클러스터링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/20주차/이명범/Solution_뉴스클러스터링.java) | [프로그래머스_압축(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/20주차/이명범/Solution_압축.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_할인 행사(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.py) | [프로그래머스_n^2 배열 자르기LV2](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/n2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 9095 1, 2, 3 더하기 (S3)](https://www.acmicpc.net/problem/9095) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/9095.cpp) | [백준 11727 2xN 타일링 2 (S3)](https://www.acmicpc.net/problem/11727) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11727.cpp) |
 
  
   
