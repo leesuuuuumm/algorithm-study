@@ -1048,7 +1048,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_행렬의 곱셈(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.py) | [프로그래머스_의상(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%98%EC%83%81.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
