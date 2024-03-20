@@ -1058,7 +1058,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 택배 배달과 수거하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%9D%EB%B0%B0%20%EB%B0%B0%EB%8B%AC%EA%B3%BC%20%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0.java) | [백준 14940_쉬운 최단거리(S1)](https://www.acmicpc.net/problem/14940) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%89%AC%EC%9A%B4%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
   | 이연상 | [프로그래머스_캐시(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BA%90%EC%8B%9C.py) | [프로그래머스_튜플(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%9C%ED%94%8C.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
