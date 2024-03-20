@@ -1059,7 +1059,7 @@
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_캐시(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BA%90%EC%8B%9C.py) | [프로그래머스_튜플(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%9C%ED%94%8C.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
 
