@@ -1068,7 +1068,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 15683_감시(G4)](https://www.acmicpc.net/problem/15683) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EA%B0%90%EC%8B%9C.java) | [백준 10819_차이를 최대로(S2)](https://www.acmicpc.net/problem/10819) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%B0%A8%EC%9D%B4%EB%A5%BC%EC%B5%9C%EB%8C%80%EB%A1%9C.java) |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
