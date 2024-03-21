@@ -1072,7 +1072,7 @@
   | 이명범 | [백준_17069_파이프옮기기2(G4)](https://www.acmicpc.net/problem/17069) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/20주차/이명범/Main_17069_파이프옮기기2.java) | [백준_21608_상어초등학교(G5)](https://www.acmicpc.net/problem/21608) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/20주차/이명범/Main_21608_상어초등학교.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_기능개발(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py) | [프로그래머스_피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%BC%EB%A1%9C%EB%8F%84.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1699 제곱수의 합 (S2)](https://www.acmicpc.net/problem/1699) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1699.cpp) | [백준 11060 점프 점프 (S2)](https://www.acmicpc.net/problem/11060) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11060.cpp) |
  
 
   ### 24.03.22 금요일
