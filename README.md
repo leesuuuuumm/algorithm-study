@@ -1081,7 +1081,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2252_줄 세우기(G3)](https://www.acmicpc.net/problem/2252) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0.java) | [백준 10159_저울(G4)](https://www.acmicpc.net/problem/10159) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%80%EC%9A%B8.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | [백준 4963 섬의 개수 (S2)](https://www.acmicpc.net/problem/4963) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/4963.cpp) | [백준 1058 친구 (S2)](https://www.acmicpc.net/problem/1058) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1058.cpp) |
 
