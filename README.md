@@ -1079,10 +1079,10 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 박경진 | [백준 17144_미세먼지 안녕(G4)](https://www.acmicpc.net/problem/17144) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95.java) | [백준 2630_색종이만들기(S2)](https://www.acmicpc.net/problem/2630) | [✔](https://github.com/janjinn/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EB%B0%95%EA%B2%BD%EC%A7%84/%EC%83%89%EC%A2%85%EC%9D%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+  | 이명범 | [백준_1029_그림교환(G1)](https://www.acmicpc.net/problem/1029) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/20주차/이명범/Main_1029_그림교환.java) | [백준_16565_N포커(G2)](https://www.acmicpc.net/problem/16565) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/20주차/이명범/Main_16565_N포커.java) |
   | 이수민 | [백준 2252_줄 세우기(G3)](https://www.acmicpc.net/problem/2252) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A4%84%20%EC%84%B8%EC%9A%B0%EA%B8%B0.java) | [백준 10159_저울(G4)](https://www.acmicpc.net/problem/10159) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%80%EC%9A%B8.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_네트워크(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py) | [프로그래머스_단어 변환(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.py) |
   | 조서영 | [백준 4963 섬의 개수 (S2)](https://www.acmicpc.net/problem/4963) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/4963.cpp) | [백준 1058 친구 (S2)](https://www.acmicpc.net/problem/1058) | [✔](https://github.com/young-46/algorithm-study/blob/main/20%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1058.cpp) |
 
   
