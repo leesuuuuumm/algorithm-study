@@ -1026,7 +1026,7 @@
 </details>
 
 <details>
-  <summary>20주차(완료료)</summary>
+  <summary>20주차(완료)</summary>
   <div markdown="1">
     
   ### 24.03.18 월요일
