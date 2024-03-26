@@ -1097,10 +1097,10 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_마법의엘리베이터(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_마법의엘리베이터.java) | [프로그래머스_혼자놀기의달인(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_혼자놀기의달인.java) |
+  | 이수민 | [백준 1351_무한 수열(G5)](https://www.acmicpc.net/problem/1351) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B4%ED%95%9C%20%EC%88%98%EC%97%B4.java) | []() | [✔]() |
   | 이연상 | [프로그래머스_프로세스(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py) | [백준_공통 부분 문자열(G5)](https://www.acmicpc.net/problem/5582) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B5%ED%86%B5%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 11722 가장 긴 감소하는 부분 수열 (S2)](https://www.acmicpc.net/problem/11722) | [✔](https://github.com/young-46/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11722.cpp) | [백준 2644 촌수계산 (S2)](https://www.acmicpc.net/problem/2644) | [✔](https://github.com/young-46/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2644.cpp) |
 
  
   
@@ -1108,10 +1108,9 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_다리를지나는트럭(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_다리를지나는트럭.java) | [프로그래머스_최댓값과최솟값(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_최댓값과최솟값.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%99%EC%A0%842.py) | [백준_집합의 표현(G5)](https://www.acmicpc.net/problem/1717) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
@@ -1119,7 +1118,6 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
@@ -1131,7 +1129,6 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
@@ -1142,7 +1139,6 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 박경진 | []() | [✔]() | []() | [✔]() |
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
