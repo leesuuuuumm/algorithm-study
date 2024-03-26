@@ -1109,7 +1109,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [프로그래머스_다리를지나는트럭(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_다리를지나는트럭.java) | [프로그래머스_최댓값과최솟값(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_최댓값과최솟값.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 20058_마법사 상어와 파이어스톰(G3)](https://www.acmicpc.net/problem/20058) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EC%8A%A4%ED%86%B0.java) | [백준 2805_나무 자르기(S2)](https://www.acmicpc.net/problem/2805) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EB%AC%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
   | 이연상 | [백준_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%99%EC%A0%842.py) | [백준_집합의 표현(G5)](https://www.acmicpc.net/problem/1717) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
