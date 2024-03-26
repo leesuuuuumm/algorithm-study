@@ -1110,7 +1110,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%99%EC%A0%842.py) | [백준_집합의 표현(G5)](https://www.acmicpc.net/problem/1717) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
