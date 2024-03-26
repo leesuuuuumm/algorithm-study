@@ -1108,7 +1108,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_다리를지나는트럭(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_다리를지나는트럭.java) | [프로그래머스_최댓값과최솟값(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_최댓값과최솟값.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%99%EC%A0%842.py) | [백준_집합의 표현(G5)](https://www.acmicpc.net/problem/1717) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
