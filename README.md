@@ -1119,7 +1119,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2665_미로만들기(G4)](https://www.acmicpc.net/problem/2665) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 1747_소수&팰린드롬(S1)](https://www.acmicpc.net/problem/1747) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
