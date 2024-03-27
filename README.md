@@ -1121,7 +1121,7 @@
   | 이명범 | [프로그래머스_배달(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_배달.java) | [프로그래머스_전력망을둘로나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_전력망을둘로나누기.java) |
   | 이수민 | [백준 2665_미로만들기(G4)](https://www.acmicpc.net/problem/2665) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 1747_소수&팰린드롬(S1)](https://www.acmicpc.net/problem/1747) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C%EC%88%98%26%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java) |
   | 이연상 | [백준_암호 만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | [백준_전화번호 수수께끼(G5)](https://www.acmicpc.net/problem/14369) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1182 부분수열의 합 (S2)](https://www.acmicpc.net/problem/1182) | [✔](https://github.com/young-46/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1182.cpp) | [백준 1260 DFS와 BFS (S2)](https://www.acmicpc.net/problem/1260) | [✔](https://github.com/young-46/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1260.cpp) |
  
 
   
