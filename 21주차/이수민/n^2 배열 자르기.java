@@ -7,7 +7,7 @@ class Solution {
         int k = 0;
         for(long i = left; i<=right;i++){
             int r = (int)(i/n)+1;
-            int c = (int)(i%n)+1;
+            int c = (int)(i%n)+1; 
             answer[k++] = Math.max(r,c);
         }
         
