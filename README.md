@@ -1139,7 +1139,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_두원사이의정수쌍(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_두원사이의정수쌍.java) | [프로그래머스_점찍기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/21주차/이명범/Solution_점찍기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준_강의실 배정(G5)](https://www.acmicpc.net/problem/11000) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%95%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py) | [백준_파이프 옮기기(G5)](https://www.acmicpc.net/problem/17070) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0.py) |
   | 조서영 | [백준 16953 A -> B (S2)](https://www.acmicpc.net/problem/16953) | [✔](https://github.com/young-46/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/16953.cpp) | [백준 11052 카드 구매하기 (S1)](https://www.acmicpc.net/problem/11052) | [✔](https://github.com/young-46/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11052.cpp) |
