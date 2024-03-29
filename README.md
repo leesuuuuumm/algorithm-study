@@ -1141,7 +1141,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_강의실 배정(G5)](https://www.acmicpc.net/problem/11000) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%95%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py) | [백준_파이프 옮기기(G5)](https://www.acmicpc.net/problem/17070) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/21%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8C%8C%EC%9D%B4%ED%94%84%20%EC%98%AE%EA%B8%B0%EA%B8%B0.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
