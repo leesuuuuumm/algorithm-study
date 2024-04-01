@@ -1157,7 +1157,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [코드트리 메이즈 러너(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/submissions?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A9%94%EC%9D%B4%EC%A6%88%20%EB%9F%AC%EB%84%88.java) | [코드트리 왕실의 기사 대결(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%99%95%EC%8B%A4%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%8C%80%EA%B2%B0.java) |
+  | 이수민 | [코드트리 메이즈 러너(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A9%94%EC%9D%B4%EC%A6%88%20%EB%9F%AC%EB%84%88.java) | [코드트리 왕실의 기사 대결(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%99%95%EC%8B%A4%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%8C%80%EA%B2%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
