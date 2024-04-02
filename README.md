@@ -1167,7 +1167,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_12100_2048(G2)](https://www.acmicpc.net/problem/12100) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_12100_2048.java) | [백준_13460_구슬탈출2(G1)](https://www.acmicpc.net/problem/13460) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_13460_구슬탈출2.java) |
   | 이수민 | [코드트리 루돌프의 반란(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A3%A8%EB%8F%8C%ED%94%84%EC%9D%98%20%EB%B0%98%EB%9E%80.java) | [백준 23057_도전 숫자왕(S2)](https://www.acmicpc.net/problem/23057) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%84%EC%A0%84%20%EC%88%AB%EC%9E%90%EC%99%95.java) |
   | 이연상 | [백준_주사위 쌓기(G5)](https://www.acmicpc.net/problem/2116) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%8C%93%EA%B8%B0.py) | [백준_행운의 문자열](https://www.acmicpc.net/problem/1342) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%96%89%EC%9A%B4%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
