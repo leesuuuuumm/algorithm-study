@@ -1156,10 +1156,10 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [프로그래머스_이중우선순위큐(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Solution_이중우선순위큐.java) | [프로그래머스_피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Solution_피로도.java) |
   | 이수민 | [코드트리 메이즈 러너(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/maze-runner/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A9%94%EC%9D%B4%EC%A6%88%20%EB%9F%AC%EB%84%88.java) | [코드트리 왕실의 기사 대결(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%99%95%EC%8B%A4%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%8C%80%EA%B2%B0.java) |
   | 이연상 | [백준_스카이라인 쉬운거(G5)](https://www.acmicpc.net/problem/1863) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%20%EC%89%AC%EC%9A%B4%EA%B1%B0.py) | [백준_퇴사2(G5)](https://www.acmicpc.net/problem/15486) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%87%B4%EC%82%AC2.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2346 풍선 터뜨리기 (S3)](https://www.acmicpc.net/problem/2346) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2346.cpp) | [백준 13417 카드 문자열 (S3)](https://www.acmicpc.net/problem/13417) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/13417.cpp) |
 
  
   
@@ -1167,9 +1167,9 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_12100_2048(G2)](https://www.acmicpc.net/problem/12100) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_12100_2048.java) | [백준_13460_구슬탈출2(G1)](https://www.acmicpc.net/problem/13460) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_13460_구슬탈출2.java) |
+  | 이수민 | [코드트리 루돌프의 반란(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A3%A8%EB%8F%8C%ED%94%84%EC%9D%98%20%EB%B0%98%EB%9E%80.java) | [백준 23057_도전 숫자왕(S2)](https://www.acmicpc.net/problem/23057) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%84%EC%A0%84%20%EC%88%AB%EC%9E%90%EC%99%95.java) |
+  | 이연상 | [백준_주사위 쌓기(G5)](https://www.acmicpc.net/problem/2116) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EC%8C%93%EA%B8%B0.py) | [백준_행운의 문자열](https://www.acmicpc.net/problem/1342) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%96%89%EC%9A%B4%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
