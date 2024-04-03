@@ -1179,7 +1179,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_개똥벌레(G5)](https://www.acmicpc.net/problem/3020) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%9C%EB%98%A5%EB%B2%8C%EB%A0%88.py) | [백준_밥(S1)](https://www.acmicpc.net/problem/23559) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A5.py ) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
 
