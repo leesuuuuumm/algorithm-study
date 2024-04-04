@@ -1177,10 +1177,10 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_3190_뱀.java) | [백준_14499_주사위굴리기(G4)](https://www.acmicpc.net/problem/14499) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_14499_주사위굴리기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_개똥벌레(G5)](https://www.acmicpc.net/problem/3020) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%9C%EB%98%A5%EB%B2%8C%EB%A0%88.py) | [백준_밥(S1)](https://www.acmicpc.net/problem/23559) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A5.py ) |
+  | 조서영 | [백준 1002 터렛 (S3)](https://www.acmicpc.net/problem/1002) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1002.cpp) | [백준 1024 수열의 합 (S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1024.cpp) |
  
 
   
