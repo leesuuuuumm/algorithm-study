@@ -1188,7 +1188,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14500_테트로미노(G4)](https://www.acmicpc.net/problem/14500) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_14500_테트로미노.java) | [백준_14502_연구소(G4)](https://www.acmicpc.net/problem/14502) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_14502_연구소.java) |
   | 이수민 | [백준 1946_신입 사원(S1)](https://www.acmicpc.net/problem/1946) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%A0%EC%9E%85%20%EC%82%AC%EC%9B%90.java) | [백준 17837_새로운 게임 2(G2)](https://www.acmicpc.net/problem/17837) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84%202.java) |
   | 이연상 | [백준 15683_감시(G5)](https://www.acmicpc.net/problem/15683) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%90%EC%8B%9C.py) | [백준 18405_경쟁적 전염(G5)](https://www.acmicpc.net/problem/18405) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
