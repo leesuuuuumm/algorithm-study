@@ -1201,7 +1201,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1931 회의실 배정 (S1)](https://www.acmicpc.net/problem/1931) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1931.cpp) | [백준 1946 신입사원 (S1)](https://www.acmicpc.net/problem/1946) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1946.cpp) |
 
   
   </div>
