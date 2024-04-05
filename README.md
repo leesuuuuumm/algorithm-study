@@ -1198,7 +1198,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14503_로봇청소기(G5)](https://www.acmicpc.net/problem/14503) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_14503_로봇청소기.java) | [백준_14890_경사로(G3)](https://www.acmicpc.net/problem/14890) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/22주차/이명범/Main_14890_경사로.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | [백준 1931 회의실 배정 (S1)](https://www.acmicpc.net/problem/1931) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1931.cpp) | [백준 1946 신입사원 (S1)](https://www.acmicpc.net/problem/1946) | [✔](https://github.com/young-46/algorithm-study/blob/main/22%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1946.cpp) |
