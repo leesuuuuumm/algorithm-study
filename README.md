@@ -1229,7 +1229,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 13398_연속합2(G5)](https://www.acmicpc.net/problem/13398) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%86%8D%ED%95%A92.py) | [백준 1052_물병(S1)](https://www.acmicpc.net/problem/1052) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AC%BC%EB%B3%91.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2667 단지번호 붙이기 (S1)](https://www.acmicpc.net/problem/2667) | [✔](https://github.com/young-46/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2667.cpp) | [백준 11403 경로 찾기 (S1)](https://www.acmicpc.net/problem/11403) | [✔](https://github.com/young-46/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11403.cpp) |
 
   
   ### 24.04.10 수요일
