@@ -1228,7 +1228,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 13398_연속합2(G5)](https://www.acmicpc.net/problem/13398) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%86%8D%ED%95%A92.py) | [백준 1052_물병(S1)](https://www.acmicpc.net/problem/1052) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AC%BC%EB%B3%91.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
