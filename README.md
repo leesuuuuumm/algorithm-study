@@ -1239,7 +1239,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 코드트리빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC%20%EB%B9%B5.java) | [코드트리 나무박멸](https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EB%AC%B4%20%EB%B0%95%EB%A9%B8.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
