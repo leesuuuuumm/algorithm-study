@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Main {
+public class Main { 
 
 	static class Point implements Comparable<Point> {
 		int r;
