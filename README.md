@@ -1249,7 +1249,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [코드트리_코드트리빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=1&pageSize=20) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/23주차/이명범/포탑부수기.java) | [코드트리_싸움땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=1&pageSize=20) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/23주차/이명범/싸움땅.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
