@@ -1250,7 +1250,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [코드트리_코드트리빵](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=1&pageSize=20) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/23주차/이명범/포탑부수기.java) | [코드트리_싸움땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=1&pageSize=20) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/23주차/이명범/싸움땅.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 싸움땅](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%B8%EC%9B%80%EB%95%85.java) | [코드트리 예술성](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%88%EC%88%A0%EC%84%B1.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
