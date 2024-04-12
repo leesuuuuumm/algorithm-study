@@ -1260,7 +1260,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 꼬리잡기놀이](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.java) | [코드트리 포탑 부수기](https://www.codetree.ai/training-field/frequent-problems/problems/destroy-the-turret/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/23%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8F%AC%ED%83%91%20%EB%B6%80%EC%88%98%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
