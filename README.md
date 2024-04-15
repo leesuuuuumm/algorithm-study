@@ -1279,7 +1279,7 @@
   | 이명범 | [백준_15681_트리와쿼리(G5)](https://www.acmicpc.net/problem/15681) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_15681_트리와쿼리.java) | [백준_20922_겹치는건싫어(S1)](https://www.acmicpc.net/problem/20922) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_20922_겹치는건싫어.java) |
   | 이수민 | [백준 1941_소문난 칠공주(G3)](https://www.acmicpc.net/problem/1941) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C%EB%AC%B8%EB%82%9C%20%EC%B9%A0%EA%B3%B5%EC%A3%BC.java) | [백준 1967_트리의 지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.java) |
   | 이연상 | [백준 2096_내려가기(G5)](https://www.acmicpc.net/problem/2096) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0.py) | [백준 1693_트리 색칠하기(G5)](https://www.acmicpc.net/problem/1693) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%B8%EB%A6%AC%20%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0.py) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1780 종이의 개수 (S2)](https://www.acmicpc.net/problem/1780) | [✔](https://github.com/young-46/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1780.cpp) | [백준 17829 222-풀링 (S2)](https://www.acmicpc.net/problem/17829) | [✔](https://github.com/young-46/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/17829.cpp) |
 
  
   
