@@ -1287,7 +1287,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2585_경비행기(G2)](https://www.acmicpc.net/problem/2585) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_2585_경비행기.java) | [백준_1111_IQTest(G3)](https://www.acmicpc.net/problem/1111) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_1111_IQTest.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 2470_두 용액(G5)](https://www.acmicpc.net/problem/2470) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%91%90%20%EC%9A%A9%EC%95%A1.py) | [백준 1038_감소하는 수(G5)](https://www.acmicpc.net/problem/1038) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%20%EC%88%98.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
