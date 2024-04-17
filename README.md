@@ -1297,7 +1297,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1437_수분해(G4)](https://www.acmicpc.net/problem/1437) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_1437_수분해.java) | [백준_19238_스타트택시(G2)](https://www.acmicpc.net/problem/19238) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_19238_스타트택시.java) |
   | 이수민 | [백준 6137_문자열 생성(G4)](https://www.acmicpc.net/problem/6137) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%83%9D%EC%84%B1.java) | [백준 9024_두 수의 합(G5)](https://www.acmicpc.net/problem/9024) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%91%90%EC%88%98%EC%9D%98%20%ED%95%A9.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
