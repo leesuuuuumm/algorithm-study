@@ -1310,7 +1310,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 10026_적록색약(G5)](https://www.acmicpc.net/problem/10026) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py) | [백준 17471_게리맨더링(G5)](https://www.acmicpc.net/problem/17471) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
 
