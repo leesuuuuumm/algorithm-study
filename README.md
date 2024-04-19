@@ -1320,7 +1320,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 1139_단어 수학(G4)](https://www.acmicpc.net/problem/1339) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99.java) | [백준 2565_전줄(G5)](https://www.acmicpc.net/problem/2565) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%84%EA%B9%83%EC%A4%84.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 9251_LCS(G5)](https://www.acmicpc.net/problem/9251) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/LCS.py) | [백준 2251_물통(G5)](https://www.acmicpc.net/problem/2251) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AC%BC%ED%86%B5.py) |
   | 조서영 | [백준 1706 크로스워드 (S2)](https://www.acmicpc.net/problem/1706) | [✔](https://github.com/young-46/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1706.cpp) | [백준 2784 가로 세로 퍼즐 (S2)](https://www.acmicpc.net/problem/2784) | [✔](https://github.com/young-46/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2784.cpp) |
 
   
