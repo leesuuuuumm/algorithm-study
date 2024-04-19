@@ -1319,7 +1319,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1139_단어 수학(G4)](https://www.acmicpc.net/problem/1339) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99.java) | [백준 2565_전줄(G5)](https://www.acmicpc.net/problem/2565) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%84%EA%B9%83%EC%A4%84.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
