@@ -1335,7 +1335,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2225_합분해(G5)](https://www.acmicpc.net/problem/2225) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_2225_합분해.java) | [백준_2410_2의멱수의합(G5)](https://www.acmicpc.net/problem/2410) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_2410_2의멱수의합.java) |
   | 이수민 | [백준 14921_용액 합성하기(G5)](https://www.acmicpc.net/problem/14921) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%A9%EC%95%A1%20%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0.java) | [프로그래머스 요격 시스템(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
