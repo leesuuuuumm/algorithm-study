@@ -1269,7 +1269,7 @@
 </details>
 
 <details>
-  <summary>24주차</summary>
+  <summary>24주차(완료)</summary>
   <div markdown="1">
     
   ### 24.04.15 월요일
@@ -1318,11 +1318,71 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_11058_크라보드(G5)](https://www.acmicpc.net/problem/11058) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_11058_크라보드.java) | [백준_2933_미네랄(G1)](https://www.acmicpc.net/problem/2933) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_2933_미네랄.java) |
   | 이수민 | [백준 1139_단어 수학(G4)](https://www.acmicpc.net/problem/1339) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99.java) | [백준 2565_전줄(G5)](https://www.acmicpc.net/problem/2565) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%84%EA%B9%83%EC%A4%84.java) |
+  | 이연상 | [백준 9251_LCS(G5)](https://www.acmicpc.net/problem/9251) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/LCS.py) | [백준 2251_물통(G5)](https://www.acmicpc.net/problem/2251) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AC%BC%ED%86%B5.py) |
+  | 조서영 | [백준 1706 크로스워드 (S2)](https://www.acmicpc.net/problem/1706) | [✔](https://github.com/young-46/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1706.cpp) | [백준 2784 가로 세로 퍼즐 (S2)](https://www.acmicpc.net/problem/2784) | [✔](https://github.com/young-46/algorithm-study/blob/main/24%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2784.cpp) |
+
+  
+  </div>
+</details>
+
+<details>
+  <summary>25주차</summary>
+  <div markdown="1">
+    
+  ### 24.04.22 월요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+
+ 
+  
+  ### 24.04.23 화요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |  
+
+  
+  ### 24.04.24 수요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+ 
+
+  
+  ### 24.04.25 목요일
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | []() | [✔]() | []() | [✔]() |
+ 
+
+  ### 24.04.26 금요일
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
   </div>
 </details>
+
