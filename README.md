@@ -1348,7 +1348,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 2667 단지번호 붙이기(G5)](https://www.acmicpc.net/problem/2667) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.py) | [백준 3055 탈출(G5)](https://www.acmicpc.net/problem/3055) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%88%EC%B6%9C.py) |
   | 조서영 | [백준 1697 숨바꼭질 (S1)](https://www.acmicpc.net/problem/1697) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1697.cpp) | [백준 1992 쿼드트리 (S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1992.cpp) |  
 
   
