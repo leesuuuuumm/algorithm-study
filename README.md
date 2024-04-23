@@ -1335,10 +1335,10 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2225_합분해(G5)](https://www.acmicpc.net/problem/2225) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_2225_합분해.java) | [백준_2410_2의멱수의합(G5)](https://www.acmicpc.net/problem/2410) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_2410_2의멱수의합.java) |
   | 이수민 | [백준 14921_용액 합성하기(G5)](https://www.acmicpc.net/problem/14921) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%A9%EC%95%A1%20%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0.java) | [프로그래머스 요격 시스템(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/181188) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 14503_로봇 청소기(G5)](https://www.acmicpc.net/problem/14503) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.py) | [백준 2812_크게 만들기(G5)](https://www.acmicpc.net/problem/2812) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) |
+  | 조서영 | [백준 1141 접두사 (S1)](https://www.acmicpc.net/problem/1141) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1141.cpp) | [백준 20310 타노스 (S2)](https://www.acmicpc.net/problem/20310) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/20310.cpp) |
 
  
   
@@ -1349,7 +1349,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |  
+  | 조서영 | [백준 1697 숨바꼭질 (S1)](https://www.acmicpc.net/problem/1697) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1697.cpp) | [백준 1992 쿼드트리 (S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1992.cpp) |  
 
   
   ### 24.04.24 수요일
