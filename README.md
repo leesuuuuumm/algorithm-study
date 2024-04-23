@@ -1349,7 +1349,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |  
+  | 조서영 | [백준 1697 숨바꼭질 (S1)](https://www.acmicpc.net/problem/1697) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1697.cpp) | [백준 1992 쿼드트리 (S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1992.cpp) |  
 
   
   ### 24.04.24 수요일
