@@ -1359,7 +1359,7 @@
   | 이명범 | [백준_17845_수강과목(G5)](https://www.acmicpc.net/problem/17845) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_17845_수강과목.java) | [백준_27210_신을모시는사당(G5)](https://www.acmicpc.net/problem/27210) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_27210_신을모시는사당.java) |
   | 이수민 | [백준 18808_스티커 붙이기(G3)](https://www.acmicpc.net/problem/18808) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%B6%99%EC%9D%B4%EA%B8%B0.java) | [프로그래머스 유사 칸토어 비트열(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/148652#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9C%A0%EC%82%AC%20%EC%B9%B8%ED%86%A0%EC%96%B4%20%EB%B9%84%ED%8A%B8%EC%97%B4.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 12852 1로 만들기 2 (S1)](https://www.acmicpc.net/problem/12852) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/12852.cpp) | [백준 2294 동전 2 (G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2294.cpp) |
  
 
   
