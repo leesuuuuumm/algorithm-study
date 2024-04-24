@@ -1356,7 +1356,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_17845_수강과목(G5)](https://www.acmicpc.net/problem/17845) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_17845_수강과목.java) | [백준_27210_신을모시는사당(G5)](https://www.acmicpc.net/problem/27210) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/24주차/이명범/Main_27210_신을모시는사당.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
