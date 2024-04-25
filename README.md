@@ -1369,7 +1369,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 19699_소-난다!(S2)](https://www.acmicpc.net/problem/19699) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C-%EB%82%9C%EB%8B%A4!.java) | [프로그래머스 미로 탈출 명령어(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C%20%EB%AA%85%EB%A0%B9%EC%96%B4.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 16324 인구 이동(G5)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py) | [백준 21758 꿀 따기(G5)](https://www.acmicpc.net/problem/21758) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%BF%80%20%EB%94%B0%EA%B8%B0.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
 
