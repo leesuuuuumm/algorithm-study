@@ -1379,7 +1379,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 11286 절댓값 힙(S1)](https://www.acmicpc.net/problem/11286) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99.py) | [백준 2151 거울설치(G5)](https://www.acmicpc.net/problem/2151) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B1%B0%EC%9A%B8%EC%84%A4%EC%B9%98.py) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
