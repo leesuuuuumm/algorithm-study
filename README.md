@@ -1394,7 +1394,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_3079_입국심사(G5)](https://www.acmicpc.net/problem/3079) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_3079_입국심사.java) | [백준_17825_주사위윷놀이(G2)](https://www.acmicpc.net/problem/17825) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/25주차/이명범/Main_17825_주사위윷놀이.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 2877 4와 7(G5)](https://www.acmicpc.net/problem/2877) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/4%EC%99%80%207.py) | [백준 2174 로봇 시뮬레이션(G5)](https://www.acmicpc.net/problem/2174) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.py) |  
   | 조서영 | [백준 4233 가짜소수 (G5)](https://www.acmicpc.net/problem/4233) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/4233.cpp) | [백준 2447 별 찍기 - 10 (G5)](https://www.acmicpc.net/problem/2447) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2447.cpp) |
