@@ -1328,7 +1328,7 @@
 </details>
 
 <details>
-  <summary>25주차</summary>
+  <summary>25주차(완료)</summary>
   <div markdown="1">
     
   ### 24.04.22 월요일
