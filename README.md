@@ -1378,7 +1378,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_2313_보석구매하기(G5)](https://www.acmicpc.net/problem/2313) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/25주차/이명범/Main_2313_보석구매하기.java) | [백준_25634_전구상태뒤집기(G5)](https://www.acmicpc.net/problem/25634) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/25주차/이명범/Main_25634_전구상태뒤집기.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 28066_타노스는 요세푸스가 밉다(S2)](https://www.acmicpc.net/problem/28066) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%80%EB%85%B8%EC%8A%A4%EB%8A%94%20%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EA%B0%80%20%EB%B0%89%EB%8B%A4.java) | []() | [✔]() |
   | 이연상 | [백준 11286 절댓값 힙(S1)](https://www.acmicpc.net/problem/11286) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%88%EB%8C%93%EA%B0%92%20%ED%9E%99.py) | [백준 2151 거울설치(G5)](https://www.acmicpc.net/problem/2151) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B1%B0%EC%9A%B8%EC%84%A4%EC%B9%98.py) |
   | 조서영 | [백준 1662 압축 (G5)](https://www.acmicpc.net/problem/1662) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1662.cpp) | [백준 2493 탑 (G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/young-46/algorithm-study/blob/main/25%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2493.cpp) |
 
