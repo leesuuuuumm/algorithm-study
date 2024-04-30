@@ -1406,7 +1406,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 28015_영역 색칠(S2)](https://www.acmicpc.net/problem/28015) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%81%EC%97%AD%20%EC%83%89%EC%B9%A0.java) | [백준 2589_보물섬(G5)](https://www.acmicpc.net/problem/2589) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EB%AC%BC%EC%84%AC.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
