@@ -1417,7 +1417,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_더 맵게(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.java) | [프로그래머스_기능개발(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
 
