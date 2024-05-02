@@ -1418,7 +1418,7 @@
   | 이명범 | [백준_9177_단어섞기(G4)](https://www.acmicpc.net/problem/9177) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_9177_단어섞기.java) | [백준_16194_카드구매하기(S1)](https://www.acmicpc.net/problem/16194) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_16194_카드구매하기.java) |
   | 이수민 | [백준 1174_줄어드는 수(G5)](https://www.acmicpc.net/problem/1174) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%20%EC%88%98.java) | [백준 3758_KCPC(S2)](https://www.acmicpc.net/problem/3758) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/KCPC.java) |
   | 이연상 | [프로그래머스_더 맵게(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.java) | [프로그래머스_기능개발(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 7576 토마토 (G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/7576.cpp) | [백준 12865 평범한 배낭 (G5)](https://www.acmicpc.net/problem/12865) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/12865.cpp) |
  
 
   
@@ -1426,10 +1426,10 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_11057_오르막수(S1)](https://www.acmicpc.net/problem/11057) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_11057_오르막수.java) | [백준_17404_RGB거리2(G4)](https://www.acmicpc.net/problem/17404) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_17404_RGB거리2.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_전력망을 둘로 나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.java) | [프로그래머스_피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java) |
+  | 조서영 | [백준 2565 전깃줄 (G5)](https://www.acmicpc.net/problem/2565) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2565.cpp) | [백준 11000 강의실 배정 (G5)](https://www.acmicpc.net/problem/11000) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11000.cpp) |
  
 
   ### 24.05.03 금요일
