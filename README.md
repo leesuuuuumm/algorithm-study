@@ -1427,7 +1427,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_11057_오르막수(S1)](https://www.acmicpc.net/problem/11057) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_11057_오르막수.java) | [백준_17404_RGB거리2(G4)](https://www.acmicpc.net/problem/17404) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_17404_RGB거리2.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2178_미로 탐색(S1)](https://www.acmicpc.net/problem/2178) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.java) | [프로그래머스 두 원 사이의 정수 쌍
+(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/181187?language=java) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%91%90%20%EC%9B%90%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EC%A0%95%EC%88%98%20%EC%8C%8D.java) |
   | 이연상 | [프로그래머스_전력망을 둘로 나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0.java) | [프로그래머스_피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java) |
   | 조서영 | [백준 2565 전깃줄 (G5)](https://www.acmicpc.net/problem/2565) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2565.cpp) | [백준 11000 강의실 배정 (G5)](https://www.acmicpc.net/problem/11000) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/11000.cpp) |
  
