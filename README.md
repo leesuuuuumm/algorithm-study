@@ -1439,7 +1439,7 @@
   | 이명범 | [백준_2437_저울(G2)](https://www.acmicpc.net/problem/2437) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_2437_저울.java) | [백준_9328_열쇠(G1)](https://www.acmicpc.net/problem/9328) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/26주차/이명범/Main_9328_열쇠.java) |
   | 이수민 | [백준 16139_인간-컴퓨터 상호작용(S1)](https://www.acmicpc.net/problem/16139) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B8%EA%B0%84-%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9.java) | [백준 17220_마약수사대(G4)](https://www.acmicpc.net/problem/17220) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EC%95%BD%EC%88%98%EC%82%AC%EB%8C%80.java) |
   | 이연상 | [프로그래머스_소수찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.java) | [프로그래머스_모음사전(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2138 전구와 스위치 (G5)](https://www.acmicpc.net/problem/2138) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2138.cpp) | [백준 1052 물병 (G5)](https://www.acmicpc.net/problem/1052) | [✔](https://github.com/young-46/algorithm-study/blob/main/26%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1052.cpp) |
 
   
   </div>
