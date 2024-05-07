@@ -1387,7 +1387,7 @@
 </details>
 
 <details>
-  <summary>26주차</summary>
+  <summary>26주차(완료)</summary>
   <div markdown="1">
     
   ### 24.04.29 월요일
@@ -1455,7 +1455,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 3020_개똥벌레(G5)](https://www.acmicpc.net/problem/3020) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%9C%EB%98%A5%EB%B2%8C%EB%A0%88.java) | [백준 1283_단축키 지정(S1)](https://www.acmicpc.net/problem/1283) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%B6%95%ED%82%A4%20%EC%A7%80%EC%A0%95.java) |
   | 이연상 | [프로그래머스_조이스틱(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.java) | [프로그래머스_큰 수 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
