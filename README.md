@@ -1465,7 +1465,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_1912_연속합.java) | [백준_15488_나이트가..(G5)](https://www.acmicpc.net/problem/15488) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_15488_나이트가체스판을벗어나지않을확률.java) |
   | 이수민 | [백준 16929_Two Dots(G4)](https://www.acmicpc.net/problem/16929) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/Two%20Dots.java) | [백준 25918_북극곰은 괄호를 찢어(S1)](https://www.acmicpc.net/problem/25918) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%9D%80%20%EA%B4%84%ED%98%B8%EB%A5%BC%20%EC%B0%A2%EC%96%B4.java) |
   | 이연상 | [백준 5430_AC(G5)](https://www.acmicpc.net/problem/5430) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/AC.java) | [백준 1245_농장 관리(G5)](https://www.acmicpc.net/problem/1245) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
