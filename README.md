@@ -1467,7 +1467,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 5430_AC(G5)](https://www.acmicpc.net/problem/5430) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/AC.java) | [백준 1245_농장 관리(G5)](https://www.acmicpc.net/problem/1245) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
 
