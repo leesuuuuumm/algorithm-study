@@ -1479,7 +1479,7 @@
   | 이명범 | [백준_14595_동방프로젝트(G3)](https://www.acmicpc.net/problem/14595) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_14595_동방프로젝트.java) | [백준_16964_DFS스페셜저지(G3)](https://www.acmicpc.net/problem/16964) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_16964_DFS스페셜저지.java) |
   | 이수민 | [백준 16234_인구 이동(G4)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.java) | [백준 21317_징검다리 건너기(S1)](https://www.acmicpc.net/problem/21317) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0.java) |
   | 이연상 | [백준 1374_강의실(G5)](https://www.acmicpc.net/problem/1374) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%95%EC%9D%98%EC%8B%A4.java) | [백준 1034_램프(G5)](https://www.acmicpc.net/problem/1034) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%9E%A8%ED%94%84.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 9925 문자열 폭발 (G4)](https://www.acmicpc.net/problem/9935) | [✔](https://github.com/young-46/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/9935.cpp) | [백준 9489 사촌 (G4)](https://www.acmicpc.net/problem/9489) | [✔](https://github.com/young-46/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/9489.cpp) |
 
 
   ### 24.05.10 금요일
