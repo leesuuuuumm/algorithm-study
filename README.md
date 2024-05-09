@@ -1468,7 +1468,7 @@
   | 이명범 | [백준_1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_1912_연속합.java) | [백준_15488_나이트가..(G5)](https://www.acmicpc.net/problem/15488) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_15488_나이트가체스판을벗어나지않을확률.java) |
   | 이수민 | [백준 16929_Two Dots(G4)](https://www.acmicpc.net/problem/16929) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/Two%20Dots.java) | [백준 25918_북극곰은 괄호를 찢어(S1)](https://www.acmicpc.net/problem/25918) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B6%81%EA%B7%B9%EA%B3%B0%EC%9D%80%20%EA%B4%84%ED%98%B8%EB%A5%BC%20%EC%B0%A2%EC%96%B4.java) |
   | 이연상 | [백준 5430_AC(G5)](https://www.acmicpc.net/problem/5430) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/AC.java) | [백준 1245_농장 관리(G5)](https://www.acmicpc.net/problem/1245) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2110 공유기 설치 (G4)](https://www.acmicpc.net/problem/2110) | [✔](https://github.com/young-46/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2110.cpp) | [백준 3151 합이 0 (G4)](https://www.acmicpc.net/problem/3151) | [✔](https://github.com/young-46/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/3151.cpp) |
  
 
 
@@ -1476,9 +1476,9 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14595_동방프로젝트(G3)](https://www.acmicpc.net/problem/14595) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_14595_동방프로젝트.java) | [백준_16964_DFS스페셜저지(G3)](https://www.acmicpc.net/problem/16964) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_16964_DFS스페셜저지.java) |
+  | 이수민 | [백준 16234_인구 이동(G4)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.java) | [백준 21317_징검다리 건너기(S1)](https://www.acmicpc.net/problem/21317) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0.java) |
+  | 이연상 | [백준 1374_강의실(G5)](https://www.acmicpc.net/problem/1374) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%95%EC%9D%98%EC%8B%A4.java) | [백준 1034_램프(G5)](https://www.acmicpc.net/problem/1034) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%9E%A8%ED%94%84.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
 
