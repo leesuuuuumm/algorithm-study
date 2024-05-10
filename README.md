@@ -1487,7 +1487,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 15686_치킨 배달(G4)](https://www.acmicpc.net/problem/15686) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.java) | [백준 11279_최대 힙(S2)](https://www.acmicpc.net/problem/11279) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B5%9C%EB%8C%80%20%ED%9E%99.java) |
   | 이연상 | [프로그래머스_예상 대진표(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java) | [프로그래머스_연속 부분 수열 합의 개수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/27%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
