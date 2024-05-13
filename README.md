@@ -1505,7 +1505,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 18405_경쟁적 전염(G5)](https://www.acmicpc.net/problem/18405) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC.java) | [백준 4889_안정적인 문자열(S1)](https://www.acmicpc.net/problem/4889) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8%20%EB%AC%B8%EC%9E%90%EC%97%B4.java) |
   | 이연상 | [프로그래머스_괄호 회전하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) | [프로그래머스_할인 행사(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
