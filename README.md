@@ -1516,7 +1516,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_n^2 배열 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/n2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스_[1차] 뉴스 클러스터링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/1%EC%B0%A8%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
 
