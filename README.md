@@ -1527,7 +1527,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 23350_K 물류창고(S1)](https://www.acmicpc.net/problem/23350) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/K%20%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0.java) | [백준 1863_스카이라인 쉬운거(G4)](https://www.acmicpc.net/problem/1863) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%20%EC%89%AC%EC%9A%B4%EA%B1%B0.java) |
   | 이연상 | [프로그래머스_주식가격(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java) | [백준 2493_탑(G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 23309 철도 공사 (G4)](https://www.acmicpc.net/problem/3095) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/23309.cpp) | [백준 2118 두 개의 탑 (G5)](https://www.acmicpc.net/problem/2118) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2118.cpp) |
 
 
   ### 24.05.17 금요일
