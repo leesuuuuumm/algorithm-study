@@ -1535,7 +1535,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 12852_1로 만들기 2(S1)](https://www.acmicpc.net/problem/12852) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202.java) | [백준 2877_4와 7(G5)](https://www.acmicpc.net/problem/2877) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/4%EC%99%80%207.java) |
   | 이연상 | [프로그래머스_롤케이크 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스_뒤에 있는 큰 수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
