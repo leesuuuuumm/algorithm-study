@@ -1537,7 +1537,7 @@
   | 이명범 | [백준_1504_특정한최단경로(G4)](https://www.acmicpc.net/problem/1504) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_1504_특정한최단경로.java) | [백준_6497_전력난(G4)](https://www.acmicpc.net/problem/6497) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_6497_전력난.java) |
   | 이수민 | [백준 12852_1로 만들기 2(S1)](https://www.acmicpc.net/problem/12852) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202.java) | [백준 2877_4와 7(G5)](https://www.acmicpc.net/problem/2877) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/4%EC%99%80%207.java) |
   | 이연상 | [프로그래머스_롤케이크 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스_뒤에 있는 큰 수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1062 가르침 (G4)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1062.cpp) | [백준 1034 램프 (G4)](https://www.acmicpc.net/problem/1034) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1034.cpp) |
 
   
   </div>
