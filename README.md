@@ -1514,7 +1514,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | [백준_12908_텔레포트3(G5)](https://www.acmicpc.net/problem/12908) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_12908_텔레포트3.java) | [백준_25381_ABBC(G3)](https://www.acmicpc.net/problem/25381) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/27주차/이명범/Main_25381_ABBC.java) |
+  | 이명범 | [백준_12908_텔레포트3(G5)](https://www.acmicpc.net/problem/12908) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_12908_텔레포트3.java) | [백준_25381_ABBC(G3)](https://www.acmicpc.net/problem/25381) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_25381_ABBC.java) |
   | 이수민 | [백준 14650_걷다보니 신천역 삼(S2)](https://www.acmicpc.net/problem/14650) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B1%B7%EB%8B%A4%EB%B3%B4%EB%8B%88%20%EC%8B%A0%EC%B2%9C%EC%97%AD%20%EC%82%BC%20(Small).java) | [백준 17141_연구소 2(G4)](https://www.acmicpc.net/problem/17141) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EA%B5%AC%EC%86%8C%202.java) |
   | 이연상 | [프로그래머스_n^2 배열 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/n2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스_[1차] 뉴스 클러스터링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/1%EC%B0%A8%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
   | 조서영 | [백준 1451 직사각형으로 나누기 (G4)](https://www.acmicpc.net/problem/1451) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1451.cpp) | [백준 1806 부분합 (G4)](https://www.acmicpc.net/problem/1806) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1806.cpp) |
@@ -1524,19 +1524,19 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2240_자두나무(G5)](https://www.acmicpc.net/problem/2240) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_12908_텔레포트3.java) | [백준_17836_공주님을구해라(G5)](https://www.acmicpc.net/problem/17836) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_12908_텔레포트3.java) |
   | 이수민 | [백준 23350_K 물류창고(S1)](https://www.acmicpc.net/problem/23350) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/K%20%EB%AC%BC%EB%A5%98%EC%B0%BD%EA%B3%A0.java) | [백준 1863_스카이라인 쉬운거(G4)](https://www.acmicpc.net/problem/1863) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8%20%EC%89%AC%EC%9A%B4%EA%B1%B0.java) |
   | 이연상 | [프로그래머스_주식가격(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java) | [백준 2493_탑(G5)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 23309 철도 공사 (G4)](https://www.acmicpc.net/problem/3095) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/23309.cpp) | [백준 2118 두 개의 탑 (G5)](https://www.acmicpc.net/problem/2118) | [✔](https://github.com/young-46/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2118.cpp) |
 
 
   ### 24.05.17 금요일
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1504_특정한최단경로(G4)](https://www.acmicpc.net/problem/1504) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_1504_특정한최단경로.java) | [백준_6497_전력난(G4)](https://www.acmicpc.net/problem/6497) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/28주차/이명범/Main_6497_전력난.java) |
+  | 이수민 | [백준 12852_1로 만들기 2(S1)](https://www.acmicpc.net/problem/12852) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202.java) | [백준 2877_4와 7(G5)](https://www.acmicpc.net/problem/2877) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/4%EC%99%80%207.java) |
+  | 이연상 | [프로그래머스_롤케이크 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [프로그래머스_뒤에 있는 큰 수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/28%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
   
