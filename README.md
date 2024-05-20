@@ -1553,7 +1553,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 12849_본대산책(S1)](https://www.acmicpc.net/problem/12849) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B3%B8%EB%8C%80%EC%82%B0%EC%B1%85.java) | [백준 1068_트리(G5)](https://www.acmicpc.net/problem/1068) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%B8%EB%A6%AC.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
  
