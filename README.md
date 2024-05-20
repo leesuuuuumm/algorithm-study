@@ -1551,7 +1551,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2263_트리의순회(G1)](https://www.acmicpc.net/problem/2263) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_2263_트리의순회.java) | [백준_2805_나무자르기(S2)](https://www.acmicpc.net/problem/2805) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_2805_나무자르기.java) |
   | 이수민 | [백준 1956_운동(G4)](https://www.acmicpc.net/problem/1956) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%B4%EB%8F%99.java) | [백준 2644_촌수계산(S2)](https://www.acmicpc.net/problem/2644) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.java) |
   | 이연상 | [백준 12849_본대산책(S1)](https://www.acmicpc.net/problem/12849) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B3%B8%EB%8C%80%EC%82%B0%EC%B1%85.java) | [백준 1068_트리(G5)](https://www.acmicpc.net/problem/1068) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%B8%EB%A6%AC.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
