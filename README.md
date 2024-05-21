@@ -1564,7 +1564,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 11052_카드 구매하기(S1)](https://www.acmicpc.net/problem/11052) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) | [백준 2467_용액(G5)](https://www.acmicpc.net/problem/2467) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%A9%EC%95%A1.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
