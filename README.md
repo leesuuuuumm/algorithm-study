@@ -1575,7 +1575,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 9465_스티커(S1)](https://www.acmicpc.net/problem/9465) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%8B%B0%EC%BB%A4.java) | [백준 16926_배열 돌리기 1(G5)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2015 수들의 합 4 (G4)](https://www.acmicpc.net/problem/2015) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2015.cpp) | [백준 21758 꿀 따기 (G5)](https://www.acmicpc.net/problem/21758) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/21758.cpp) |
  
 
   
