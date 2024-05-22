@@ -1572,7 +1572,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_9184_신나는함수실행(S2)](https://www.acmicpc.net/problem/9184) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_9184_신나는함수실행.java) | [백준_17396_백도어(G5)](https://www.acmicpc.net/problem/17396) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_17396_백도어.java) |
   | 이수민 | [백준 9465_스티커(S1)](https://www.acmicpc.net/problem/9465) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%8B%B0%EC%BB%A4.java) | [백준 16926_배열 돌리기 1(G5)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%201.java) |
   | 이연상 | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | [백준 1715_카드 정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
   | 조서영 | [백준 2015 수들의 합 4 (G4)](https://www.acmicpc.net/problem/2015) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2015.cpp) | [백준 21758 꿀 따기 (G5)](https://www.acmicpc.net/problem/21758) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/21758.cpp) |
