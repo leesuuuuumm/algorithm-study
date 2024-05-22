@@ -1565,7 +1565,7 @@
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 20165_인내의 도미노 장인 호석(G5)](https://www.acmicpc.net/problem/20165) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B8%EB%82%B4%EC%9D%98%20%EB%8F%84%EB%AF%B8%EB%85%B8%20%EC%9E%A5%EC%9D%B8%20%ED%98%B8%EC%84%9D.java) | [백준 14889_스타트와 링크(S1)](https://www.acmicpc.net/problem/14889) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC.java) |
   | 이연상 | [백준 11052_카드 구매하기(S1)](https://www.acmicpc.net/problem/11052) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) | [백준 2467_용액(G5)](https://www.acmicpc.net/problem/2467) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%A9%EC%95%A1.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |  
+  | 조서영 | [백준 1027 고층 건물 (G4)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1027.cpp) | [백준 2116 주사위 쌓기 (G5)](https://www.acmicpc.net/problem/2116) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2116.cpp) |  
 
   
   ### 24.05.22 수요일
