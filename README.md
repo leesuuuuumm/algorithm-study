@@ -1586,7 +1586,7 @@
   | 이명범 | [백준_2477_참외밭(S2)](https://www.acmicpc.net/problem/2477) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_2477_참외밭.java) | [백준_11657_타임머신(G5)](https://www.acmicpc.net/problem/11657) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_11657_타임머신.java) |
   | 이수민 | [백준 21318_피아노 체조(S1)](https://www.acmicpc.net/problem/21318) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%BC%EC%95%84%EB%85%B8%20%EC%B2%B4%EC%A1%B0.java) | [백준 2295_세 수의 합(G4)](https://www.acmicpc.net/problem/2295) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%B8%20%EC%88%98%EC%9D%98%20%ED%95%A9.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 16562 친구비 (G4)](https://www.acmicpc.net/problem/16562) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/16562.cpp) | [백준 18513 샘터 (G4)](https://www.acmicpc.net/problem/18513) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/18513.cpp) |
  
 
   ### 24.05.24 금요일
