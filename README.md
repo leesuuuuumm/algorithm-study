@@ -1584,7 +1584,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 21318_피아노 체조(S1)](https://www.acmicpc.net/problem/21318) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%BC%EC%95%84%EB%85%B8%20%EC%B2%B4%EC%A1%B0.java) | [백준 2295_세 수의 합(G4)](https://www.acmicpc.net/problem/2295) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%B8%20%EC%88%98%EC%9D%98%20%ED%95%A9.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
