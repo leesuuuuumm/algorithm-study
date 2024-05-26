@@ -1596,7 +1596,7 @@
   | 이명범 | [백준_2933_미네랄(G1)](https://www.acmicpc.net/problem/2933) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_2933_미네랄.java) | [백준_24523_내뒤에나와다른수(S2)](https://www.acmicpc.net/problem/24523) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/29주차/이명범/Main_24523_내뒤에나와다른수.java) |
   | 이수민 | [백준 1342_행운의 문자열(S1)](https://www.acmicpc.net/problem/1342) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%96%89%EC%9A%B4%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4.java) | [백준 9663_N-Queen(G4)](https://www.acmicpc.net/problem/9663) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/N-Queen.java) |
   | 이연상 | [백준 1421_낚시꾼 이다솜(S1)](https://www.acmicpc.net/problem/1421) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%9A%EC%8B%9C%EA%BE%BC%20%EC%9D%B4%EB%8B%A4%EC%86%9C.java) | [백준 1956_운동(G4)](https://www.acmicpc.net/problem/1956) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%B4%EB%8F%99.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 1477 휴게소 세우기 (G4)](https://www.acmicpc.net/problem/1477) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/1477.cpp) | [백준 3079 입국심사 (G5)](https://www.acmicpc.net/problem/3079) | [✔](https://github.com/young-46/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/3079.cpp) |
 
   
   </div>
