@@ -1612,7 +1612,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_땅따먹기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java) | [프로그래머스_주차 요금 계산(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
  
