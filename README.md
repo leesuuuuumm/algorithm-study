@@ -1611,7 +1611,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 10971_외판원 순회 2(S2)](https://www.acmicpc.net/problem/10971) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C%202.java) | [백준 9082_지뢰찾기(G4)](https://www.acmicpc.net/problem/9082) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_땅따먹기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java) | [프로그래머스_주차 요금 계산(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
