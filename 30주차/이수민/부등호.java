@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-
+ 
 	static int N;
 	static String[] comp;
 	static int[] selc;
