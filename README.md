@@ -1623,7 +1623,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_k진수에서 소수 개수 구하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) | [백준 13335_트럭(S1)](https://www.acmicpc.net/problem/13335) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%B8%EB%9F%AD.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |  
 
   
