@@ -1632,7 +1632,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1911_흙길 보수하기(G5)](https://www.acmicpc.net/problem/1911) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%9D%99%EA%B8%B8%20%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0.java) | [백준 17822_원판 돌리기(G2)](https://www.acmicpc.net/problem/17822) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9B%90%ED%8C%90%20%EB%8F%8C%EB%A6%AC%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_이중우선순위큐(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.java) | [프로그래머스_정수 삼각형(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
  
