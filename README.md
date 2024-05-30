@@ -1642,7 +1642,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1507_궁금한민호(G2)](https://www.acmicpc.net/problem/1507) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1507_궁금한민호.java) | [백준_2239_스도쿠(G4)](https://www.acmicpc.net/problem/2239) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_2239_스도쿠.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_네트워크(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) | [프로그래머스_야근 지수(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/30%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
