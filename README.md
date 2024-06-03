@@ -1603,7 +1603,7 @@
 </details>
 
 <details>
-  <summary>30주차</summary>
+  <summary>30주차(완료)</summary>
   <div markdown="1">
     
   ### 24.05.27 월요일
@@ -1670,7 +1670,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_1062_가르침(G4)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1062_가르침.java) | [백준_1074_Z.java](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1074_Z.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | []() | [✔]() |
   | 이연상 | [백준 17099_회문(S1)](https://www.acmicpc.net/problem/17609) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%9A%8C%EB%AC%B8.java) | [백준 9019__DSLR(G4)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/DSLR.java) |
   | 조서영 | [백준 20444 색종이와 가위 (G5)](https://www.acmicpc.net/problem/20444) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/20444.cpp) | [백준 2470 두 용액 (G5)](https://www.acmicpc.net/problem/2470) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2470.cpp) |
 
