@@ -1672,7 +1672,7 @@
   | 이명범 | [백준_1062_가르침(G4)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1062_가르침.java) | [백준_1074_Z.java](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1074_Z.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 17099_회문(S1)](https://www.acmicpc.net/problem/17609) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%9A%8C%EB%AC%B8.java) | [백준 9019__DSLR(G4)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/DSLR.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 20444 색종이와 가위 (G5)](https://www.acmicpc.net/problem/20444) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/20444.cpp) | [백준 2470 두 용액 (G5)](https://www.acmicpc.net/problem/2470) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2470.cpp) |
 
 
   ### 24.06.04 화요일
