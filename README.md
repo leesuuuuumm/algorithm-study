@@ -1680,7 +1680,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 30702_국기 색칠하기(S1)](https://www.acmicpc.net/problem/30702) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B5%AD%EA%B8%B0%20%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0.java) | [코드트리 바이러스 백신(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/vaccine-for-virus/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%EB%B0%B1%EC%8B%A0.java) |
   | 이연상 | [프로그래머스_단어 변환(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) | [백준 1263_시간 관리(S1)](https://www.acmicpc.net/problem/1263) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8B%9C%EA%B4%80%20%EA%B4%80%EB%A6%AC.java) |
   | 조서영 | [백준 2580 스도쿠 (G4)](https://www.acmicpc.net/problem/2580) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2580.cpp) | [백준 링크와 스타트 (G5)](https://www.acmicpc.net/problem/15661) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/15661.cpp) |
 
