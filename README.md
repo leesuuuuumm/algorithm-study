@@ -1681,7 +1681,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_단어 변환(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) | [백준 1263_시간 관리(S1)](https://www.acmicpc.net/problem/1263) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8B%9C%EA%B4%80%20%EA%B4%80%EB%A6%AC.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
 
