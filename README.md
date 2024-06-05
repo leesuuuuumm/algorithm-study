@@ -1692,7 +1692,7 @@
   | 이명범 | [백준_1398_음하철도구구팔(S1)](https://www.acmicpc.net/problem/1398) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1398_음하철도구구팔.java) | [백준_5069_미로에갇힌상근(G4)](https://www.acmicpc.net/problem/5069) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_5069_미로에갇힌상근.java) |
   | 이수민 | [백준 1743_음식물 피하기(S1)](https://www.acmicpc.net/problem/1743) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.java) | [코드트리 청소는 즐거워(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/cleaning-is-joyful/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%AD%EC%86%8C%EB%8A%94%20%EC%A6%90%EA%B1%B0%EC%9B%8C.java) |
   | 이연상 | [프로그래머스_방문길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [백준 1105_팔(S1)](https://www.acmicpc.net/problem/1105) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8C%94.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 2800 괄호 제거 (G4)](https://www.acmicpc.net/problem/2800) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2800.cpp) | [백준 13397 구간 나누기 2 (G4)](https://www.acmicpc.net/problem/13397) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/13397.cpp) |
 
 
   ### 24.06.06 목요일
