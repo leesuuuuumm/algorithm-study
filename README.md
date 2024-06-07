@@ -1711,7 +1711,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1697_숨바꼭질(S1)](https://www.acmicpc.net/problem/1697) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java) | [프로그래머스_최고의 집합(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.java) |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
 </details>
