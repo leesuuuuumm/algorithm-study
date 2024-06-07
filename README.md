@@ -1695,14 +1695,7 @@
   | 조서영 | [백준 2800 괄호 제거 (G4)](https://www.acmicpc.net/problem/2800) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2800.cpp) | [백준 13397 구간 나누기 2 (G4)](https://www.acmicpc.net/problem/13397) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/13397.cpp) |
 
 
-  ### 24.06.06 목요일
-  
-  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
-  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  ### 24.06.06 목요일(현충일)
 
 
   ### 24.06.07 금요일
@@ -1710,7 +1703,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 5525_IOIOI(S1)](https://www.acmicpc.net/problem/5525) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/IOIOI.java) | [코드트리 방화벽 설치하기(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/firewall-installation/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%ED%99%94%EB%B2%BD%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
   | 조서영 | []() | [✔]() | []() | [✔]() |
 
