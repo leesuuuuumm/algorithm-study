@@ -1718,7 +1718,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_16500_문자열판별(G5)](https://www.acmicpc.net/problem/16500) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_16500_문자열판별.java) | [백준_20055_컨베이어벨트(G5)](https://www.acmicpc.net/problem/20055) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_20055_컨베이어벨트.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 1992_쿼드 트리(S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BF%BC%EB%93%9C%20%ED%8A%B8%EB%A6%AC.java) | [백준 7573_고기 잡이(G4)](https://www.acmicpc.net/problem/7573) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EA%B8%B0%20%EC%9E%A1%EC%9D%B4.java) |
 
