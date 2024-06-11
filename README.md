@@ -1662,7 +1662,7 @@
 </details>
 
 <details>
-  <summary>31주차</summary>
+  <summary>31주차(완료)</summary>
   <div markdown="1">
     
   ### 24.06.03 월요일
@@ -1727,7 +1727,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 나무박멸(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/tree-kill-all/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EB%AC%B4%EB%B0%95%EB%A9%B8.java) | [백준 2853_배(S1)](https://www.acmicpc.net/problem/2853) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   ### 24.06.12 수요일
