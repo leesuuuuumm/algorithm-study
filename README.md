@@ -1669,7 +1669,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | [백준_1062_가르침(G4)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1062_가르침.java) | [백준_1074_Z.java](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1074_Z.java) |
+  | 이명범 | [백준_1062_가르침(G4)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_1062_가르침.java) | [백준_1074_Z.java](https://www.acmicpc.net/problem/1074) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_1074_Z.java) |
   | 이수민 | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | []() | [✔]() |
   | 이연상 | [백준 17099_회문(S1)](https://www.acmicpc.net/problem/17609) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%9A%8C%EB%AC%B8.java) | [백준 9019__DSLR(G4)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/DSLR.java) |
   | 조서영 | [백준 20444 색종이와 가위 (G5)](https://www.acmicpc.net/problem/20444) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/20444.cpp) | [백준 2470 두 용액 (G5)](https://www.acmicpc.net/problem/2470) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2470.cpp) |
@@ -1679,7 +1679,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | [백준_21611_마법사상어와블리자드(G1)](https://www.acmicpc.net/problem/21611) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_21611_마법사상어와블리자드.java) | [백준_25794_초콜릿피라미드(S1)](https://www.acmicpc.net/problem/25794) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_25794_초콜릿피라미드.java) |
+  | 이명범 | [백준_21611_마법사상어와블리자드(G1)](https://www.acmicpc.net/problem/21611) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_21611_마법사상어와블리자드.java) | [백준_25794_초콜릿피라미드(S1)](https://www.acmicpc.net/problem/25794) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_25794_초콜릿피라미드.java) |
   | 이수민 | [백준 30702_국기 색칠하기(S1)](https://www.acmicpc.net/problem/30702) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B5%AD%EA%B8%B0%20%EC%83%89%EC%B9%A0%ED%95%98%EA%B8%B0.java) | [코드트리 바이러스 백신(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/vaccine-for-virus/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%EB%B0%B1%EC%8B%A0.java) |
   | 이연상 | [프로그래머스_단어 변환(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) | [백준 1263_시간 관리(S1)](https://www.acmicpc.net/problem/1263) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8B%9C%EA%B4%80%20%EA%B4%80%EB%A6%AC.java) |
   | 조서영 | [백준 2580 스도쿠 (G4)](https://www.acmicpc.net/problem/2580) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2580.cpp) | [백준 링크와 스타트 (G5)](https://www.acmicpc.net/problem/15661) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/15661.cpp) |
@@ -1689,7 +1689,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | [백준_1398_음하철도구구팔(S1)](https://www.acmicpc.net/problem/1398) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_1398_음하철도구구팔.java) | [백준_5069_미로에갇힌상근(G4)](https://www.acmicpc.net/problem/5069) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/30주차/이명범/Main_5069_미로에갇힌상근.java) |
+  | 이명범 | [백준_1398_음하철도구구팔(S1)](https://www.acmicpc.net/problem/1398) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_1398_음하철도구구팔.java) | [백준_5069_미로에갇힌상근(G4)](https://www.acmicpc.net/problem/5069) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_5069_미로에갇힌상근.java) |
   | 이수민 | [백준 1743_음식물 피하기(S1)](https://www.acmicpc.net/problem/1743) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.java) | [코드트리 청소는 즐거워(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/cleaning-is-joyful/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B2%AD%EC%86%8C%EB%8A%94%20%EC%A6%90%EA%B1%B0%EC%9B%8C.java) |
   | 이연상 | [프로그래머스_방문길이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [백준 1105_팔(S1)](https://www.acmicpc.net/problem/1105) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8C%94.java) |
   | 조서영 | [백준 2800 괄호 제거 (G4)](https://www.acmicpc.net/problem/2800) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/2800.cpp) | [백준 13397 구간 나누기 2 (G4)](https://www.acmicpc.net/problem/13397) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/13397.cpp) |
@@ -1702,9 +1702,56 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1535_안녕(S2)](https://www.acmicpc.net/problem/1535) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_1535_안녕.java) | [백준_3015_오아시스재결합(P5)](https://www.acmicpc.net/problem/3015) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/31주차/이명범/Main_3015_오아시스재결합.java) |
   | 이수민 | [백준 5525_IOIOI(S1)](https://www.acmicpc.net/problem/5525) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/IOIOI.java) | [코드트리 방화벽 설치하기(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/firewall-installation/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%ED%99%94%EB%B2%BD%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.java) |
   | 이연상 | [백준 1697_숨바꼭질(S1)](https://www.acmicpc.net/problem/1697) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java) | [프로그래머스_최고의 집합(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.java) |
-  | 조서영 | []() | [✔]() | []() | [✔]() |
+  | 조서영 | [백준 17609 회문 (G5)](https://www.acmicpc.net/problem/17609) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/17609.cpp) | [백준 22945 팀 빌딩 (G4)](https://www.acmicpc.net/problem/22945) | [✔](https://github.com/young-46/algorithm-study/blob/main/31%EC%A3%BC%EC%B0%A8/%EC%A1%B0%EC%84%9C%EC%98%81/22945.cpp) |
+
+</details>
+
+
+<details>
+  <summary>32주차</summary>
+  <div markdown="1">
+    
+  ### 24.06.10 월요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | [백준_16500_문자열판별(G5)](https://www.acmicpc.net/problem/16500) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_16500_문자열판별.java) | [백준_20055_컨베이어벨트(G5)](https://www.acmicpc.net/problem/20055) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_20055_컨베이어벨트.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1992_쿼드 트리(S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BF%BC%EB%93%9C%20%ED%8A%B8%EB%A6%AC.java) | [백준 7573_고기 잡이(G4)](https://www.acmicpc.net/problem/7573) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EA%B8%B0%20%EC%9E%A1%EC%9D%B4.java) |
+
+  ### 24.06.11 화요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+  ### 24.06.12 수요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+  ### 24.06.13 목요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+  ### 24.06.14 금요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
 
 </details>
