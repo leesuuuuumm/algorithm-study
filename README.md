@@ -1734,10 +1734,9 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이연상 | [백준 12904_A와 B(G5)](https://www.acmicpc.net/problem/12904) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/A%EC%99%80%20B.java) | [백준 1303_전쟁-전투(S1)](https://www.acmicpc.net/problem/1303) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC.java) |
+  | 이명범 | [백준_4991_로봇청소기(G1)](https://www.acmicpc.net/problem/4991) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_4991_로봇청소기.java) | [백준_11501_주식(S2)](https://www.acmicpc.net/problem/11501) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_11501_주식.java) |
   | 이수민 | [백준 1080_행렬(S1)](https://www.acmicpc.net/problem/1080) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%96%89%EB%A0%AC.java) | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-
+  | 이연상 | [백준 12904_A와 B(G5)](https://www.acmicpc.net/problem/12904) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/A%EC%99%80%20B.java) | [백준 1303_전쟁-전투(S1)](https://www.acmicpc.net/problem/1303) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC.java) |
 
   ### 24.06.13 목요일
   
