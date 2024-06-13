@@ -1744,7 +1744,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1461_도서관(G5)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%84%EC%84%9C%EA%B4%80.java) | [백준 1149_RGB거리(S1)](https://www.acmicpc.net/problem/1149) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/RGB%EA%B1%B0%EB%A6%AC.java) |
 
   ### 24.06.14 금요일
   
