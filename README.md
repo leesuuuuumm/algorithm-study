@@ -1742,7 +1742,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_16933_벽부수고이동하기3(G1)](https://www.acmicpc.net/problem/16933) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_16933_벽부수고이동하기3.java) | [백준_18870_좌표압축(S2)](https://www.acmicpc.net/problem/18870) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/32주차/이명범/Main_18870_좌표압축.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 1461_도서관(G5)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%84%EC%84%9C%EA%B4%80.java) | [백준 1149_RGB거리(S1)](https://www.acmicpc.net/problem/1149) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/RGB%EA%B1%B0%EB%A6%AC.java) |
 
