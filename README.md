@@ -1751,7 +1751,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 예술성(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/artistry/description?page=1&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%88%EC%88%A0%EC%84%B1.java) | [코드트리 색깔 폭탄(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/32%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%89%EA%B9%94%20%ED%8F%AD%ED%83%84.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
 </details>
