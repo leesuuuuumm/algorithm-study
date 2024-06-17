@@ -1764,7 +1764,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1080_행렬(S1)](https://www.acmicpc.net/problem/1080) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1080_행렬.java) | [백준_20924_트리의기둥과가지(G4)](https://www.acmicpc.net/problem/20924) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_20924_트리의기둥과가지.java) |
   | 이수민 | [코드트리 놀이기구 탑승(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%20%ED%83%91%EC%8A%B9.java) | [백준 2002_추월(S1)](https://www.acmicpc.net/problem/2002) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B6%94%EC%9B%94.java) |
   | 이연상 | [백준 1062_가르침(G5)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EB%A5%B4%EC%B9%A8.java) | [백준 1189_컴백홈(S1)](https://www.acmicpc.net/problem/1189) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BB%B4%EB%B0%B1%ED%99%88.java) |
 
