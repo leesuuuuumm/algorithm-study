@@ -1774,7 +1774,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_1034_램프(G4)](https://www.acmicpc.net/problem/1034) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1034_램프.java) | [백준_1138_한줄로서기(S2)](https://www.acmicpc.net/problem/1138) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1138_한줄로서기.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2512_예산(S2)](https://www.acmicpc.net/problem/2512) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%88%EC%82%B0.java) | [백준 30646_최대 합 순서쌍의 개수(G5)](https://www.acmicpc.net/problem/30646) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B5%9C%EB%8C%80%20%ED%95%A9%20%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98%20%EA%B0%9C%EC%88%98.java) |
   | 이연상 | [백준 15900_나무 탈출(S1)](https://www.acmicpc.net/problem/15900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%ED%83%88%EC%B6%9C.java) | [프로그래머스_스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) |
 
   
