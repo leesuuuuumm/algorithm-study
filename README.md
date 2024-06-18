@@ -1764,18 +1764,18 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1080_행렬(S1)](https://www.acmicpc.net/problem/1080) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1080_행렬.java) | [백준_20924_트리의기둥과가지(G4)](https://www.acmicpc.net/problem/20924) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_20924_트리의기둥과가지.java) |
   | 이수민 | [코드트리 놀이기구 탑승(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%20%ED%83%91%EC%8A%B9.java) | [백준 2002_추월(S1)](https://www.acmicpc.net/problem/2002) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B6%94%EC%9B%94.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1062_가르침(G5)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EB%A5%B4%EC%B9%A8.java) | [백준 1189_컴백홈(S1)](https://www.acmicpc.net/problem/1189) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BB%B4%EB%B0%B1%ED%99%88.java) |
 
   
   ### 24.06.18 화요일
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1034_램프(G4)](https://www.acmicpc.net/problem/1034) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1034_램프.java) | [백준_1138_한줄로서기(S2)](https://www.acmicpc.net/problem/1138) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1138_한줄로서기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 15900_나무 탈출(S1)](https://www.acmicpc.net/problem/15900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%ED%83%88%EC%B6%9C.java) | [프로그래머스_스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) |
 
   
   ### 24.06.19 수요일
