@@ -1792,7 +1792,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%A0%EB%A7%88%ED%86%A0.java) | [백준 1654_랜선 자르기(S2)](https://www.acmicpc.net/problem/1654) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
  
 
