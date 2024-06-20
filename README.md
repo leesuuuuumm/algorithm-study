@@ -1782,9 +1782,9 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2234_성곽(G3)](https://www.acmicpc.net/problem/2234) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_2234_성곽.java) | [백준_16401_과자나눠주기(S2)](https://www.acmicpc.net/problem/16401) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_16401_과자나눠주기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 13164_행복 유치원(G5)](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%96%89%EB%B3%B5%20%EC%9C%A0%EC%B9%98%EC%9B%90.java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EA%B5%AC%EC%99%80%20%EC%8A%A4%EC%9C%84%EC%B9%98.java) | [백준 2138_전구와 스위치(S1)]() | [✔]() |
  
   
   ### 24.06.20 목요일
