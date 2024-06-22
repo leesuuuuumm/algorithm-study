@@ -1791,7 +1791,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1780_종이의개수(S2)](https://www.acmicpc.net/problem/1780) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1780_종이의개수.java) | [백준_17305_사탕배달(G4)](https://www.acmicpc.net/problem/17305) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_17305_사탕배달.java) |
   | 이수민 | [백준 7576_토마토(G5)](https://www.acmicpc.net/problem/7576) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%A0%EB%A7%88%ED%86%A0.java) | [백준 1654_랜선 자르기(S2)](https://www.acmicpc.net/problem/1654) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%9E%9C%EC%84%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
  
@@ -1800,9 +1800,9 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1774_우주신과의교감(G3)](https://www.acmicpc.net/problem/1774) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_1774_우주신과의교감.java) | [백준_18222_투에모스문자열(S2)](https://www.acmicpc.net/problem/18222) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/33주차/이명범/Main_18222_투에모스문자열.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_등굣길(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%93%B1%EA%B5%A3%EA%B8%B8.java) | [프로그래머스_택배상자(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/33%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.java) |
 
   
   </div>
