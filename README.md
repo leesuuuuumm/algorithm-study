@@ -1818,7 +1818,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 17615_볼 모으기(S1)](https://www.acmicpc.net/problem/17615) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EB%B3%BC%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.java) | [백준 2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%84%BC%EC%84%9C.java) |
 
  
   
