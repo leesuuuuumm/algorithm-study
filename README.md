@@ -1816,7 +1816,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1012_유기농배추(S2)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/34주차/이명범/Main_1012_유기농배추.java) | [백준_21610_마법사상어와비바라기(G5)](https://www.acmicpc.net/problem/21610) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/34주차/이명범/Main_21610_마법사상어와비바라기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
