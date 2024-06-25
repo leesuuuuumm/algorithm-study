@@ -1827,7 +1827,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1105_팔(S1)](https://www.acmicpc.net/problem/1105) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8C%94.java) | [백준 2110_공유기 설치(G4)](https://www.acmicpc.net/problem/2110) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   
