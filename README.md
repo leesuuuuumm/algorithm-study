@@ -1837,7 +1837,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1743_음식물 피하기(S1)](https://www.acmicpc.net/problem/1743) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.java) | [프로그래머스_파일명 정렬(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.java) |
  
 
   
