@@ -1828,7 +1828,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 1105_팔(S1)](https://www.acmicpc.net/problem/1105) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8C%94.java) | [백준 2110_공유기 설치(G4)](https://www.acmicpc.net/problem/2110) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1992_쿼드트리(S1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java) | [백준 1027_고층건물(G4)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EC%B8%B5%EA%B1%B4%EB%AC%BC.java) |
 
   
   ### 24.06.26 수요일
@@ -1837,7 +1837,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1743_음식물 피하기(S1)](https://www.acmicpc.net/problem/1743) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%8C%EC%8B%9D%EB%AC%BC%20%ED%94%BC%ED%95%98%EA%B8%B0.java) | [프로그래머스_파일명 정렬(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.java) |
  
 
   
