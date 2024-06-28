@@ -1854,7 +1854,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_10971_외판원순회2(S2)](https://www.acmicpc.net/problem/10971) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/34주차/이명범/Main_10971_외판원순회2.java) | [백준_21609_상어중학교(G2)](https://www.acmicpc.net/problem/21609) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/34주차/이명범/Main_21609_상어중학교.java) |
   | 이수민 | [백준 과자 나눠주기(S2)](https://www.acmicpc.net/problem/16401) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%BC%EC%9E%90%20%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0.java) | [백준 12015_가장 긴 증가하는 부분 수열 2(G2)](https://www.acmicpc.net/problem/12015) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%202.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
