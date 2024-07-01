@@ -1870,7 +1870,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_14567_선수과목(G5)](https://www.acmicpc.net/problem/14567) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_14567_선수과목.java) | [백준_18352_특정거리의도시찾기(S2)](https://www.acmicpc.net/problem/18352) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_18352_특정거리의도시찾기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_숫자 변환하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) | [프로그래머스_숫자 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.java) |
 
