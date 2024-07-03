@@ -1889,7 +1889,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_17143_낚시왕(G1)](https://www.acmicpc.net/problem/1743) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_17143_낚시왕.java) | [백준_17837_새로운게임2(G2)](https://www.acmicpc.net/problem/17837) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_17837_새로운게임2.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 7562(S1)](https://www.acmicpc.net/problem/7562) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.java) | [백준 2668_숫자 고르기(G5)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
  
