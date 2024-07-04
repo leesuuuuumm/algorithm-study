@@ -1809,7 +1809,7 @@
 </details>
 
 <details>
-  <summary>34주차</summary>
+  <summary>34주차(완료)</summary>
   <div markdown="1">
     
   ### 24.06.24 월요일
@@ -1854,8 +1854,62 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_10971_외판원순회2(S2)](https://www.acmicpc.net/problem/10971) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/34주차/이명범/Main_10971_외판원순회2.java) | [백준_21609_상어중학교(G2)](https://www.acmicpc.net/problem/21609) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/34주차/이명범/Main_21609_상어중학교.java) |
   | 이수민 | [백준 과자 나눠주기(S2)](https://www.acmicpc.net/problem/16401) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%BC%EC%9E%90%20%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0.java) | [백준 12015_가장 긴 증가하는 부분 수열 2(G2)](https://www.acmicpc.net/problem/12015) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/34%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%202.java) |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+  
+  </div>
+</details>
+
+<details>
+  <summary>35주차</summary>
+  <div markdown="1">
+    
+  ### 24.07.01 월요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | [백준_14567_선수과목(G5)](https://www.acmicpc.net/problem/14567) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_14567_선수과목.java) | [백준_18352_특정거리의도시찾기(S2)](https://www.acmicpc.net/problem/18352) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_18352_특정거리의도시찾기.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_숫자 변환하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) | [프로그래머스_숫자 게임(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.java) |
+
+ 
+  
+  ### 24.07.02 화요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | [백준_1025_제곱수찾기(G5)](https://www.acmicpc.net/problem/1025) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1025_제곱수찾기.java) | [백준_1405_미친로봇(G4)](https://www.acmicpc.net/problem/1405) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1405_미친로봇.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 2343_기타레슨(S1)](https://www.acmicpc.net/problem/2343) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%ED%83%80%EB%A0%88%EC%8A%A8.java) | [백준 2110_공유기 설치(G5)](https://www.acmicpc.net/problem/2343) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.java) |
+
+  
+  ### 24.07.03 수요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | [백준_17143_낚시왕(G1)](https://www.acmicpc.net/problem/1743) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_17143_낚시왕.java) | [백준_17837_새로운게임2(G2)](https://www.acmicpc.net/problem/17837) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_17837_새로운게임2.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 7562(S1)](https://www.acmicpc.net/problem/7562) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.java) | [백준 2668_숫자 고르기(G5)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
+ 
+
+  
+  ### 24.07.04 목요일
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | [백준_1013_Contact(G5)](https://www.acmicpc.net/problem/1013) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1013_Contact.java) | [백준_1038_감소하는수(G5)](https://www.acmicpc.net/problem/1038) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1038_감소하는수.java) |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) | [프로그래머스_단속 카메라(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java) |
+ 
+
+  ### 24.07.05 금요일
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   
