@@ -1899,7 +1899,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1013_Contact(G5)](https://www.acmicpc.net/problem/1013) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1013_Contact.java) | [백준_1038_감소하는수(G5)](https://www.acmicpc.net/problem/1038) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1038_감소하는수.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) | [프로그래머스_단속 카메라(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java) |
  
