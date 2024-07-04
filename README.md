@@ -1900,7 +1900,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_1013_Contact(G5)](https://www.acmicpc.net/problem/1013) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1013_Contact.java) | [백준_1038_감소하는수(G5)](https://www.acmicpc.net/problem/1038) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1038_감소하는수.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 11060_점프 점프(S2)](https://www.acmicpc.net/problem/11060) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%90%ED%94%84%20%EC%A0%90%ED%94%84.java) | [백준 6087_레이저 통신(G3)](https://www.acmicpc.net/problem/6087) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A0%88%EC%9D%B4%EC%A0%80%20%ED%86%B5%EC%8B%A0.java) |
   | 이연상 | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) | [프로그래머스_단속 카메라(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java) |
  
 
