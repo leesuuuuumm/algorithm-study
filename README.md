@@ -1901,7 +1901,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_2 x n 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.java) | [프로그래머스_단속 카메라(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java) |
  
 
   ### 24.07.05 금요일
