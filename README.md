@@ -1908,9 +1908,9 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1261_알고스팟(G5)](https://www.acmicpc.net/problem/1261) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1261_알고스팟.java) | [백준_1374_강의실(G5)](https://www.acmicpc.net/problem/1374) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/35주차/이명범/Main_1374_강의실.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_2개 이하로 다른 비트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.java) | [프로그래머스_기지국 설치(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/35%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.java) |
 
   
   </div>
