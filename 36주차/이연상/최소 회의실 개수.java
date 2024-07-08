@@ -1,6 +1,6 @@
 // [BOJ] 최소 회읫실 개수
 
-public class P_19598 {
+public class Main {
     static int N;
     static PriorityQueue<Time> pq;
 
@@ -11,12 +11,12 @@ public class P_19598 {
 
         for (int i = 0; i < N; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
-            pq.add(new Time(Integer.parseInt(st.nextToken()), true)); // 시작시간
-            pq.add(new Time(Integer.parseInt(st.nextToken()), false)); // 종료시간
+            pq.add(new Time(Integer.parseInt(st.nextToken()), true));
+            pq.add(new Time(Integer.parseInt(st.nextToken()), false)); 
         }
 
-        int cnt = 0; // 회의실 개수
-        int answer = 0; // 최대값
+        int cnt = 0; 
+        int answer = 0; 
 
         while (!pq.isEmpty()) {
             Time t = pq.poll();
