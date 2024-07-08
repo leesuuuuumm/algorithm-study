@@ -1926,7 +1926,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 6236_용돈 관리(S2)](https://www.acmicpc.net/problem/6236) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%A9%EB%8F%88%20%EA%B4%80%EB%A6%AC.java) | [프로그래머스 의상(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%98%EC%83%81.java) |
   | 이연상 | [백준 1092_배(G5)](https://www.acmicpc.net/problem/1092) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%B0.java) | [백준 19598_최소 회의실 개수(G5)](https://www.acmicpc.net/problem/19598) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98.java) |
 
  
