@@ -1935,9 +1935,9 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1715_카드정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1715_카드정렬하기.java) | [백준_1726_로봇(G3)](https://www.acmicpc.net/problem/1726) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1726_로봇.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 14620_꽃길(S2)](https://www.acmicpc.net/problem/14620) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%BD%83%EA%B8%B8.java) | [백준 1027_고층 건물(G4)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EC%B8%B5%20%EA%B1%B4%EB%AC%BC.java) |
 
   
   ### 24.07.10 수요일
