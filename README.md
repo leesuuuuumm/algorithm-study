@@ -1945,7 +1945,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 3005_크로스워드 퍼즐 쳐다보기(S2)](https://www.acmicpc.net/problem/3005) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%9B%8C%EB%93%9C%20%ED%8D%BC%EC%A6%90%20%EC%B3%90%EB%8B%A4%EB%B3%B4%EA%B8%B0.java) | [백준 2636_치즈(G4)](https://www.acmicpc.net/problem/2636) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%98%EC%A6%88.java) |
   | 이연상 | [백준 6593_상범빌딩(G5)](https://www.acmicpc.net/problem/6593) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%83%81%EB%B2%94%EB%B9%8C%EB%94%A9.java) | [백준 16234_인구 이동(G5)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) |
  
 
