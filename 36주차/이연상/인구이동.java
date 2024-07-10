@@ -3,7 +3,7 @@
 import java.util.*;
 import java.io.*;
 
-public class BOJ16234 {
+public class Main {
 	static int n, l, r;
 	static int[][] map;
 	static ArrayList<int[]> list;
