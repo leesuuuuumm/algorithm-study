@@ -1944,7 +1944,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1113_수영장만들기(G1)](https://www.acmicpc.net/problem/1113) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1113_수영장만들기.java) | [백준_1753_최단경로(G4)](https://www.acmicpc.net/problem/1753) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1753_최단경로.java) |
   | 이수민 | [백준 3005_크로스워드 퍼즐 쳐다보기(S2)](https://www.acmicpc.net/problem/3005) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%9B%8C%EB%93%9C%20%ED%8D%BC%EC%A6%90%20%EC%B3%90%EB%8B%A4%EB%B3%B4%EA%B8%B0.java) | [백준 2636_치즈(G4)](https://www.acmicpc.net/problem/2636) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%98%EC%A6%88.java) |
   | 이연상 | [백준 6593_상범빌딩(G5)](https://www.acmicpc.net/problem/6593) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%83%81%EB%B2%94%EB%B9%8C%EB%94%A9.java) | [백준 16234_인구 이동(G5)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) |
  
@@ -1954,9 +1954,9 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1759_암호만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1759_암호만들기.java) | [백준_1766_문제집(G2)](https://www.acmicpc.net/problem/1766) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1766_문제집.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.java) | [프로그래머스_베스트앨범(LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java) |
  
 
   ### 24.07.12 금요일
