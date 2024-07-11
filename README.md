@@ -1954,7 +1954,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1759_암호만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1759_암호만들기.java) | [백준_1766_문제집(G2)](https://www.acmicpc.net/problem/1766) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1766_문제집.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.java) | [프로그래머스_베스트앨범(LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java) |
  
