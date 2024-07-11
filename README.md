@@ -1956,7 +1956,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_가장 큰 수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.java) | [프로그래머스_베스트앨범(LV3](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/36%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java) |
  
 
   ### 24.07.12 금요일
