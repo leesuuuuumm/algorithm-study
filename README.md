@@ -1980,7 +1980,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_1865_웜홀(G3)](https://www.acmicpc.net/problem/1865) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1865_웜홀.java) | [백준_1949_우수마을(G2)](https://www.acmicpc.net/problem/1949) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1949_우수마을.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 6236_용돈 관리(S2)](https://www.acmicpc.net/problem/6236) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%A9%EB%8F%88%20%EA%B4%80%EB%A6%AC.java) | [백준 18428_감시 피하기(G5)](https://www.acmicpc.net/problem/18428) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%90%EC%8B%9C%20%ED%94%BC%ED%95%98%EA%B8%B0.java) |
   | 이연상 | [백준 11501_주식(S2)](https://www.acmicpc.net/problem/11501) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D.java) | [백준 2141_우체국(G5)](https://www.acmicpc.net/problem/2141) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%B0%EC%B2%B4%EA%B5%AD.java) |
 
  
