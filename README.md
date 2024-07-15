@@ -1981,7 +1981,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 11501_주식(S2)](https://www.acmicpc.net/problem/11501) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D.java) | [백준 2141_우체국(G5)](https://www.acmicpc.net/problem/2141) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%B0%EC%B2%B4%EA%B5%AD.java) |
 
  
   
