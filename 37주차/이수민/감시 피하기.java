@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
 
-	static class Point {
+	static class Point { 
 		int r;
 		int c;
 
