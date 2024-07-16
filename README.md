@@ -1991,7 +1991,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1700_멀티탭 스케쥴링(G5)](https://www.acmicpc.net/problem/1700) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81.java) | [백준 1303_전쟁-전투(S2)](https://www.acmicpc.net/problem/1303) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC.java) |
 
   
   ### 24.07.17 수요일
