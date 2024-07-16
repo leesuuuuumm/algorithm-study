@@ -1990,7 +1990,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 20413_MVP 다이아몬드 (EASY)(S2)](https://www.acmicpc.net/problem/20413) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/MVP%20%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C%20(EASY).java) | [백준 12919_A와 B 2(G5)](https://www.acmicpc.net/problem/12919) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/A%EC%99%80%20B%202.java) |
   | 이연상 | [백준 1700_멀티탭 스케쥴링(G5)](https://www.acmicpc.net/problem/1700) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81.java) | [백준 1303_전쟁-전투(S2)](https://www.acmicpc.net/problem/1303) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC.java) |
 
   
