@@ -1998,7 +1998,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_1941_소문난칠공주(G3)](https://www.acmicpc.net/problem/1941) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1941_소문난칠공주.java) | [백준_1967_트리의지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_1967_트리의지름.java) |
   | 이수민 | [프로그래머스 2xn 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/2xn%20%ED%83%80%EC%9D%BC%EB%A7%81.java) | [프로그래머스 줄서는 방법(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12936) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
  
