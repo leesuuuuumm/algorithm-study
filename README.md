@@ -2008,7 +2008,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2418_단어격자(G5)](https://www.acmicpc.net/problem/2418) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_2418_단어격자주.java) | [백준_2448_별찍기11(G4)](https://www.acmicpc.net/problem/2448) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/36주차/이명범/Main_2448_별찍기11.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_소수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.java) | [프로그래머스_삼각 달팽이(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/37%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4.java) |
  
