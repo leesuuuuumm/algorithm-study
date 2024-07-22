@@ -2034,7 +2034,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%86%8D%ED%95%A9.java) | [백준 7662_이순 우선숭위 큐(G4)](https://www.acmicpc.net/problem/7662) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%A4%91%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
