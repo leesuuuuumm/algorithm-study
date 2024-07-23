@@ -2043,7 +2043,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이명범 | []() | [✔]() | []() | [✔]() |
+  | 이명범 | [백준_2493_탑(G4)](https://www.acmicpc.net/problem/2493) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/38주차/이명범/Main_2493_탑.java) | [백준_2585_경비행기(G2)](https://www.acmicpc.net/problem/2585) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/38주차/이명범/Main_2585_경비행기.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 2606_바이러스(S2)](https://www.acmicpc.net/problem/2606) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.java) | [백준 14226_이모티콘(G5)](https://www.acmicpc.net/problem/14226) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.java) |
 
