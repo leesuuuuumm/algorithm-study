@@ -2054,7 +2054,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1916_최소 비용 구하기(G5)](https://www.acmicpc.net/problem/1916) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%20%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) | [백준 1197_최소 스패닝 트리(G5)](https://www.acmicpc.net/problem/1197) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.java) |
  
 
   
