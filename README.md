@@ -2053,7 +2053,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | [백준_2629_양팔저울(G3)](https://www.acmicpc.net/problem/2629) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/38주차/이명범/Main_2629_양팔저울.java) | [백준_2636_치즈(G4)](https://www.acmicpc.net/problem/2636) | [✔](https://github.com/mungmnb777/algorithm-study/blob/main/38주차/이명범/Main_2636_치즈.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 가장 큰 정사각형 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.java) | [프로그래머스 3xn 타일링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/3xn%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
   | 이연상 | [백준 1916_최소 비용 구하기(G5)](https://www.acmicpc.net/problem/1916) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%20%EB%B9%84%EC%9A%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) | [백준 1197_최소 스패닝 트리(G5)](https://www.acmicpc.net/problem/1197) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%20%EC%8A%A4%ED%8C%A8%EB%8B%9D%20%ED%8A%B8%EB%A6%AC.java) |
  
 
@@ -2063,7 +2063,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이명범 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 숫자 블록(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12923) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%20%EB%B8%94%EB%A1%9D.java) | [백준 9205_맥주 마시면서 걸어가기(G5)](https://www.acmicpc.net/problem/9205) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/38%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%A5%EC%A3%BC%20%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%20%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
  
 
