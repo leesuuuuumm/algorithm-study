@@ -2073,7 +2073,7 @@
 </details>
 
 <details>
-  <summary>39주차</summary>
+  <summary>39주차</summary> 
   <div markdown="1">
     
   ### 24.07.29 월요일
