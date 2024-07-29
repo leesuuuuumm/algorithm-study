@@ -2080,7 +2080,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1254_팰린드롬 만들기(S2)](https://www.acmicpc.net/problem/1254) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 19598_최소 회의실 개수(G5)](https://www.acmicpc.net/problem/19598) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98.java) |
   | 이연상 | [프로그래머스_최댓값과 최솟값(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.jav) | [프로그래머스_올바른 괄호(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.java) |
 
  
