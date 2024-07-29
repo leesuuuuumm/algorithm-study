@@ -2081,7 +2081,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_최댓값과 최솟값(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.jav) | [프로그래머스_올바른 괄호(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.java) |
 
  
   
