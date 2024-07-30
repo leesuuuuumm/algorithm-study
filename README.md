@@ -2089,7 +2089,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2792_보석 상자(S2)](https://www.acmicpc.net/problem/2792) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EC%84%9D%20%EC%83%81%EC%9E%90.java) | [프로그래머스 하노이의 탑(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.java) | 
   | 이연상 | [프로그래머스_최솟값 만들기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [프로그래머스_JdenCase 문자열 만들기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
   
