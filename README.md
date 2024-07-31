@@ -2097,7 +2097,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 5212_지구 온난화(S2)](https://www.acmicpc.net/problem/5212) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%80%EA%B5%AC%20%EC%98%A8%EB%82%9C%ED%99%94.java) | [프로그래머스 숫자 카드 나누기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EB%82%98%EB%88%84%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_이진 변환 반복하기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) | [프로그래머스_숫자의 표현(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.java) |
  
 
