@@ -2098,7 +2098,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_이진 변환 반복하기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java) | [프로그래머스_숫자의 표현(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.java) |
  
 
   
