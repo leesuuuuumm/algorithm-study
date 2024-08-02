@@ -2106,7 +2106,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 13702_이상한 술집(S2)](https://www.acmicpc.net/problem/13702) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%88%A0%EC%A7%91.java) | [백준 10836_여왕벌(G4)](https://www.acmicpc.net/problem/10836) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%AC%EC%99%95%EB%B2%8C.java) |
   | 이연상 | [프로그래머스_다음 큰 숫자(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.java) | [프로그래머스_피보나치 수(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.java) |
  
 
