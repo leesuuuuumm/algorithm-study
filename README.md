@@ -2115,7 +2115,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_짝지어 제거하기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java) | [프로그래머스_예상 대진표(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java) |
 
   
   </div>
