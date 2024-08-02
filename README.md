@@ -2089,7 +2089,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이수민 | [백준 2792_보석 상자(S2)](https://www.acmicpc.net/problem/2792) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EC%84%9D%20%EC%83%81%EC%9E%90.java) | [프로그래머스 하노이의 탑(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.java) | 
+  | 이수민 | [백준 2792_보석 상자(S1)](https://www.acmicpc.net/problem/2792) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EC%84%9D%20%EC%83%81%EC%9E%90.java) | [프로그래머스 하노이의 탑(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.java) | 
   | 이연상 | [프로그래머스_최솟값 만들기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [프로그래머스_JdenCase 문자열 만들기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
   
@@ -2114,7 +2114,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 18870_좌표 압축(S2)](https://www.acmicpc.net/problem/18870) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.java) | [백준 13975_파일 합치기 3(G4)](https://www.acmicpc.net/problem/13975) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8C%8C%EC%9D%BC%20%ED%95%A9%EC%B9%98%EA%B8%B0%203.java) |
   | 이연상 | [프로그래머스_짝지어 제거하기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java) | [프로그래머스_예상 대진표(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/39%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.java) |
 
   
