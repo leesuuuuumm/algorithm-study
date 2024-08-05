@@ -2132,7 +2132,7 @@
   | 김민수 | [코드트리_동물학회](https://kaupc-general.codetree.ai/resolve-problems/zoological-society/description) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EB%AC%BC%ED%95%99%ED%9A%8C.java) | [백준 1711_직각삼각형](https://www.acmicpc.net/problem/1711) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_괄호 회전하기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java) | [프로그래머스_할인행사(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.java) |
 
  
   
