@@ -2129,7 +2129,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [코드트리_동물학회](https://kaupc-general.codetree.ai/resolve-problems/zoological-society/description) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EB%AC%BC%ED%95%99%ED%9A%8C.java) | [백준 1711_직각삼각형](https://www.acmicpc.net/problem/1711) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.java) |
+  | 김민수 | [코드트리_동물학회(G2)](https://kaupc-general.codetree.ai/resolve-problems/zoological-society/description) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EB%AC%BC%ED%95%99%ED%9A%8C.java) | [백준 1711_직각삼각형(G5)](https://www.acmicpc.net/problem/1711) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
