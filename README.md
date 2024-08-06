@@ -2140,7 +2140,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 21922_학부 연구생 민상(G5)](https://www.acmicpc.net/problem/21922) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D%EB%AF%BC%EC%83%81.java) | [백준 20437_문자열 게임 2(G5)](https://www.acmicpc.net/problem/20437) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%8C%EC%9E%842.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
