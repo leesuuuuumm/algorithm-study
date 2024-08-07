@@ -2150,7 +2150,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준_5427 불(G4)](https://www.acmicpc.net/problem/5427) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B6%88.java) | [백준_3687 성냥개비(G2)](https://www.acmicpc.net/problem/3687) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_점프와 순간이동(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99.java) | [프로그래머스_카펫(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%ED%8E%AB.java) |
