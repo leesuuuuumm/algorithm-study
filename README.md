@@ -2141,19 +2141,19 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 21922_학부 연구생 민상(G5)](https://www.acmicpc.net/problem/21922) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%95%99%EB%B6%80%EC%97%B0%EA%B5%AC%EC%83%9D%EB%AF%BC%EC%83%81.java) | [백준 20437_문자열 게임 2(G5)](https://www.acmicpc.net/problem/20437) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B2%8C%EC%9E%842.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 15787 기차가 어둠을 헤치고 은하수를(S2)](https://www.acmicpc.net/problem/15787) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EA%B8%B0%EC%B0%A8%EA%B0%80%EC%96%B4%EB%91%A0%EC%9D%84%ED%97%A4%EC%B9%98%EA%B3%A0%EC%9D%80%ED%95%98%EC%88%98%EB%A5%BC.java) | [백준 2615 오목(s1)](https://www.acmicpc.net/problem/2615) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%98%A4%EB%AA%A9.java) |
+  | 이수민 | [백준 17406_배열 돌리기 4(G4)(복습1)](https://www.acmicpc.net/problem/17406) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0%EC%97%B4%20%EB%8F%8C%EB%A6%AC%EA%B8%B0%204.java) | [프로그래머스 우박수열 정적분(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/134239) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9A%B0%EB%B0%95%EC%88%98%EC%97%B4%20%EC%A0%95%EC%A0%81%EB%B6%84.java) |
+  | 이연상 | [백준 2606_바이러스(S2)(복습1)](https://www.acmicpc.net/problem/2606) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.java) | [백준 14226_이모티콘(G5)(복습1)](https://www.acmicpc.net/problem/14226) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.java) |
 
   
   ### 24.08.07 수요일
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준_5427 불(G4)](https://www.acmicpc.net/problem/5427) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B6%88.java) | [백준_3687 성냥개비(G2)](https://www.acmicpc.net/problem/3687) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_점프와 순간이동(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12980?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%EC%9D%B4%EB%8F%99.java) | [프로그래머스_카펫(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%ED%8E%AB.java) |
 
  
 
