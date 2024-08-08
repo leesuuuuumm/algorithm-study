@@ -2165,7 +2165,7 @@
   | 김민수 | [백준_15989 1, 2, 3 더하기 4(G5)](https://www.acmicpc.net/problem/15989) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/123%EB%8D%94%ED%95%98%EA%B8%B04.java) | [백준_1504 특정한 최단 경로(G4)](https://www.acmicpc.net/problem/1504) | [✔](https://github.com/minsu20/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8A%B9%EC%A0%95%ED%95%9C%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.java) |
   | 김민우 | [백준 12933_오리(S2)](https://www.acmicpc.net/problem/12933) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%98%A4%EB%A6%AC.java) | [백준 3079_입국심사(G5)](https://www.acmicpc.net/problem/3079) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 11501_주식(S2)(복습1)](https://www.acmicpc.net/problem/11501) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D.java) | [백준 2141_우체국(G5)(복습1)](https://www.acmicpc.net/problem/2141) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/40%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%B0%EC%B2%B4%EA%B5%AD.java) |
 
  
 
