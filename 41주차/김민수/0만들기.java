@@ -10,7 +10,7 @@ public class 0만들기 {
         sb=new StringBuilder();
         for(int i=0;i<t;i++){
             int n=sc.nextInt();
-            bfs(n);
+            bfs(n); 
             sb.append("\n");
         }
         System.out.println(sb);
