@@ -2192,7 +2192,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준_2253 점프(G4)](https://www.acmicpc.net/problem/2253) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A0%90%ED%94%84.java) | [백준_7490 0만들기(G5)](https://www.acmicpc.net/problem/7490) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/0%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
   | 김민우 | [백준 4358_생태학(S2)](https://www.acmicpc.net/problem/4358) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%83%9D%ED%83%9C%ED%95%99.java) | [백준 4179_불!(G3)(복습1)](https://www.acmicpc.net/problem/4179) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B6%88.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 자율주행 자동차(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/autonomous-driving/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8.java) | [코드트리 토스트 계란들(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/toast-eggmold?page=1&pageSize=20&name=%ED%86%A0%EC%8A%A4%ED%8A%B8) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%86%A0%EC%8A%A4%ED%8A%B8%20%EA%B3%84%EB%9E%80%EB%93%A4.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
