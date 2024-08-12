@@ -2190,7 +2190,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [백준_2253 점프(G4)](https://www.acmicpc.net/problem/2253) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%A0%90%ED%94%84.java) | [백준_7490 0만들기(G5)](https://www.acmicpc.net/problem/7490) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/0%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+  | 김민수 | [백준_2253 점프(G4)](https://www.acmicpc.net/problem/2253) | [✔]([https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%A0%90%ED%94%84.java](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A0%90%ED%94%84.java)) | [백준_7490 0만들기(G5)](https://www.acmicpc.net/problem/7490) | [✔]([https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/0%EB%A7%8C%EB%93%A4%EA%B8%B0.java](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/0%EB%A7%8C%EB%93%A4%EA%B8%B0.java)) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
