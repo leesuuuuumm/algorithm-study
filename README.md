@@ -2204,7 +2204,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_멀리 뛰기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.java) | [프로그래머스_구명보트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) |
 
   
   ### 24.08.14 수요일
