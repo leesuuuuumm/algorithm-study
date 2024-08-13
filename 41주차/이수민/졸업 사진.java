@@ -15,7 +15,7 @@ public class Main {
 			this.num = num;
 
 		}
-
+		
 		public int compareTo(Point o) {
 			if (this.num == o.num) {
 				if (this.name.compareTo(o.name) == 0) {
