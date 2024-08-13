@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-	static class Point implements Comparable<Point> {
+	static class Point implements Comparable<Point> { 
 		String name;
 		int s;
 		int e;
