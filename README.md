@@ -2214,7 +2214,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 15664 n과m(10)(S2)](https://www.acmicpc.net/problem/15664) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/n%EA%B3%BCm10.java) | [백준 20207_달력(G5)](https://www.acmicpc.net/problem/20207) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8B%AC%EB%A0%A5.java) |
   | 이수민 | [프로그래머스 석유 시추(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) | [프로그래머스 프로세스(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1700_멀티탭 스케쥴링(G5)(복습1)](https://www.acmicpc.net/problem/1700) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81.java) | [백준 1303_전쟁-전투(S2)(복습1)](https://www.acmicpc.net/problem/1303) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC.java) |
 
 
   
