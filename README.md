@@ -2213,7 +2213,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | [프로그래머스 석유 시추(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) | [프로그래머스 프로세스(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) |
+  | 이수민 | [프로그래머스 석유 시추(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) | [프로그래머스 프로세스(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
 
