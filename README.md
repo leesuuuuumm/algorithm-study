@@ -2229,7 +2229,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 30469_호반우가 학교에 지각한 이유 2(S1)](https://www.acmicpc.net/problem/30469) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%B8%EB%B0%98%EC%9A%B0%EA%B0%80%20%ED%95%99%EA%B5%90%EC%97%90%20%EC%A7%80%EA%B0%81%ED%95%9C%20%EC%9D%B4%EC%9C%A0%202.java) | [프로그래머스 이중우선순위큐(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1012_유기농 배추(S2)(복습1)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.java) | [백준 3055_탈출1(G4)(복습1)](https://www.acmicpc.net/problem/3055) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%88%EC%B6%9C1.java) |
 
   
   </div>
