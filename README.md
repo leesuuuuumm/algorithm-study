@@ -2228,7 +2228,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 30469_호반우가 학교에 지각한 이유 2(S1)](https://www.acmicpc.net/problem/30469) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%B8%EB%B0%98%EC%9A%B0%EA%B0%80%20%ED%95%99%EA%B5%90%EC%97%90%20%EC%A7%80%EA%B0%81%ED%95%9C%20%EC%9D%B4%EC%9C%A0%202.java) | [프로그래머스 이중우선순위큐(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   
