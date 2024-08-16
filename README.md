@@ -2202,7 +2202,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준_14891 톱니바퀴(G5)](https://www.acmicpc.net/problem/14891) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.java) | [백준_1253 좋다(G4)](https://www.acmicpc.net/problem/1253) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A2%8B%EB%8B%A4.java) |
-  | 김민우 | [백준 15663_N과M(9)(S2)](https://www.acmicpc.net/problem/15663) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/n%EA%B3%BCm9.java) | [백준 16926_배열 돌리기1(G5)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01.java) |
+  | 김민우 | [백준 15663_N과M(9)(S2)](https://www.acmicpc.net/problem/15663) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/n%EA%B3%BCm9.java) | [백준 16926_배열 돌리기1(G5)(복습1)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01.java) |
   | 이수민 | [백준 23349_졸업 사진(S1)](https://www.acmicpc.net/problem/23349) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A1%B8%EC%97%85%20%EC%82%AC%EC%A7%84.java) | [프로그래머스 카카오프렌즈 컬러링북(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/1829) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81.java) |
   | 이연상 | [프로그래머스_멀리 뛰기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.java) | [프로그래머스_구명보트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) |
 
@@ -2211,10 +2211,10 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준_16926 배열돌리기 1(G5)](https://www.acmicpc.net/problem/16926) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01.java) | [백준_2470 두 용액(G5)](https://www.acmicpc.net/problem/2470) | [✔](https://github.com/minsu20/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%91%90%EC%9A%A9%EC%95%A1.java) |
+  | 김민우 | [백준 15664 n과m(10)(S2)](https://www.acmicpc.net/problem/15664) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/n%EA%B3%BCm10.java) | [백준 20207_달력(G5)](https://www.acmicpc.net/problem/20207) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8B%AC%EB%A0%A5.java) |
   | 이수민 | [프로그래머스 석유 시추(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) | [프로그래머스 프로세스(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1700_멀티탭 스케쥴링(G5)(복습1)](https://www.acmicpc.net/problem/1700) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A9%80%ED%8B%B0%ED%83%AD%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81.java) | [백준 1303_전쟁-전투(S2)(복습1)](https://www.acmicpc.net/problem/1303) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EC%9F%81-%EC%A0%84%ED%88%AC.java) |
 
 
   
@@ -2228,8 +2228,8 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 30469_호반우가 학교에 지각한 이유 2(S1)](https://www.acmicpc.net/problem/30469) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%98%B8%EB%B0%98%EC%9A%B0%EA%B0%80%20%ED%95%99%EA%B5%90%EC%97%90%20%EC%A7%80%EA%B0%81%ED%95%9C%20%EC%9D%B4%EC%9C%A0%202.java) | [프로그래머스 이중우선순위큐(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.java) |
+  | 이연상 | [백준 1012_유기농 배추(S2)(복습1)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.java) | [백준 3055_탈출1(G4)(복습1)](https://www.acmicpc.net/problem/3055) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%88%EC%B6%9C1.java) |
 
   
   </div>
