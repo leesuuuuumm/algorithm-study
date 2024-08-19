@@ -2246,7 +2246,7 @@
   | 김민수 | [코드트리 빙산의 일각(S1)](https://www.codetree.ai/training-field/search/problems/the-tip-of-the-iceberg/description?page=1&pageSize=20&name=%EB%B9%99%EC%82%B0%EC%9D%98+%EC%9D%BC%EA%B0%81) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%99%EC%82%B0%EC%9D%98%EC%9D%BC%EA%B0%81.java) | [백준 1911_흙길 보수하기(G5)](https://www.acmicpc.net/problem/1911) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%9D%99%EA%B8%B8%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 6593_상범빌딩(G5)(복습1)](https://www.acmicpc.net/problem/6593) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%83%81%EB%B2%94%EB%B9%8C%EB%94%A9.java) | [백준 16234_인구 이동(G5)(복습1)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) |
 
  
   
