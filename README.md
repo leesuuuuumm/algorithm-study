@@ -2243,7 +2243,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [코드트리 빙산의 일각(S1)](https://www.codetree.ai/training-field/search/problems/the-tip-of-the-iceberg/description?page=1&pageSize=20&name=%EB%B9%99%EC%82%B0%EC%9D%98+%EC%9D%BC%EA%B0%81) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%99%EC%82%B0%EC%9D%98%EC%9D%BC%EA%B0%81.java) | [백준 1911_흙길 보수하기(G5)](https://www.acmicpc.net/problem/1911) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%9D%99%EA%B8%B8%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
