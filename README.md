@@ -2257,7 +2257,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 14391_종이조각(G3)](https://www.acmicpc.net/problem/14391) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%A2%85%EC%9D%B4%EC%A1%B0%EA%B0%81.java) | [백준 1260_DFS와 BFS(S2)](https://www.acmicpc.net/problem/1260) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/DFS%EC%99%80BFS.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 14620_꽃길(S2)](https://www.acmicpc.net/problem/14620) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%BD%83%EA%B8%B8.java) | [백준 1027_고층 건물(G4)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EC%B8%B5%EA%B1%B4%EB%AC%BC.java) |
 
   
   ### 24.08.21 수요일
