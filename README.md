@@ -2255,7 +2255,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 14391_종이조각(G3)](https://www.acmicpc.net/problem/14391) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%A2%85%EC%9D%B4%EC%A1%B0%EA%B0%81.java) | [백준 1260_DFS와 BFS(S2)](https://www.acmicpc.net/problem/1260) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/DFS%EC%99%80BFS.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
