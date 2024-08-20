@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class _14888 {
+public class 연산자끼워넣기 {
     static int max, min, n;
     static int[] num;
     static int[] operatorNum;
