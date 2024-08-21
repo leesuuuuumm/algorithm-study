@@ -2264,7 +2264,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [코드트리 루돌프의 반란(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description?page=2&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%A3%A8%EB%8F%8C%ED%94%84%EC%9D%98%EB%B0%98%EB%9E%80.java) | [백준 14719_빗물(G5)](https://www.acmicpc.net/problem/14719) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%97%EB%AC%BC.java) |
   | 김민우 | [백준 17299_오등큰수(G3)](https://www.acmicpc.net/problem/17299) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%98%A4%EB%93%B1%ED%81%B0%EC%88%98.java) | [백준 1325_효율적인 해킹(S1)](https://www.acmicpc.net/problem/1325) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%95%B4%ED%82%B9.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
