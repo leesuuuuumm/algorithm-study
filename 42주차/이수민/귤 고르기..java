@@ -2,7 +2,7 @@ import java.util.*;
 class Solution {
    
     final int lastTime = (23*60)+59; 
-    public int[] solution(int[] fees, String[] records) {
+    public int[] solution(int[] fees, String[] records) { 
         
         TreeMap<String, Integer> tm = new TreeMap<>();
         HashMap<String, Integer> map = new HashMap<>();
