@@ -2276,7 +2276,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 13549_숨바꼭질3(G5)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) | [백준 14940_쉬운 최단거리(S1)](https://www.acmicpc.net/problem/14940) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%89%AC%EC%9A%B4%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
  
