@@ -2286,7 +2286,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 2250_트리의높이와너비(G2)](https://www.acmicpc.net/problem/2250) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.java) | [백준 16918_봄버맨(S1)](https://www.acmicpc.net/problem/16918) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B4%84%EB%B2%84%EB%A7%A8.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
