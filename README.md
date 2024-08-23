@@ -2287,7 +2287,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 2250_트리의높이와너비(G2)](https://www.acmicpc.net/problem/2250) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.java) | [백준 16918_봄버맨(S1)](https://www.acmicpc.net/problem/16918) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B4%84%EB%B2%84%EB%A7%A8.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 영어 끝말잇기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12981#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java) | [프로그래머스 전화번호 목록(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) |
   | 이연상 | [백준 2343_기타레슨(S1)(복습1)](https://www.acmicpc.net/problem/2343) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%ED%83%80%EB%A0%88%EC%8A%A8.java) | [백준 2110_공유기 설치(G5)(복습1)](https://www.acmicpc.net/problem/2343) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.java) |
 
   
