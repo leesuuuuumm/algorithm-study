@@ -2277,7 +2277,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 12904_A와 B(G5)](https://www.acmicpc.net/problem/12904) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/A%EC%99%80B.java) | [백준 1943_동전 분배(G2)](https://www.acmicpc.net/problem/1943) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EC%A0%84%EB%B6%84%EB%B0%B0.java) |
   | 김민우 | [백준 13549_숨바꼭질3(G5)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) | [백준 14940_쉬운 최단거리(S1)](https://www.acmicpc.net/problem/14940) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%89%AC%EC%9A%B4%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
-  | 이수민 | [프로그래머스 주차 요금 계산(LV2)(복습N)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88.java) | 프로그래머스 귤 고르기(Lv2]복습2)(https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
+  | 이수민 | [프로그래머스 주차 요금 계산(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88.java) | [프로그래머스 귤 고르기(Lv2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
   | 이연상 | [백준 7562_나이트의 이동(S1)(복습1)](https://www.acmicpc.net/problem/7562) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.java) | [백준 2668_숫자 고르기(G5)(복습1)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
  
 
@@ -2286,10 +2286,9 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-
+  | 김민우 | [백준 2250_트리의높이와너비(G2)](https://www.acmicpc.net/problem/2250) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84.java) | [백준 16918_봄버맨(S1)](https://www.acmicpc.net/problem/16918) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B4%84%EB%B2%84%EB%A7%A8.java) |
+  | 이수민 | [프로그래머스 영어 끝말잇기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12981#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java) | [프로그래머스 전화번호 목록(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) |
+  | 이연상 | [백준 2343_기타레슨(S1)(복습1)](https://www.acmicpc.net/problem/2343) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%ED%83%80%EB%A0%88%EC%8A%A8.java) | [백준 2110_공유기 설치(G5)(복습1)](https://www.acmicpc.net/problem/2343) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98.java) |
 
   
   </div>
