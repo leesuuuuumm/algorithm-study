@@ -2266,8 +2266,8 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [코드트리 루돌프의 반란(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/rudolph-rebellion/description?page=2&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%A3%A8%EB%8F%8C%ED%94%84%EC%9D%98%EB%B0%98%EB%9E%80.java) | [백준 14719_빗물(G5)](https://www.acmicpc.net/problem/14719) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%97%EB%AC%BC.java) |
   | 김민우 | [백준 17299_오등큰수(G3)](https://www.acmicpc.net/problem/17299) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%98%A4%EB%93%B1%ED%81%B0%EC%88%98.java) | [백준 1325_효율적인 해킹(S1)](https://www.acmicpc.net/problem/1325) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%95%B4%ED%82%B9.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 2841_외계인의 기타 연주(S1)](https://www.acmicpc.net/problem/2841) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%99%B8%EA%B3%84%EC%9D%B8%EC%9D%98%20%EA%B8%B0%ED%83%80%20%EC%97%B0%EC%A3%BC.java) | [프로그래머스 튜플(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8A%9C%ED%94%8C.java) |
+  | 이연상 | [백준 1092_배(G5)(복습1)](https://www.acmicpc.net/problem/1092) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%B0.java) | [백준 19598_최소 회의실 개수(G5)(복습1)](https://www.acmicpc.net/problem/19598) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98.java) |
 
 
   
@@ -2275,10 +2275,10 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 12904_A와 B(G5)](https://www.acmicpc.net/problem/12904) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/A%EC%99%80B.java) | [백준 1943_동전 분배(G2)](https://www.acmicpc.net/problem/1943) | [✔](https://github.com/minsu20/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EC%A0%84%EB%B6%84%EB%B0%B0.java) |
+  | 김민우 | [백준 13549_숨바꼭질3(G5)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) | [백준 14940_쉬운 최단거리(S1)](https://www.acmicpc.net/problem/14940) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%89%AC%EC%9A%B4%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
+  | 이수민 | [프로그래머스 주차 요금 계산(LV2)(복습N)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88.java) | 프로그래머스 귤 고르기(Lv2]복습2)(https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/41%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
+  | 이연상 | [백준 7562_나이트의 이동(S1)(복습1)](https://www.acmicpc.net/problem/7562) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.java) | [백준 2668_숫자 고르기(G5)(복습1)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/42%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
  
 
   ### 24.08.23 금요일
