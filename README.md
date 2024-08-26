@@ -2302,7 +2302,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 20444_색종이와 가위(G5)](https://www.acmicpc.net/problem/20444) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%83%89%EC%A2%85%EC%9D%B4%EC%99%80%EA%B0%80%EC%9C%84.java) | [백준 1749_점수따먹기(G4)](https://www.acmicpc.net/problem/1749) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A0%90%EC%88%98%EB%94%B0%EB%A8%B9%EA%B8%B0.java) |
   | 김민우 | [백준 5582_공통부분문자열(G5)](https://www.acmicpc.net/problem/5582) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EA%B3%B5%ED%86%B5%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.java) | [백준 2229_조짜기(G5)](https://www.acmicpc.net/problem/2229) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%A1%B0%EC%A7%9C%EA%B8%B0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
