@@ -2315,7 +2315,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_영어 끝말잇기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java) | [프로그래머스_N개의 최소공배수(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java) |
 
   
   ### 24.08.28 수요일
