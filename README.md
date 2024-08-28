@@ -2324,7 +2324,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 27971_강아지는 많을수록 좋다(S1)](https://www.acmicpc.net/problem/27971) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A7%8E%EC%9D%84%EC%88%98%EB%A1%9D%20%EC%A2%8B%EB%8B%A4.java) | [백준 1715_카드 정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_연속 부분  수열  합의 개수(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%20%EC%88%98%EC%97%B4%20%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) | [프로그래머스_귤 고르기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
 
 
