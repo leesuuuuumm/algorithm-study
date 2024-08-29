@@ -2334,9 +2334,9 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 16197_두 동전(G4)](https://www.acmicpc.net/problem/16197) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%91%90%EB%8F%99%EC%A0%84.java) | [백준 7569_토마토(G5)](https://www.acmicpc.net/problem/7569) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%86%A0%EB%A7%88%ED%86%A0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_H-index(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/H-index.java) | [프로그래머스_의상(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%98%EC%83%81.java) |
 
  
 
