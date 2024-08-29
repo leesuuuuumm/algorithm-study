@@ -2336,7 +2336,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_H-index(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/H-index.java) | [프로그래머스_의상(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%98%EC%83%81.java) |
 
  
 
