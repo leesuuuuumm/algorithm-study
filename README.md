@@ -2346,7 +2346,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 15724_주지수(S1)](https://www.acmicpc.net/problem/15724) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%A7%80%EC%88%98.java) | [프로그래머스 구명보트(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
 
