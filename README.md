@@ -2344,7 +2344,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [소프티어 업무처리(LV3)](https://softeer.ai/practice/6251) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%97%85%EB%AC%B4%EC%B2%98%EB%A6%AC.java) | [소프티어 슈퍼컴퓨터 클러스터(LV3)](https://softeer.ai/practice/6252) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%8A%88%ED%8D%BC%EC%BB%B4%ED%93%A8%ED%84%B0%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [백준 15724_주지수(S1)](https://www.acmicpc.net/problem/15724) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A3%BC%EC%A7%80%EC%88%98.java) | [프로그래머스 구명보트(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
