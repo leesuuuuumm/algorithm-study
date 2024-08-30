@@ -4,7 +4,7 @@
 - `[문제출처] (문제번호)_(문제이름)`
 - [BOJ] 1339번_단어 수학
 - [PRG] 성격 유형 검사하기
-- 백준 : BOJ / 프로그래머스 : PRG / 코드트리 : CDT / 리트코드: LC / SWEA : SWEA 
+- 백준 : BOJ / 프로그래머스 : PRG / 코드트리 : CDT / 리트코드: LC / SWEA : SWEA / 소프티어 : SOFT
 
 ## ✅ 문제 풀이
   <details>
@@ -2322,7 +2322,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [소프티어 출퇴근길](https://softeer.ai/practice/6248) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B6%9C%ED%87%B4%EA%B7%BC%EA%B8%B8.java) | [소프티어 염기서열 커버](https://softeer.ai/practice/6249) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%97%BC%EA%B8%B0%EC%84%9C%EC%97%B4%EC%BB%A4%EB%B2%84.java) |
+  | 김민수 | [소프티어 출퇴근길(LV3)](https://softeer.ai/practice/6248) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B6%9C%ED%87%B4%EA%B7%BC%EA%B8%B8.java) | [소프티어 염기서열 커버(LV3)](https://softeer.ai/practice/6249) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%97%BC%EA%B8%B0%EC%84%9C%EC%97%B4%EC%BB%A4%EB%B2%84.java) |
   | 김민우 | [백준 1248_GUESS(G3)](https://www.acmicpc.net/problem/1248) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/GUESS.java) | [백준 2138_전구와 스위치(G4)](https://www.acmicpc.net/problem/2138) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%A0%84%EA%B5%AC%EC%99%80%EC%8A%A4%EC%9C%84%EC%B9%98.java) |
   | 이수민 | [백준 27971_강아지는 많을수록 좋다(S1)](https://www.acmicpc.net/problem/27971) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%95%EC%95%84%EC%A7%80%EB%8A%94%20%EB%A7%8E%EC%9D%84%EC%88%98%EB%A1%9D%20%EC%A2%8B%EB%8B%A4.java) | [백준 1715_카드 정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_연속 부분  수열  합의 개수(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%20%EC%88%98%EC%97%B4%20%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.java) | [프로그래머스_귤 고르기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) |
@@ -2333,7 +2333,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [코드트리 왕실의 기사 대결(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/royal-knight-duel?page=1&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/commit/c72c79edfe54c11810cd7c96dc12b062ccf1193a) | [소프티어 성적평가(LV3)](https://softeer.ai/practice/6250) | [✔](https://github.com/minsu20/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B1%EC%A0%81%ED%8F%89%EA%B0%80.java) |
   | 김민우 | [백준 16197_두 동전(G4)](https://www.acmicpc.net/problem/16197) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%91%90%EB%8F%99%EC%A0%84.java) | [백준 7569_토마토(G5)](https://www.acmicpc.net/problem/7569) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%86%A0%EB%A7%88%ED%86%A0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_H-index(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/H-index.java) | [프로그래머스_의상(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/43%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%98%EC%83%81.java) |
