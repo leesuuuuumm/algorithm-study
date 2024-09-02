@@ -2365,7 +2365,7 @@
   | 김민수 | [소프티어 플레이페어 암호(LV3)](https://softeer.ai/practice/6255) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%95%94%ED%98%B8.java) | [소프티어 교차로(LV3)](https://softeer.ai/practice/6256) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%90%EC%B0%A8%EB%A1%9C.java) |
   | 김민우 | [백준 2668_숫자고르기(G5)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) | [백준 13549_숨바꼭질3(G5)(복습1)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_기능개발(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java) | [프로그래머스_캐시(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BA%90%EC%8B%9C.java) |
 
  
   
