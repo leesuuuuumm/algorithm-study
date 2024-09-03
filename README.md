@@ -2376,7 +2376,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%A6%AC%EB%AA%A8%EC%BB%A8.java) | [백준 1182_부분수열의 합(S2)](https://www.acmicpc.net/problem/1182) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1421_낚시꾼 이다솜(S1)(복습1)](https://www.acmicpc.net/problem/1421) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%9A%EC%8B%9C%EA%BE%BC%EC%9D%B4%EB%8B%A4%EC%86%9C.java) | [백준 1956_운동(G4)(복습1)](https://www.acmicpc.net/problem/1956) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%B4%EB%8F%99.java) |
 
 
   
