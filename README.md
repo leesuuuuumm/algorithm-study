@@ -2385,7 +2385,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 1759_암호만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 2011_암호코드(G5)](https://www.acmicpc.net/problem/2011) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C.java) |
   | 이수민 | [백준 2156_포도주 시식(S1)(복습1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | [백준 1744_수 묶기(G4)](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%20%EB%AC%B6%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
