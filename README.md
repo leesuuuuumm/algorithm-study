@@ -2363,9 +2363,9 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [소프티어 플레이페어 암호(LV3)](https://softeer.ai/practice/6255) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%95%94%ED%98%B8.java) | [소프티어 교차로(LV3)](https://softeer.ai/practice/6256) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%90%EC%B0%A8%EB%A1%9C.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 2668_숫자고르기(G5)](https://www.acmicpc.net/problem/2668) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0.java) | [백준 13549_숨바꼭질3(G5)(복습1)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_기능개발(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java) | [프로그래머스_캐시(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BA%90%EC%8B%9C.java) |
 
  
   
@@ -2374,9 +2374,9 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%A6%AC%EB%AA%A8%EC%BB%A8.java) | [백준 1182_부분수열의 합(S2)](https://www.acmicpc.net/problem/1182) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.java) |
+  | 이수민 | [백준 14562_태권왕(S1)](https://www.acmicpc.net/problem/14562) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%9C%EA%B6%8C%EC%99%95.java) | [백준 7983_내일 할거야(G5)](https://www.acmicpc.net/problem/7983) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%B4%EC%9D%BC%20%ED%95%A0%EA%B1%B0%EC%95%BC.java) |
+  | 이연상 | [백준 1421_낚시꾼 이다솜(S1)(복습1)](https://www.acmicpc.net/problem/1421) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%9A%EC%8B%9C%EA%BE%BC%EC%9D%B4%EB%8B%A4%EC%86%9C.java) | [백준 1956_운동(G4)(복습1)](https://www.acmicpc.net/problem/1956) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%B4%EB%8F%99.java) |
 
 
   
@@ -2385,8 +2385,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 1759_암호만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 2011_암호코드(G5)](https://www.acmicpc.net/problem/2011) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C.java) |
+  | 이수민 | [백준 2156_포도주 시식(S1)(복습1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | [백준 1744_수 묶기(G4)](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%20%EB%AC%B6%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
 
