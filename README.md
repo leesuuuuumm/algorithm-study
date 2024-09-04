@@ -2362,7 +2362,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [소프티어 플레이페어 암호(LV3)](https://softeer.ai/practice/6255) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%95%94%ED%98%B8.java) | [소프티어 교차로(LV3)](https://softeer.ai/practice/6256) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%90%EC%B0%A8%EB%A1%9C.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
