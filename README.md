@@ -2387,7 +2387,7 @@
   | 김민수 | [소프티어 사물인식 최소 면적 산출 프로그램(LV3)](https://softeer.ai/practice/6277) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%82%AC%EB%AC%BC%EC%9D%B8%EC%8B%9D%EC%B5%9C%EC%86%8C%EB%A9%B4%EC%A0%81%EC%82%B0%EC%B6%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.java) | [소프티어 Garage Game(LV3)](https://softeer.ai/practice/6276) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/GarageGame.java) |
   | 김민우 | [백준 1759_암호만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 2011_암호코드(G5)](https://www.acmicpc.net/problem/2011) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C.java) |
   | 이수민 | [백준 2156_포도주 시식(S1)(복습1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8F%AC%EB%8F%84%EC%A3%BC%20%EC%8B%9C%EC%8B%9D.java) | [백준 1744_수 묶기(G4)](https://www.acmicpc.net/problem/1744) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%20%EB%AC%B6%EA%B8%B0.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_튜플(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%9C%ED%94%8C.java) | [프로그래머스_피로도(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java) |
 
 
   
@@ -2397,7 +2397,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 23029_시식 코너는 나의 것(S1)](https://www.acmicpc.net/problem/23029) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%9C%EC%8B%9D%20%EC%BD%94%EB%84%88%EB%8A%94%20%EB%82%98%EC%9D%98%20%EA%B2%83.java) | [백준 3671_산업 스파이의 편지(G5)](https://www.acmicpc.net/problem/3671) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%B0%EC%97%85%20%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%9D%98%20%ED%8E%B8%EC%A7%80.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
