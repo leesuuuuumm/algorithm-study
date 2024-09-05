@@ -2397,7 +2397,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 23029_시식 코너는 나의 것(S1)](https://www.acmicpc.net/problem/23029) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%9C%EC%8B%9D%20%EC%BD%94%EB%84%88%EB%8A%94%20%EB%82%98%EC%9D%98%20%EA%B2%83.java) | [백준 3671_산업 스파이의 편지(G5)](https://www.acmicpc.net/problem/3671) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%B0%EC%97%85%20%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%9D%98%20%ED%8E%B8%EC%A7%80.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
