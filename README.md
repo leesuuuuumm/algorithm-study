@@ -2398,8 +2398,7 @@
   | 김민수 | [소프티어 성적 평균(LV3)](https://softeer.ai/practice/6294) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B1%EC%A0%81%ED%8F%89%EA%B7%A0.java) | [소프티어 징검다리(LV3)](https://softeer.ai/practice/6293) | [✔](https://github.com/minsu20/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.java) |
   | 김민우 | [백준 2573_빙산(G5)](https://www.acmicpc.net/problem/2573) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B9%99%EC%82%B0.java) | [백준 2225_합분해(G5)](https://www.acmicpc.net/problem/2225) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%95%A9%EB%B6%84%ED%95%B4.java) |
   | 이수민 | [백준 23029_시식 코너는 나의 것(S1)](https://www.acmicpc.net/problem/23029) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%8B%9C%EC%8B%9D%20%EC%BD%94%EB%84%88%EB%8A%94%20%EB%82%98%EC%9D%98%20%EA%B2%83.java) | [백준 3671_산업 스파이의 편지(G5)](https://www.acmicpc.net/problem/3671) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%B0%EC%97%85%20%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%9D%98%20%ED%8E%B8%EC%A7%80.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
-
+  | 이연상 | [백준 1374_강의실(G5)(복습1)](https://www.acmicpc.net/problem/1374) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%95%EC%9D%98%EC%8B%A4.java) | [백준 1034_램프(G5)(복습1)](https://www.acmicpc.net/problem/1034) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%9E%A8%ED%94%84.java) |
  
 
   ### 24.09.06 금요일
