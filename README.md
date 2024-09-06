@@ -2408,7 +2408,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 2293_동전1(G5)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8F%99%EC%A0%841.java) | [백준 2294_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8F%99%EC%A0%842.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 12849_본대산책(S1)(복습1)](https://www.acmicpc.net/problem/12849) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B3%B8%EB%8C%80%EC%82%B0%EC%B1%85.java) | [백준 1068_트리(G5)(복습1)](https://www.acmicpc.net/problem/1068) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/29%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8A%B8%EB%A6%AC.java) |
 
 
   
