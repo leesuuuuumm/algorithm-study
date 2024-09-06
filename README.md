@@ -2406,7 +2406,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 2293_동전1(G5)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8F%99%EC%A0%841.java) | [백준 2294_동전2(G5)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/44%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8F%99%EC%A0%842.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
