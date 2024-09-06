@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class _14500 {
+public class 테트로미노 {
     static int result, sum;
     static int[][] map;
     static boolean[][] visited;
