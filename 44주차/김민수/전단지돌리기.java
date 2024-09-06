@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class _19542 {
+public class 전단지돌리기 {
     static int N, S, D;
     static ArrayList<Integer>[] graph;
     static boolean[] visited;
