@@ -2426,7 +2426,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 1577_도로의개수(G5)](https://www.acmicpc.net/problem/1577) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8F%84%EB%A1%9C%EC%9D%98%EA%B0%9C%EC%88%98.java) | [백준 1890_점프(S1)](https://www.acmicpc.net/problem/1890) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%A0%90%ED%94%84.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 11052_카드 구매하기(S1)(복습1)](https://www.acmicpc.net/problem/11052) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) | [백준 2467_용액(G5)(복습1)](https://www.acmicpc.net/problem/2467) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9A%A9%EC%95%A1.java) |
 
  
   
