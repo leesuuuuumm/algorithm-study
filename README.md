@@ -2435,8 +2435,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 16234_인구 이동(G4)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) | [백준 1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%97%B0%EC%86%8D%ED%95%A9.java) |
+  | 이수민 | [백준 9549_암호화된 비밀번호(S1)](https://www.acmicpc.net/problem/9549) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%94%ED%98%B8%ED%99%94%EB%90%9C%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) | [백준 16235_나무 재테크(G3)](https://www.acmicpc.net/problem/16235) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   
