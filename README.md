@@ -2447,7 +2447,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 1967_트리의 지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.java) | [백준 14502_연구소(G4)](https://www.acmicpc.net/problem/14502) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%97%B0%EA%B5%AC%EC%86%8C.java) |
   | 이수민 | [백준 12968_방문(S1)](https://www.acmicpc.net/problem/12968) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EB%AC%B8.java) | [백준 31863_내진 설계(G5)](https://www.acmicpc.net/problem/31863) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%B4%EC%A7%84%20%EC%84%A4%EA%B3%84.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_프로세스(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) | [프로그래머스_전화번호 목록(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) |
 
 
   
