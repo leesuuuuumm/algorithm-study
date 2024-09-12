@@ -2437,17 +2437,17 @@
   | 김민수 | [백준 22947_실행 시간(G2)](https://www.acmicpc.net/problem/22947) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%8B%A4%ED%96%89%EC%8B%9C%EA%B0%84.java) | [코드트리 코드트리 빵(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/codetree-mon-bread/description?page=3&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%BD%94%EB%93%9C%ED%8A%B8%EB%A6%AC%EB%B9%B5.java) |
   | 김민우 | [백준 16234_인구 이동(G4)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) | [백준 1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%97%B0%EC%86%8D%ED%95%A9.java) |
   | 이수민 | [백준 9549_암호화된 비밀번호(S1)](https://www.acmicpc.net/problem/9549) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%94%ED%98%B8%ED%99%94%EB%90%9C%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) | [백준 16235_나무 재테크(G3)](https://www.acmicpc.net/problem/16235) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%98%EB%AC%B4%20%EC%9E%AC%ED%85%8C%ED%81%AC.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 2156_포도주 시식(S1)(복습)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.java) | [백준 1715_카드 정렬하기(G4)(복습)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
 
   
   ### 24.09.11 수요일
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 17182_우주탐사선(G3)](https://www.acmicpc.net/problem/17182) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%9A%B0%EC%A3%BC%ED%83%90%EC%82%AC%EC%84%A0.java) | [소프티어 통근버스 출발 순서 검증하기(LV3)](https://softeer.ai/practice/6257) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%86%B5%EA%B7%BC%EB%B2%84%EC%8A%A4.java) |
+  | 김민우 | [백준 1967_트리의 지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.java) | [백준 14502_연구소(G4)](https://www.acmicpc.net/problem/14502) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%97%B0%EA%B5%AC%EC%86%8C.java) |
+  | 이수민 | [백준 12968_방문(S1)](https://www.acmicpc.net/problem/12968) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%EB%AC%B8.java) | [백준 31863_내진 설계(G5)](https://www.acmicpc.net/problem/31863) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%82%B4%EC%A7%84%20%EC%84%A4%EA%B3%84.java) |
+  | 이연상 | [프로그래머스_프로세스(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java) | [프로그래머스_전화번호 목록(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) |
 
 
   
