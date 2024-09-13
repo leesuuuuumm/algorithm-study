@@ -2465,7 +2465,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 2228_구간나누기(G3)](https://www.acmicpc.net/problem/2228) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%AC%EA%B0%84%EB%82%98%EB%88%84%EA%B8%B0.java) | [코드트리 꼬리잡기놀이(G1)](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=4&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
