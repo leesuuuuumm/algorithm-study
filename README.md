@@ -2456,16 +2456,16 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [코드트리 싸움땅(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/battle-ground/description?page=1&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%8B%B8%EC%9B%80%EB%95%85.java) | [백준 2212_센서(G5)](https://www.acmicpc.net/problem/2212) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%BC%EC%84%9C.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 18513_샘터(G4)](https://www.acmicpc.net/problem/18513) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%89%BC%ED%84%B0.java) | [백준 14940_쉬운 최단거리(S1)(복습1)](https://www.acmicpc.net/problem/14940) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%89%AC%EC%9A%B4%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java) |
   | 이수민 | [백준 14496_그대, 그머가 되어(S2)](https://www.acmicpc.net/problem/14496) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B7%B8%EB%8C%80%2C%20%EA%B7%B8%EB%A8%B8%EA%B0%80%20%EB%90%98%EC%96%B4.java) | [백준 16236_아기 상어(G3)(복습1)](https://www.acmicpc.net/problem/16236) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%84%EA%B8%B0%20%EC%83%81%EC%96%B4.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 17099_회문(S1)(복습1)](https://www.acmicpc.net/problem/17609) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%9A%8C%EB%AC%B8.java) | [백준 9019__DSLR(G4)(복습1)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/dslr.java) |
  
 
   ### 24.09.13 금요일
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 2228_구간나누기(G3)](https://www.acmicpc.net/problem/2228) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%AC%EA%B0%84%EB%82%98%EB%88%84%EA%B8%B0.java) | [코드트리 꼬리잡기놀이(G1)](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=4&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
