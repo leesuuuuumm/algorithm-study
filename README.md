@@ -2466,7 +2466,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 2228_구간나누기(G3)](https://www.acmicpc.net/problem/2228) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%AC%EA%B0%84%EB%82%98%EB%88%84%EA%B8%B0.java) | [코드트리 꼬리잡기놀이(G1)](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=4&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 15486_퇴사2(G5)](https://www.acmicpc.net/problem/15486) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%87%B4%EC%82%AC2) | [백준 18352_특정 거리의 도시 찾기(S2)](https://www.acmicpc.net/problem/18352) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
