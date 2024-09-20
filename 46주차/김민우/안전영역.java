@@ -22,7 +22,7 @@ public class 안전영역 {
                 map[i][j] = Integer.parseInt(st.nextToken());
                 if(map[i][j] > maxHeight) {
                     maxHeight =map[i][j];
-                }
+                }#
             }
         }
 
