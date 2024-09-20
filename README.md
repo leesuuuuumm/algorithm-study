@@ -2504,7 +2504,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | [백준 2468_안전영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.java) | [백준 13549_숨바꼭질3(G5)(복습1)]() | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) |
+  | 김민우 | [백준 2468_안전영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.java) | [백준 13549_숨바꼭질3(G5)(복습1)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.java) | [프로그래머스_뉴스 클러스터링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
 
