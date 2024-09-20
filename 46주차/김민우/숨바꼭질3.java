@@ -22,7 +22,7 @@ public class 숨바꼭질3{
 
     public static void bfs() {
         Queue<Node> q = new LinkedList<>();
-        q.offer(new Node(n, 0));
+        q.offer(new Node(n, 0));#
 
         while (!q.isEmpty()) {
             Node node = q.poll();
