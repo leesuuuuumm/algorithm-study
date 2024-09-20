@@ -45,7 +45,7 @@ public class 로봇청소기 {
                 }
             }
         }
-
+#
         int d = (dir + 2) % 4; //반대 방향으로 후진
         int bx = x + dx[d];
         int by = y + dy[d];
