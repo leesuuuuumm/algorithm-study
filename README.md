@@ -2416,7 +2416,7 @@
 </details>
 
 <details>
-  <summary>45주차</summary>
+  <summary>45주차(완료)</summary>
   <div markdown="1">
     
   ### 24.09.09 월요일
@@ -2466,13 +2466,50 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 2228_구간나누기(G3)](https://www.acmicpc.net/problem/2228) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B5%AC%EA%B0%84%EB%82%98%EB%88%84%EA%B8%B0.java) | [코드트리 꼬리잡기놀이(G1)](https://www.codetree.ai/training-field/frequent-problems/problems/tail-catch-play?page=4&pageSize=5) | [✔](https://github.com/minsu20/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%BC%AC%EB%A6%AC%EC%9E%A1%EA%B8%B0%EB%86%80%EC%9D%B4.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 15486_퇴사2(G5)](https://www.acmicpc.net/problem/15486) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%87%B4%EC%82%AC2) | [백준 18352_특정 거리의 도시 찾기(S2)](https://www.acmicpc.net/problem/18352) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8A%B9%EC%A0%95%EA%B1%B0%EB%A6%AC%EC%9D%98%EB%8F%84%EC%8B%9C%EC%B0%BE%EA%B8%B0) |
+  | 이수민 | [백준 14888_연산자 끼워넣기(S1)](https://www.acmicpc.net/problem/14888) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java) | [프로그래머스 JadenCase 문자열 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
+  | 이연상 | [백준 5430_AC(G5)(복습1)](https://www.acmicpc.net/problem/5430) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/AC.java) | [백준 1245_농장 관리(G5)(복습1)](https://www.acmicpc.net/problem/1245) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/45%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%86%8D%EC%9E%A5%EA%B4%80%EB%A6%AC.java) |
 
 
   
   </div>
 </details>
 
+<details>
+  <summary>46주차</summary>
+  <div markdown="1">
+    
+  ### 24.09.16 월요일 (추석연휴)
+  
+  
+  ### 24.09.17 화요일 (추석연휴)
+
+  
+  ### 24.09.18 수요일 (추석연휴)
+
+  
+  ### 24.09.19 목요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 13903_출근(S1)](https://www.acmicpc.net/problem/13903) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B6%9C%EA%B7%BC.java) | [백준 17780_새로운 게임(G2)](https://www.acmicpc.net/problem/17780) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B2%8C%EC%9E%84.java) |
+  | 이연상 | [백준 1992_쿼드 트리(S1)(복습1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java) | [백준 7573_고기 잡이(G4)(복습1)](https://www.acmicpc.net/problem/7573) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EA%B8%B0%EC%9E%A1%EC%9D%B4.java) |
+
+ 
+
+  ### 24.09.20 금요일
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.java) | [프로그래머스_뉴스 클러스터링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
+
+
+  
+  </div>
+</details>
 
