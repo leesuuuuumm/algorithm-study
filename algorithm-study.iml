@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1주차/신민선" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1주차/이명범" isTestSource="false" packagePrefix="boj" />
       <sourceFolder url="file://$MODULE_DIR$/1주차/이수민" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/43주차" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
