@@ -19,7 +19,7 @@ public class 맥주마시면서걸어가기 {
 				int x = Integer.parseInt(st.nextToken());
 				int y = Integer.parseInt(st.nextToken());
 				list.add(new int[]{x,y});
-			}
+			}#
 
 			boolean[][] flag = new boolean[n+2][n+2];
 			for(int i=0; i<n+2; i++) {
