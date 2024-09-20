@@ -2505,7 +2505,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 2468_안전영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.java) | [백준 13549_숨바꼭질3(G5)(복습1)](https://www.acmicpc.net/problem/13549) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%883.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 22869_징검다리 건너기(small)(S1)](https://www.acmicpc.net/problem/22869) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0(small).java) | [백준 2170_선 긋기(G5)](https://www.acmicpc.net/problem/2170) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%84%A0%20%EA%B8%8B%EA%B8%B0.java) |
   | 이연상 | [프로그래머스_타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=java) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.java) | [프로그래머스_뉴스 클러스터링(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/46%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java) |
 
 
