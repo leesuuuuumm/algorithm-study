@@ -2531,7 +2531,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 2636_치즈(G4)](https://www.acmicpc.net/problem/2636) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%B9%98%EC%A6%88.java) | [백준 1283_단축키 지정(S1)](https://www.acmicpc.net/problem/1283) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8B%A8%EC%B6%95%ED%82%A4%EC%A7%80%EC%A0%95.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
