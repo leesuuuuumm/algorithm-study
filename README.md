@@ -2530,7 +2530,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [프로그래머스 수식 복원하기(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/340210) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%88%98%EC%8B%9D%EB%B3%B5%EC%9B%90%ED%95%98%EA%B8%B0.java) | [코드트리 정육면체 한번 더 굴리기(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding-again?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%ED%95%9C%EB%B2%88%EB%8D%94%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
+  | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 2636_치즈(G4)](https://www.acmicpc.net/problem/2636) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%B9%98%EC%A6%88.java) | [백준 1283_단축키 지정(S1)](https://www.acmicpc.net/problem/1283) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8B%A8%EC%B6%95%ED%82%A4%EC%A7%80%EC%A0%95.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 1916_최소 비용 구하기(G5)(복습1)](https://www.acmicpc.net/problem/1916) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.java) | [백준 1197_최소 스패닝 트리(G5)(복습1)](https://www.acmicpc.net/problem/1197) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.java) |
