@@ -2520,7 +2520,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [프로그래머스 퍼즐 게임 챌린지(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B6%A9%EB%8F%8C%EC%9C%84%ED%97%98%EC%B0%BE%EA%B8%B0.java) | [프로그래머스 충돌위험 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84%EC%B1%8C%EB%A6%B0%EC%A7%80.java) |
   | 김민우 | [백준 9019_DSLR(G4)](https://www.acmicpc.net/problem/9019) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/DSLR.java) | [백준 4179_불!(G3)(복습2)](https://www.acmicpc.net/problem/4179) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%B6%88.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_이중우선순위큐(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.java) | [프로그래머스_n진수 게임(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/17687) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.java) |
