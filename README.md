@@ -2531,9 +2531,11 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 2636_치즈(G4)](https://www.acmicpc.net/problem/2636) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%B9%98%EC%A6%88.java) | [백준 1283_단축키 지정(S1)](https://www.acmicpc.net/problem/1283) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%8B%A8%EC%B6%95%ED%82%A4%EC%A7%80%EC%A0%95.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1916_최소 비용 구하기(G5)(복습1)](https://www.acmicpc.net/problem/1916) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.java) | [백준 1197_최소 스패닝 트리(G5)(복습1)](https://www.acmicpc.net/problem/1197) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.java) |
+
+
 
   
   ### 24.09.25 수요일
