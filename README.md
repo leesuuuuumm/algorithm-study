@@ -2542,7 +2542,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [코드트리 나무 타이쿤(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%82%98%EB%AC%B4%ED%83%80%EC%9D%B4%EC%BF%A4.java) | [백준 11066_파일 합치기(G3)](https://www.acmicpc.net/problem/11066) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
