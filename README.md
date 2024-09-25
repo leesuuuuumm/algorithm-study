@@ -2545,7 +2545,7 @@
   | 김민수 | [코드트리 나무 타이쿤(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/tree-tycoon/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%82%98%EB%AC%B4%ED%83%80%EC%9D%B4%EC%BF%A4.java) | [백준 11066_파일 합치기(G3)](https://www.acmicpc.net/problem/11066) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_네트워크(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) | [프로그래머스_정수 삼각형(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.java) |
 
 
   
