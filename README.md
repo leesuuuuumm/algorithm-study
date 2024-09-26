@@ -2553,7 +2553,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [코드트리 놀이기구 탑승(G5](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%ED%83%91%EC%8A%B9.java) | [코드트리 청소는 즐거워(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/cleaning-is-joyful/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B2%AD%EC%86%8C%EB%8A%94%EC%A6%90%EA%B1%B0%EC%9B%8C.java) |
+  | 김민수 | [코드트리 놀이기구 탑승(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%ED%83%91%EC%8A%B9.java) | [코드트리 청소는 즐거워(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/cleaning-is-joyful/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B2%AD%EC%86%8C%EB%8A%94%EC%A6%90%EA%B1%B0%EC%9B%8C.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
