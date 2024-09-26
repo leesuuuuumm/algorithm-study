@@ -2556,7 +2556,7 @@
   | 김민수 | [코드트리 놀이기구 탑승(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/go-on-the-rides/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%ED%83%91%EC%8A%B9.java) | [코드트리 청소는 즐거워(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/cleaning-is-joyful/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B2%AD%EC%86%8C%EB%8A%94%EC%A6%90%EA%B1%B0%EC%9B%8C.java) |
   | 김민우 | [백준 2138_전구와 스위치(G4)(복습1)](https://www.acmicpc.net/problem/2138) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%A0%84%EA%B5%AC%EC%99%80%EC%8A%A4%EC%9C%84%EC%B9%98.java) | [프로그래머스 k진수에서 소수 개수 구하기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92335?language=java) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1062_가르침(G5)(복습1)](https://www.acmicpc.net/problem/1062) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B0%80%EB%A5%B4%EC%B9%A8.java) | [백준 1189_컴백홈(S1)(복습1)](https://www.acmicpc.net/problem/1189) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/47%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BB%B4%EB%B0%B1%ED%99%88.java) |
 
 
   ### 24.09.27 금요일
