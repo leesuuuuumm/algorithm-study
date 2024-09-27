@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class BJ_G4_15683_감시 {
+public class 감시 {
     static class Point{
         int x;
         int y;
