@@ -2513,7 +2513,7 @@
 </details>
 
 <details>
-  <summary>47주차</summary>
+  <summary>47주차(완료)</summary>
   <div markdown="1">
     
   ### 24.09.23 월요일
