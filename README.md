@@ -2581,7 +2581,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [코드트리 승자독식 모노폴리(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/odd-monopoly?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%8A%B9%EC%9E%90%EB%8F%85%EC%8B%9D%EB%AA%A8%EB%85%B8%ED%8F%B4%EB%A6%AC.java) | [백준 1715_카드정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
