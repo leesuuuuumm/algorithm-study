@@ -2583,7 +2583,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [코드트리 승자독식 모노폴리(G2)](https://www.codetree.ai/training-field/frequent-problems/problems/odd-monopoly?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%8A%B9%EC%9E%90%EB%8F%85%EC%8B%9D%EB%AA%A8%EB%85%B8%ED%8F%B4%EB%A6%AC.java) | [백준 1715_카드정렬하기(G4)](https://www.acmicpc.net/problem/1715) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B9%B4%EB%93%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 3085_사탕 게임(S2)](https://www.acmicpc.net/problem/3085) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%AC%ED%83%95%20%EA%B2%8C%EC%9E%84.java) | [백준 20057_마법사 상어와 토네이도(G3)(복습1)](https://www.acmicpc.net/problem/20057) | [✔](https://www.acmicpc.net/source/84563032) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
