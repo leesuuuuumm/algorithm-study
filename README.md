@@ -2596,7 +2596,7 @@
   | 김민수 | [백준 1967_트리의 지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.java) | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.java) |
   | 김민우 | [백준 17135_캐슬디펜스(G3)](https://www.acmicpc.net/problem/17135) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%BA%90%EC%8A%AC%EB%94%94%ED%8E%9C%EC%8A%A4.java) | [백준 17070_파이프 옮기기1(G5)](https://www.acmicpc.net/problem/17070) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8C%8C%EC%9D%B4%ED%94%84%EC%98%AE%EA%B8%B0%EA%B8%B01.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_압축(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%95%EC%B6%95.java) | [프로그래머스_모음사전(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.java) |
 
   
   ### 24.10.03 목요일 (개천절)
