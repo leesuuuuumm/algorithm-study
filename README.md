@@ -2593,7 +2593,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1967_트리의 지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.java) | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.java) |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
