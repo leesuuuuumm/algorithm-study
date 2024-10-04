@@ -2609,7 +2609,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | [백준 1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%A6%AC%EB%AA%A8%EC%BB%A8.java) | [백준 1012_유기농배추(S2)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [코드트리_바이러스 검사(B2)](https://www.codetree.ai/training-field/frequent-problems/problems/virus-detector?page=4&pageSize=20) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%EA%B2%80%EC%82%AC.java) | [코드트리_정육면체 굴리기(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding?page=4&pageSize=20) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
 
 
   
