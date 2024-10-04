@@ -2594,9 +2594,9 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 1967_트리의 지름(G4)](https://www.acmicpc.net/problem/1967) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84.java) | [백준 2156_포도주 시식(S1)](https://www.acmicpc.net/problem/2156) | [✔](https://github.com/minsu20/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 17135_캐슬디펜스(G3)](https://www.acmicpc.net/problem/17135) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%BA%90%EC%8A%AC%EB%94%94%ED%8E%9C%EC%8A%A4.java) | [백준 17070_파이프 옮기기1(G5)](https://www.acmicpc.net/problem/17070) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%ED%8C%8C%EC%9D%B4%ED%94%84%EC%98%AE%EA%B8%B0%EA%B8%B01.java) |
+  | 이수민 | [백준 1850_최대공약수(S1)](https://www.acmicpc.net/problem/1850) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98.java) | [백준 20056_마법사 상어와 파이어볼(G4)](https://www.acmicpc.net/problem/20056) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%A7%88%EB%B2%95%EC%82%AC%20%EC%83%81%EC%96%B4%EC%99%80%20%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC.java) |
+  | 이연상 | [프로그래머스_압축(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%95%EC%B6%95.java) | [프로그래머스_모음사전(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.java) |
 
   
   ### 24.10.03 목요일 (개천절)
@@ -2607,9 +2607,9 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%A6%AC%EB%AA%A8%EC%BB%A8.java) | [백준 1012_유기농배추(S2)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.java) |
+  | 이수민 | [백준 1141_접두사(S1)](https://www.acmicpc.net/problem/1141) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%91%EB%91%90%EC%82%AC.java) | [프로그래머스 N개의 최소공배수(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/12953) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java) |
+  | 이연상 | [코드트리_바이러스 검사(B2)](https://www.codetree.ai/training-field/frequent-problems/problems/virus-detector?page=4&pageSize=20) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20%EA%B2%80%EC%82%AC.java) | [코드트리_정육면체 굴리기(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding?page=4&pageSize=20) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
 
 
   
