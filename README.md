@@ -2607,7 +2607,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%A6%AC%EB%AA%A8%EC%BB%A8.java) | [백준 1012_유기농배추(S2)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/48%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
