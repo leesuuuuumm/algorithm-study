@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
 
-	static boolean[] v;
+	static boolean[] v; 
 	static char[] ch;
 	static StringBuilder sb;
 
