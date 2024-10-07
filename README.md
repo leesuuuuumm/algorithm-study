@@ -2625,7 +2625,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [코드트리 이상한 다트게임(G3)](https://www.codetree.ai/training-field/frequent-problems/problems/odd-dart-game/description?page=2&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%9D%B4%EC%83%81%ED%95%9C%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.java) | [백준 2624_동전 바꿔주기(G4)](https://www.acmicpc.net/problem/2624) | [✔](https://github.com/minsu20/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EC%A0%84%EB%B0%94%EA%BF%94%EC%A3%BC%EA%B8%B0.java) |
-  | 김민우 | []() | [✔]() | []() | [✔]() |
+  | 김민우 | [백준 1351_무한수열(G5)](https://www.acmicpc.net/problem/1351) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EB%AC%B4%ED%95%9C%EC%88%98%EC%97%B4.java) | [백준 19583_싸이버개강총회(S2)](https://www.acmicpc.net/problem/19583) | [✔](https://github.com/Tiel0043/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%9A%B0/%EC%8B%B8%EC%9D%B4%EB%B2%84%EA%B0%9C%EA%B0%95%EC%B4%9D%ED%9A%8C.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
