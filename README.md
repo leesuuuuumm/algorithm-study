@@ -2638,7 +2638,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [코드트리_조삼모사(S2)](https://www.codetree.ai/training-field/frequent-problems/problems/three-at-dawn-and-four-at-dusk/description?page=3&pageSize=20) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A1%B0%EC%82%BC%EB%AA%A8%EC%82%AC.java) | [코드트리_돌아가는 팔각의자(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/rounding-eight-angle?page=3&pageSize=20) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94%20%ED%8C%94%EA%B0%81%EC%9D%98%EC%9E%90.java) |
 
   
   ### 24.10.09 수요일 (한글날)
