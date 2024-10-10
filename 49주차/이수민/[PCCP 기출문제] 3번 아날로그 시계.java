@@ -3,7 +3,7 @@ class Solution {
         int s  = h1*3600 + m1 * 60 +s1;
         int e = h2 * 3600 + m2 * 60 +s2;
         return cal(e) - cal(s) + (alramNow(s)?1:0);
-    }
+    } 
     private int cal(int time){
         int sm = time * 59 /3600;
         
