@@ -2652,7 +2652,7 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 김민우 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [코드트리_술래잡기(G1)](https://www.codetree.ai/training-field/frequent-problems/problems/hide-and-seek/submissions?page=4&pageSize=5) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%A0%EB%9E%98%EC%9E%A1%EA%B8%B0.java) | [프로그래머스_롤케이크 자르기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/49%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
 
 
   ### 24.10.11 금요일
