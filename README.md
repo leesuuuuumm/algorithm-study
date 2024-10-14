@@ -2676,7 +2676,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [코드트리 격자숫자놀이(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/matrix-number-play/description?page=3&pageSize=20) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B2%A9%EC%9E%90%EC%88%AB%EC%9E%90%EB%86%80%EC%9D%B4.java) | [백준 1987_알파벳(G4)](https://www.acmicpc.net/problem/1987) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%95%8C%ED%8C%8C%EB%B2%B3.java) |
   | 이수민 | [백준 1406_에디터(S2)](https://www.acmicpc.net/problem/1406) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%90%EB%94%94%ED%84%B0.java) | [백준 16120_PPAP(G4)](https://www.acmicpc.net/problem/16120) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/PPAP.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
