@@ -2677,7 +2677,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1406_에디터(S2)](https://www.acmicpc.net/problem/1406) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%90%EB%94%94%ED%84%B0.java) | [백준 16120_PPAP(G4)](https://www.acmicpc.net/problem/16120) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/PPAP.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
