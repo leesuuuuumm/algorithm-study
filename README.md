@@ -2688,7 +2688,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_방문 길이(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.java) | [프로그래머스_롤케이크 자르기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
 
   
   ### 24.10.16 수요일
