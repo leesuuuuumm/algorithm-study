@@ -2695,7 +2695,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1446_지름길(S1)](https://www.acmicpc.net/problem/1446) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%80%EB%A6%84%EA%B8%B8.java) | [백준 2188_두 개의 탑(G5)](https://www.acmicpc.net/problem/2118) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%91%90%EA%B0%9C%EC%9D%98%ED%83%91.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_뒤에 있는 큰 수 찾기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) | [프로그래머스_야근지수(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.java) |
 
