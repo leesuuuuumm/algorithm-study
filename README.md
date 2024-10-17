@@ -2715,7 +2715,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_더 맵게(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.java) | [프로그래머스_주식가격(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java) |
 
 
   
