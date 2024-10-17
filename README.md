@@ -2707,7 +2707,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 1976_여행가자(G4)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90.java) | [백준 1238_파티(G3)](https://www.acmicpc.net/problem/1238) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8C%8C%ED%8B%B0.java) |
   | 이수민 | [백준 2780_비밀번호(S1)](https://www.acmicpc.net/problem/2780) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) | [백준 1756_피자 굽기(G5)](https://www.acmicpc.net/problem/1756) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%94%BC%EC%9E%90%20%EA%B5%BD%EA%B8%B0.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_더 맵게(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8D%94%20%EB%A7%B5%EA%B2%8C.java) | [프로그래머스_주식가격(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java) |
 
   ### 24.10.18 금요일
 
@@ -2716,7 +2716,6 @@
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
-
 
   
   </div>
