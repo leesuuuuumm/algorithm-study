@@ -2705,7 +2705,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1976_여행가자(G4)](https://www.acmicpc.net/problem/1976) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%97%AC%ED%96%89%EA%B0%80%EC%9E%90.java) | [백준 1238_파티(G3)](https://www.acmicpc.net/problem/1238) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8C%8C%ED%8B%B0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
