@@ -2713,7 +2713,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1240_노드 사이의 거리(G5)](https://www.acmicpc.net/problem/1240) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%85%B8%EB%93%9C%EC%82%AC%EC%9D%B4%EC%9D%98%EA%B1%B0%EB%A6%AC.java) | [백준 1309_동물원(S1)](https://www.acmicpc.net/problem/1309) | [✔](https://github.com/minsu20/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%8F%99%EB%AC%BC%EC%9B%90.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [프로그래머스_땅따먹기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java) | [프로그래머스_단어변환(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/50%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.java) |
 
