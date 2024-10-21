@@ -2729,7 +2729,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1013_Contact(G5)](https://www.acmicpc.net/problem/1013) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/Contact.java) | [백준 4811_알약(G5)](https://www.acmicpc.net/problem/4811) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%95%8C%EC%95%BD.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
