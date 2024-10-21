@@ -2669,7 +2669,7 @@
 
 
 <details>
-  <summary>50주차</summary>
+  <summary>50주차(완료)</summary>
   <div markdown="1">
     
   ### 24.10.14 월요일
