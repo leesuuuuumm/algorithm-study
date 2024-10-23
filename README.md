@@ -2740,7 +2740,8 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 1865_웜홀(G3)](https://www.acmicpc.net/problem/1865) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9B%9C%ED%99%80.java) | [백준 13975_파일합치기3(G4)](https://www.acmicpc.net/problem/13975) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B03.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1992_쿼드트리(S1)(복습1)](https://www.acmicpc.net/problem/1992) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java) | [백준 1027_고층건물(G4)(복습1)](https://www.acmicpc.net/problem/1027) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%A0%EC%B8%B5%EA%B1%B4%EB%AC%BC.java) |
+
 
   
   ### 24.10.23 수요일
@@ -2749,7 +2750,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1461_도서관(G5)(복습1)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%84%EC%84%9C%EA%B4%80.java) | [백준 1149_RGB거리(S1)(복습1)](https://www.acmicpc.net/problem/1149) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/RGB%EA%B1%B0%EB%A6%AC.java) |
 
 
   ### 24.10.24 목요일 
