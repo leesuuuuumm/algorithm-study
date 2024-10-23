@@ -37,5 +37,6 @@ public class 알약 {
 		bw.write(sb.toString());
 		bw.close();
 		br.close();
+		
 	}
 }
