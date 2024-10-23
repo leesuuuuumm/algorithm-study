@@ -2738,7 +2738,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1865_웜홀(G3)](https://www.acmicpc.net/problem/1865) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9B%9C%ED%99%80.java) | [백준 13975_파일합치기3(G4)](https://www.acmicpc.net/problem/13975) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B03.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
