@@ -2758,7 +2758,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 네트워크(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) | [프로그래머스 정수 삼각형(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
 
