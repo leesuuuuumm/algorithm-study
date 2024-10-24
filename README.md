@@ -2748,7 +2748,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 17255_N으로만들기(G4)](https://www.acmicpc.net/problem/17255) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/N%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 16973_직사각형 탈출(G4)](https://www.acmicpc.net/problem/16973) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%ED%83%88%EC%B6%9C.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | [백준 1461_도서관(G5)(복습1)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%84%EC%84%9C%EA%B4%80.java) | [백준 1149_RGB거리(S1)(복습1)](https://www.acmicpc.net/problem/1149) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/RGB%EA%B1%B0%EB%A6%AC.java) |
 
