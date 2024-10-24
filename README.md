@@ -2749,7 +2749,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 17255_N으로만들기(G4)](https://www.acmicpc.net/problem/17255) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/N%EC%9C%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 16973_직사각형 탈출(G4)](https://www.acmicpc.net/problem/16973) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%ED%83%88%EC%B6%9C.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 타겟 넘버(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.java) | [백준 21773_가희와 프로세스 1(G5)](https://www.acmicpc.net/problem/21773) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%ED%9D%AC%EC%99%80%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%201.java) |
   | 이연상 | [백준 1461_도서관(G5)(복습1)](https://www.acmicpc.net/problem/1461) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%84%EC%84%9C%EA%B4%80.java) | [백준 1149_RGB거리(S1)(복습1)](https://www.acmicpc.net/problem/1149) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/RGB%EA%B1%B0%EB%A6%AC.java) |
 
 
@@ -2758,7 +2758,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 네트워크(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) | [프로그래머스 정수 삼각형(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
 
