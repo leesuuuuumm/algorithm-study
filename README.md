@@ -2766,7 +2766,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [프로그래머스 피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%94%BC%EB%A1%9C%EB%8F%84.java) | [프로그래머스 야근지수(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
