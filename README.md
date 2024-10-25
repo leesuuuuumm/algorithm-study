@@ -2767,7 +2767,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [프로그래머스 피로도(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%94%BC%EB%A1%9C%EB%8F%84.java) | [프로그래머스 야근지수(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [✔](https://github.com/minsu20/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 3079_입국심사(G5)](https://www.acmicpc.net/problem/3079) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.java) | [프로그래머스 야근 지수(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12927#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.java) |
   | 이연상 | [백준 15900_나무 탈출(S1)](https://www.acmicpc.net/problem/15900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%ED%83%88%EC%B6%9C.java) | [프로그래머스_스킬트리(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/51%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java) |
 
   
