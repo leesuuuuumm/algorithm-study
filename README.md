@@ -2785,7 +2785,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 22868_산책(small)(G3)](https://www.acmicpc.net/problem/22868) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%82%B0%EC%B1%85(small).java) | [백준 7453_합이 0인 네 정수(G2)](https://www.acmicpc.net/problem/7453) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%95%A9%EC%9D%B40%EC%9D%B8%EB%84%A4%EC%A0%95%EC%88%98.java) |
   | 이수민 | [프로그래머스 카펫(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%B4%ED%8E%AB.java) | [프로그래머스 디스크 컨트롤러(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42627#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.java) |
-  | 이연상 | [프로그래머스_주차 요금 계산(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.java) | [](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.java) |
+  | 이연상 | [프로그래머스_주차 요금 계산(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.java) | [프로그래머스_택배상자(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.java) |
 
  
   
@@ -2795,7 +2795,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_오픈채팅방(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java) | [프로그래머스_등굣길(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%93%B1%EA%B5%A3%EA%B8%B8.java) |
 
   
   ### 24.10.30 수요일
