@@ -2793,7 +2793,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 20542_받아쓰기(G3)](https://www.acmicpc.net/problem/20542) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0.java) | [백준 1799_비숍(G1)](https://www.acmicpc.net/problem/1799) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%84%EC%88%8D.java)  |
   | 이수민 | [프로그래머스 여행경로(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43164#) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.java) | [프로그래머스 입국심사(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.java) |
   | 이연상 | [프로그래머스_오픈채팅방(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java) | [프로그래머스_등굣길(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%93%B1%EA%B5%A3%EA%B8%B8.java) |
 
@@ -2802,7 +2802,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [백준 20542_받아쓰기(G3)](https://www.acmicpc.net/problem/20542) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0.java) | [백준 1799_비숍(G1)](https://www.acmicpc.net/problem/1799) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%84%EC%88%8D.java) |
+  | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
