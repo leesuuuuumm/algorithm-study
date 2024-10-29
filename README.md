@@ -2802,7 +2802,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 20542_받아쓰기(G3)](https://www.acmicpc.net/problem/20542) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B0%9B%EC%95%84%EC%93%B0%EA%B8%B0.java) | [백준 1799_비숍(G1)](https://www.acmicpc.net/problem/1799) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%84%EC%88%8D.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
