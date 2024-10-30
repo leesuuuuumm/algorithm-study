@@ -2803,7 +2803,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 1368_물대기(G2)](https://www.acmicpc.net/problem/1368) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%AC%BC%EB%8C%80%EA%B8%B0.java) | [백준 1507_궁금한민호(G2)](https://www.acmicpc.net/problem/1507) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B6%81%EA%B8%88%ED%95%9C%EB%AF%BC%ED%98%B8.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 네트워크(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) | [백준 5052_전화번호 목록(G4)](https://www.acmicpc.net/problem/5052) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.java) |
   | 이연상 | [프로그래머스_최고의 집합(LV3)(복습2)](https://school.programmers.co.kr/learn/courses/30/lessons/12938#) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.java) | [프로그래머스_숫자 변환하기(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.java) |
 
 
