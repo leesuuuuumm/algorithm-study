@@ -2814,7 +2814,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_숫자 게임(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.java) | [프로그래머스_2xn 타일링(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2xn%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 
   ### 24.11.01 금요일
 
