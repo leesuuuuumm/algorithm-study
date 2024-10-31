@@ -2813,7 +2813,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 20543_폭탄던지는태영이(G1)](https://www.acmicpc.net/problem/20543) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%8F%AD%ED%83%84%EB%8D%98%EC%A7%80%EB%8A%94%ED%83%9C%EC%98%81%EC%9D%B4.java) | [백준_10775_공항(G2)](https://www.acmicpc.net/problem/10775) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%B5%ED%95%AD.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 배스트앨범(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%B0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java) | [프로그래머스 단어 변환(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.java) |
   | 이연상 | [프로그래머스_숫자 게임(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.java) | [프로그래머스_2xn 타일링(LV2)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2xn%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 
   ### 24.11.01 금요일
