@@ -2839,7 +2839,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 1562_계단(G1)](https://www.acmicpc.net/problem/1562) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%84%EB%8B%A8%EC%88%98.java) | [백준 2473_세 용액(G3)](https://www.acmicpc.net/problem/2473) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B8%EC%9A%A9%EC%95%A1.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 1759_암호 만들기(G5)(복습1)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 14369_전화번호 수수께끼(G5)(복습1)](https://www.acmicpc.net/problem/14369) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC.java) |
 
  
   
