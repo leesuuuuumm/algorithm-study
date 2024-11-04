@@ -2776,7 +2776,7 @@
 
 
 <details>
-  <summary>52주차</summary>
+  <summary>52주차(완료)</summary>
   <div markdown="1">
     
   ### 24.10.28 월요일
@@ -2823,6 +2823,60 @@
   | 김민수 | [백준 3151_합이0(G4)](https://www.acmicpc.net/problem/3151) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%95%A9%EC%9D%B40.java) | [백준 20667_크롬(G1)](https://www.acmicpc.net/problem/20667) | [✔](https://github.com/minsu20/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%81%AC%EB%A1%AC.java) |
   | 이수민 | [프로그래머스 최고의 집합(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.java) | [프로그래머스 인사고과(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.java) |
   | 이연상 | [백준 2294_동전2(G5)(복습1)](https://www.acmicpc.net/problem/2294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8F%99%EC%A0%84.java) | [백준 1717_집합의 표현(G5)(복습1)](https://www.acmicpc.net/problem/1717) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/52%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A7%91%ED%95%A9%EC%9D%98%20%ED%91%9C%ED%98%84.java) |
+
+
+  
+  </div>
+</details>
+
+<details>
+  <summary>53주차</summary>
+  <div markdown="1">
+    
+  ### 24.11.04 월요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+ 
+  
+  ### 24.11.05 화요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+  
+  ### 24.11.06 수요일
+  
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+
+  
+  ### 24.11.07 목요일 
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
+
+  ### 24.11.08 금요일
+
+  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
+  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
+  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | []() | [✔]() | []() | [✔]() |
 
 
   
