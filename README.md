@@ -2837,7 +2837,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1562_계단(G1)](https://www.acmicpc.net/problem/1562) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%84%EB%8B%A8%EC%88%98.java) | [백준 2473_세 용액(G3)](https://www.acmicpc.net/problem/2473) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B8%EC%9A%A9%EC%95%A1.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
