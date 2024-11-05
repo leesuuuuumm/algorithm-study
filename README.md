@@ -2837,18 +2837,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [백준 1562_계단(G1)](https://www.acmicpc.net/problem/1562) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%84%EB%8B%A8%EC%88%98.java) | [백준 2473_세 용액(G3)](https://www.acmicpc.net/problem/2473) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B8%EC%9A%A9%EC%95%A1.java) |
-  | 이수민 | [백준 1260_DFS와 BFS(S2)](https://www.acmicpc.net/problem/1260) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/DFS%EC%99%80%20BFS.java) | [프로그래머스 도넛과 막대 그래프(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/258711) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%84%EB%84%9B%EA%B3%BC%20%EB%A7%89%EB%8C%80%20%EA%B7%B8%EB%9E%98%ED%94%84.java) |
-  | 이연상 | [백준 1759_암호 만들기(G5)(복습1)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 14369_전화번호 수수께끼(G5)(복습1)](https://www.acmicpc.net/problem/14369) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC.java) |
-
- 
-  
-  ### 24.11.05 화요일
-  
-  | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
-  | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | [백준 1806_부분합(G4)](https://www.acmicpc.net/problem/1806) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B6%80%EB%B6%84%ED%95%A9.java) | [백준 2239_스도쿠(G4)](https://www.acmicpc.net/problem/2239) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%8A%A4%EB%8F%84%EC%BF%A0.java) |
-  | 이수민 | [백준 가장 긴 팰린드롬(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java) | [프로그래머스 숫자 게임(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.java) |
+  | 김민수 | [백준 1562_계단(G1)](https://www.acmicpc.net/problem/1562) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%84%EB%8B%A8%EC%88%98.java) | [백준 2473_세 용액(G3)](https://www.acmicpc.net/problem/2473) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B8%EC%9A%A9%EC%95%A1.java) |스 가장 긴 팰린드롬(LV3)(복습1)](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java) | [프로그래머스 숫자 게임(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.java) |
   | 이연상 | [백준_2468_안전 영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.java) | [백준_1987_알파벳(G4)](https://www.acmicpc.net/problem/1987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%8C%ED%8C%8C%EB%B2%B3.java) |
 
 
