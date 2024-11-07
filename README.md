@@ -2867,7 +2867,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 20438_출석체크(S2)](https://www.acmicpc.net/problem/20438) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B6%9C%EC%84%9D%EC%A0%9C%ED%81%AC.java) | [백준 2293_동전 1(G4)(복습1)](https://www.acmicpc.net/problem/2293) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EC%A0%84%201.java) |
   | 이연상 | [프로그래머스_퍼즐 게임 챌린지(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/340212) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8D%BC%EC%A6%90%20%EA%B2%8C%EC%9E%84%20%EC%B1%8C%EB%A6%B0%EC%A7%80.java) | [프로그래머스_석유 시추(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/250136) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%84%9D%EC%9C%A0%20%EC%8B%9C%EC%B6%94.java) |
 
   ### 24.11.08 금요일
