@@ -2874,7 +2874,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 9466_텀프로젝트(G3)](https://www.acmicpc.net/problem/9466) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.java) | [백준 2252_줄세우기(G3)](https://www.acmicpc.net/problem/2252) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
