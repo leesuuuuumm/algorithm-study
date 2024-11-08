@@ -2876,7 +2876,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 9466_텀프로젝트(G3)](https://www.acmicpc.net/problem/9466) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.java) | [백준 2252_줄세우기(G3)](https://www.acmicpc.net/problem/2252) | [✔](https://github.com/minsu20/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_아날로그 시계(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%EC%8B%9C%EA%B3%84.java) | [프로그래머스_충돌 위험 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/53%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%B6%A9%EB%8F%8C%EC%9C%84%ED%97%98%EC%B0%BE%EA%B8%B0.java) |
 
 
   
