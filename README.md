@@ -2893,7 +2893,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_2024_괄호의 값(S2)(복습1)](https://www.acmicpc.net/problem/2504) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92.java) | [백준_14719_빗물(G5)(복습1)](https://www.acmicpc.net/problem/14719) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%B9%97%EB%AC%BC.java) |
 
  
   
