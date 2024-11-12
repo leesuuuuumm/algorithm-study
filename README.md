@@ -2902,8 +2902,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 11403_경로 찾기(S1)](https://www.acmicpc.net/problem/11403) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.java) | [코드트리 돌아가는 팔각 의자(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/rounding-eight-angle/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94%20%ED%8C%94%EA%B0%81%20%EC%9D%98%EC%9E%90.java) |
+  | 이연상 | [백준_2178_미로 탐색(S1)](https://www.acmicpc.net/problem/2178) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.java) | [백준_1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A6%AC%EB%AA%A8%EC%BD%98.java) |
 
   
   ### 24.11.13 수요일
