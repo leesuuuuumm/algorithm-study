@@ -2902,7 +2902,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 11403_경로 찾기(S1)](https://www.acmicpc.net/problem/11403) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.java) | [코드트리 돌아가는 팔각 의자(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/rounding-eight-angle/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94%20%ED%8C%94%EA%B0%81%20%EC%9D%98%EC%9E%90.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   
