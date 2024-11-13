@@ -2911,7 +2911,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1535_안녕(S2)](https://www.acmicpc.net/problem/1535) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%88%EB%85%95.java) | [백준 1245_농장 관리(G5)](https://www.acmicpc.net/problem/1245) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.java) |
   | 이연상 | [백준_2468_안전 영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.java) | [백준_1987_알파벳(G4)](https://www.acmicpc.net/problem/1987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%8C%ED%8C%8C%EB%B2%B3.java) |
 
 
