@@ -2921,7 +2921,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 3896_소수 사이 수열(S1)](https://www.acmicpc.net/problem/3896) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4.java) | [코드트리 색깔 폭탄(G2)(복습1)](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%89%EA%B9%94%20%ED%8F%AD%ED%83%84.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   ### 24.11.15 금요일
