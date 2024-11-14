@@ -2901,7 +2901,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [SWEA 보급로(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=P&pageSize=10&pageIndex=1) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B3%B4%EA%B8%89%EB%A1%9C.java) | [SWEA 미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?passFilterYn=Y&contestProbId=AV597vbqAH0DFAVl&categoryId=AV597vbqAH0DFAVl&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=JAVA&select-1=P&pageSize=10&pageIndex=1) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%AF%B8%EC%83%9D%EB%AC%BC%EA%B2%A9%EB%A6%AC.java) |
   | 이수민 | [백준 11403_경로 찾기(S1)](https://www.acmicpc.net/problem/11403) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B2%BD%EB%A1%9C%20%EC%B0%BE%EA%B8%B0.java) | [코드트리 돌아가는 팔각 의자(G5)](https://www.codetree.ai/training-field/frequent-problems/problems/rounding-eight-angle/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94%20%ED%8C%94%EA%B0%81%20%EC%9D%98%EC%9E%90.java) |
   | 이연상 | [백준_2178_미로 탐색(S1)](https://www.acmicpc.net/problem/2178) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89.java) | [백준_1107_리모컨(G5)](https://www.acmicpc.net/problem/1107) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A6%AC%EB%AA%A8%EC%BD%98.java) |
 
@@ -2910,7 +2910,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1103_게임(G2)](https://www.acmicpc.net/problem/1103) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B2%8C%EC%9E%84.java) | [백준 1091_카드섞기(G4)](https://www.acmicpc.net/problem/1091) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%B9%B4%EB%93%9C%EC%84%9E%EA%B8%B0.java) |
   | 이수민 | [백준 1535_안녕(S2)](https://www.acmicpc.net/problem/1535) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%95%88%EB%85%95.java) | [백준 1245_농장 관리(G5)](https://www.acmicpc.net/problem/1245) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%86%8D%EC%9E%A5%20%EA%B4%80%EB%A6%AC.java) |
   | 이연상 | [백준_2468_안전 영역(S1)](https://www.acmicpc.net/problem/2468) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD.java) | [백준_1987_알파벳(G4)](https://www.acmicpc.net/problem/1987) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%8C%ED%8C%8C%EB%B2%B3.java) |
 
@@ -2920,7 +2920,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 2295_세수의합(G4)](https://www.acmicpc.net/problem/2295) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B8%EC%88%98%EC%9D%98%ED%95%A9.java) | [백준 2110_공유기설치(G4)](https://www.acmicpc.net/problem/2110) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.java) |
   | 이수민 | [백준 3896_소수 사이 수열(S1)](https://www.acmicpc.net/problem/3896) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4.java) | [코드트리 색깔 폭탄(G2)(복습1)](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%89%EA%B9%94%20%ED%8F%AD%ED%83%84.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
