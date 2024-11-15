@@ -2928,7 +2928,7 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 1520_내리막길(G3)](https://www.acmicpc.net/problem/1520) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8.java) | [백준  1937_욕심쟁이(G3)](https://www.acmicpc.net/problem/1937) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
