@@ -2922,7 +2922,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 2295_세수의합(G4)](https://www.acmicpc.net/problem/2295) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%84%B8%EC%88%98%EC%9D%98%ED%95%A9.java) | [백준 2110_공유기설치(G4)](https://www.acmicpc.net/problem/2110) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98.java) |
   | 이수민 | [백준 3896_소수 사이 수열(S1)](https://www.acmicpc.net/problem/3896) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%86%8C%EC%88%98%20%EC%82%AC%EC%9D%B4%20%EC%88%98%EC%97%B4.java) | [코드트리 색깔 폭탄(G2)(복습1)](https://www.codetree.ai/training-field/frequent-problems/problems/colored-bomb/description?page=2&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%83%89%EA%B9%94%20%ED%8F%AD%ED%83%84.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준_1629_곱셈(S1)(복습1)](https://www.acmicpc.net/problem/1629) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%B3%B1%EC%85%88.java) | [백준_12865_평범한 배낭(G5)(복습1)](https://www.acmicpc.net/problem/12865https://www.acmicpc.net/problem/12865https://www.acmicpc.net/problem/12865) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.java) |
 
   ### 24.11.15 금요일
 
