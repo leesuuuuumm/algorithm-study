@@ -2929,7 +2929,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 1520_내리막길(G3)](https://www.acmicpc.net/problem/1520) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8.java) | [백준  1937_욕심쟁이(G3)](https://www.acmicpc.net/problem/1937) | [✔](https://github.com/minsu20/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 조삼모사(S2)](https://www.codetree.ai/training-field/frequent-problems/problems/three-at-dawn-and-four-at-dusk/description?page=3&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A1%B0%EC%82%BC%EB%AA%A8%EC%82%AC.java) | [코드트리 정육면체 굴리기(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/cube-rounding/description?page=4&pageSize=20) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EA%B5%B4%EB%A6%AC%EA%B8%B0.java) |
   | 이연상 | [백준 1759_암호 만들기(G5)](https://www.acmicpc.net/problem/1759) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [백준 14369_전화번호 수수께끼(G5)](https://www.acmicpc.net/problem/14369) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/54%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC.java) |
 
 
