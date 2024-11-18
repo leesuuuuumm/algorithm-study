@@ -2946,7 +2946,7 @@
   
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 2573_빙산(G4)](https://www.acmicpc.net/problem/2573) | [✔](https://github.com/minsu20/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%99%EC%82%B0.java) | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/minsu20/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B1%80.java) |
   | 이수민 | []() | [✔]() | []() | [✔]() |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
