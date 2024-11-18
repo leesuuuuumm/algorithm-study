@@ -2947,7 +2947,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 2573_빙산(G4)](https://www.acmicpc.net/problem/2573) | [✔](https://github.com/minsu20/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%99%EC%82%B0.java) | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/minsu20/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B1%80.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 보물상자 비밀번호(모의 SW 역량 테스트)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90+&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1#none) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) | [SWEA 1812 수정이의 타일 자르기(D5)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yGVsKC0YDFAUx&categoryId=AV4yGVsKC0YDFAUx&categoryType=CODE&problemTitle=%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98%20%ED%83%80%EC%9D%BC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
  
