@@ -7,7 +7,7 @@ public class Solution {
 	static class Point {
 		int r;
 		int c;
-
+ 
 		public Point(int r, int c) {
 			this.r = r;
 			this.c = c;
