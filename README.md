@@ -2958,7 +2958,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_두 개 이하로 다른 비트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.java) | [프로그래머스_단속카메라(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java) |
 
 
   
