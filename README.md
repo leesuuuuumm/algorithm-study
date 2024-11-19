@@ -2947,8 +2947,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 2573_빙산(G4)](https://www.acmicpc.net/problem/2573) | [✔](https://github.com/minsu20/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B9%99%EC%82%B0.java) | [백준 3190_뱀(G4)](https://www.acmicpc.net/problem/3190) | [✔](https://github.com/minsu20/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EB%B1%80.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 보물상자 비밀번호(모의 SW 역량 테스트)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&categoryId=AWXRUN9KfZ8DFAUo&categoryType=CODE&problemTitle=%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90+&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1#none) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EB%AC%BC%EC%83%81%EC%9E%90%20%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.java) | [SWEA 1812 수정이의 타일 자르기(D5)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yGVsKC0YDFAUx&categoryId=AV4yGVsKC0YDFAUx&categoryType=CODE&problemTitle=%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98%20%ED%83%80%EC%9D%BC%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) |
+  | 이연상 | [백준 2877 4와 7(G5)(복습1)](https://www.acmicpc.net/problem/2877) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/4%EC%99%80%207.java) | [백준 2174 로봇 시뮬레이션(G5)(복습1)](https://www.acmicpc.net/problem/2174) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%9C%EB%B4%87%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.java) |  
 
  
   
@@ -2957,8 +2957,8 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 7733_치즈 도둑(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWrDOdQqRCUDFARG&categoryId=AWrDOdQqRCUDFARG&categoryType=CODE&problemTitle=%EC%B9%98%EC%A6%88+%EB%8F%84%EB%91%91&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%B9%98%EC%A6%88%20%EB%8F%84%EB%91%91.java) | [SWEA 1868_파핑파핑 지뢰찾기(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LwsHaD1MDFAXc) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%8C%8C%ED%95%91%ED%8C%8C%ED%95%91%20%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0.java) |
+  | 이연상 | [프로그래머스_두 개 이하로 다른 비트(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8.java) | [프로그래머스_단속카메라(LV3)](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java) |
 
 
   
