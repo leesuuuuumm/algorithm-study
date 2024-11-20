@@ -2968,7 +2968,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [소프티어_전광판(LV2)](https://softeer.ai/app/assessment/index.html?xid=334935&xsrfToken=1lnmxHmibOwhPcYT0yCXMdgqArdmQT4r&testType=practice) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EA%B4%91%ED%8C%90.java) | [소프티어_나무 공격(LV2)](https://softeer.ai/app/assessment/index.html?xid=334736&xsrfToken=tpuj570SAaEQ1pJpJaVzZ3vr56tJXBul&testType=practice) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%EA%B3%B5%EA%B2%A9.java) |
 
 
   
