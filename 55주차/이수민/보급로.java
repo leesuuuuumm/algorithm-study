@@ -6,7 +6,7 @@ import java.io.*;
 public class Solution {
 	static class Point {
 		int r;
-		int c;
+		int c; 
 
 		public Point(int r, int c) {
 			this.r = r;
