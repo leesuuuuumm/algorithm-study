@@ -2967,7 +2967,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 2383_점심 식사시간(모의 SW 역량테스트)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%90%EC%8B%AC%20%EC%8B%9D%EC%82%AC%EC%8B%9C%EA%B0%84.java) | [SWEA 1249_보급로(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B3%B4%EA%B8%89%EB%A1%9C.java) |
   | 이연상 | [소프티어_전광판(LV2)](https://softeer.ai/app/assessment/index.html?xid=334935&xsrfToken=1lnmxHmibOwhPcYT0yCXMdgqArdmQT4r&testType=practice) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%A0%84%EA%B4%91%ED%8C%90.java) | [소프티어_나무 공격(LV2)](https://softeer.ai/app/assessment/index.html?xid=334736&xsrfToken=tpuj570SAaEQ1pJpJaVzZ3vr56tJXBul&testType=practice) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%EA%B3%B5%EA%B2%A9.java) |
 
 
