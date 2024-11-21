@@ -2977,7 +2977,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 1232_사칙연산(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.java) | [SWEA 1248_공통조상(D5)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE&problemTitle=%EA%B3%B5%ED%86%B5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%B5%ED%86%B5%EC%A1%B0%EC%83%81.java) |
   | 이연상 | []() | [✔]() | []() | [✔]() |
 
   ### 24.11.22 금요일
