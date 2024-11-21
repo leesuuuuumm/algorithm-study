@@ -2978,7 +2978,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | [SWEA 1232_사칙연산(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141J8KAIcCFAYD) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.java) | [SWEA 1248_공통조상(D5)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD&categoryId=AV15PTkqAPYCFAYD&categoryType=CODE&problemTitle=%EA%B3%B5%ED%86%B5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B3%B5%ED%86%B5%EC%A1%B0%EC%83%81.java) |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [프로그래머스_소수 찾기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java) | [프로그래머스_다리를 지나는 트럭(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.java) |
 
   ### 24.11.22 금요일
 
