@@ -2986,7 +2986,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [소프티어_Recovering the Region(LV2)](https://softeer.ai/practice/9497) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/Recovering%20the%20Region.java) | [소프티어_회의실 예약(LV2)](https://softeer.ai/practice/6266) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%9A%8C%EC%9D%98%EC%8B%A4%EC%98%88%EC%95%BD.java) |
 
 
   
