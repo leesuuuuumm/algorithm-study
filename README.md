@@ -2985,7 +2985,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 4408_자기 방으로 돌아가기(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8&categoryId=AWNcJ2sapZMDFAV8&categoryType=CODE&problemTitle=%EC%9E%90%EA%B8%B0+%EB%B0%A9%EC%9C%BC%EB%A1%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9E%90%EA%B8%B0%20%EB%B0%A9%EC%9C%BC%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0.java) | [SWEA 1233_사칙연산 유효성 검사(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0%20%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC.java) |
   | 이연상 | [소프티어_Recovering the Region(LV2)](https://softeer.ai/practice/9497) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/Recovering%20the%20Region.java) | [소프티어_회의실 예약(LV2)](https://softeer.ai/practice/6266) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/55%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%9A%8C%EC%9D%98%EC%8B%A4%EC%98%88%EC%95%BD.java) |
 
 
