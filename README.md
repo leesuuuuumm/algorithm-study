@@ -3012,7 +3012,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [SWEA 1861_정사각형 방(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B0%A9.java) | [SWEA 3361_동아리실 관리하기(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBnFuhqxE8DFAWr&categoryId=AWBnFuhqxE8DFAWr&categoryType=CODE&problemTitle=%EB%8F%99%EC%95%84%EB%A6%AC%EC%8B%A4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%8F%99%EC%95%84%EB%A6%AC%EC%8B%A4%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.java) |
   | 이연상 | [소프티어_택배 마스터 광우(LV3)](https://www.softeer.ai/practice/6273) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%9D%EB%B0%B0%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EA%B4%91%EC%9A%B0.java) | [소프티어_성적 평균(LV3)](https://www.softeer.ai/practice/6294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%84%B1%EC%A0%81%20%ED%8F%89%EA%B7%A0.java) |
 
   
