@@ -3013,7 +3013,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [소프티어_택배 마스터 광우(LV3)](https://www.softeer.ai/practice/6273) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%9D%EB%B0%B0%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EA%B4%91%EC%9A%B0.java) | [소프티어_성적 평균(LV3)](https://www.softeer.ai/practice/6294) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%84%B1%EC%A0%81%20%ED%8F%89%EA%B7%A0.java) |
 
   
   ### 24.11.27 수요일
