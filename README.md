@@ -3022,7 +3022,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [소프티어_나무 조경(LV3)](https://softeer.ai/practice/7594) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%EC%A1%B0%EA%B2%BD.java) | [소프티어_Yeah, but how?(LV2)](https://softeer.ai/practice/9498) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/yeah%20but%20how.java) |
 
 
   
