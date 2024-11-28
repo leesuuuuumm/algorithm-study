@@ -3032,7 +3032,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 14503_로봇 청소기(G5)](https://www.acmicpc.net/problem/14503) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.java) | [백준 2812_크게 만들기(G5)](https://www.acmicpc.net/problem/2812) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
   ### 24.11.29 금요일
 
