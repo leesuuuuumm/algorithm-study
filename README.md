@@ -3039,7 +3039,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [코드트리 테트리스 블럭 안의 합 최대화 하기(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/max-sum-of-tetris-block/description?page=1&pageSize=20&name=%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4%20%EB%B8%94%EB%9F%AD%20%EC%95%88%EC%9D%98%20%ED%95%A9%20%EC%B5%9C%EB%8C%80%ED%99%94%20%ED%95%98%EA%B8%B0.java) | [코드트리 이상한 체스(G4)](https://www.codetree.ai/training-field/frequent-problems/problems/odd-chess/description?page=1&pageSize=20&name=%EC%9D%B4%EC%83%81%ED%95%9C) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%9D%B4%EC%83%81%ED%95%9C%20%EC%B2%B4%EC%8A%A4.java) |
   | 이연상 | [백준 2667 단지번호 붙이기(G5)](https://www.acmicpc.net/problem/2667) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%8B%A8%EC%A7%80%20%EB%B2%88%ED%98%B8%20%EB%B6%99%EC%9D%B4%EA%B8%B0.java) | [백준 3055 탈출(G5)](https://www.acmicpc.net/problem/3055) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%83%88%EC%B6%9C.java) |
 
 
