@@ -3021,7 +3021,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | [백준 16234_인구이동(G4)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/minsu20/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) | [백준 1012_유기농배추(S2)](https://www.acmicpc.net/problem/1012) | [✔](https://github.com/minsu20/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.java) |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [백준 1024_수열의 합(S2)](https://www.acmicpc.net/problem/1024) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.java) | [SWEA 8382_방향 전환(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP&categoryId=AWyNQrCahHcDFAVP&categoryType=CODE&problemTitle=8382&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B0%A9%ED%96%A5%20%EC%A0%84%ED%99%98.java) |
   | 이연상 | [소프티어_나무 조경(LV3)](https://softeer.ai/practice/7594) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%82%98%EB%AC%B4%20%EC%A1%B0%EA%B2%BD.java) | [소프티어_Yeah, but how?(LV2)](https://softeer.ai/practice/9498) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/yeah%20but%20how.java) |
 
 
@@ -3030,9 +3030,9 @@
 
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
-  | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 김민수 | [백준 2512_예산(S2)](https://www.acmicpc.net/problem/2512) | [✔](https://github.com/minsu20/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%98%88%EC%82%B0.java) | [백준 1912_연속합(S2)](https://www.acmicpc.net/problem/1912) | [✔](https://github.com/minsu20/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EA%B9%80%EB%AF%BC%EC%88%98/%EC%97%B0%EC%86%8D%ED%95%A9.java) |
+  | 이수민 | [SEWA 5432_쇠막대기 자르기(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm&categoryId=AWVl47b6DGMDFAXm&categoryType=CODE&problemTitle=%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java) | [SWEA 1210_Ladder1(D4)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/Ladder1.java) |
+  | 이연상 | [백준 14503_로봇 청소기(G5)](https://www.acmicpc.net/problem/14503) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EB%A1%9C%EB%B4%87%20%EC%B2%AD%EC%86%8C%EA%B8%B0.java) | [백준 2812_크게 만들기(G5)](https://www.acmicpc.net/problem/2812) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/56%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 
   ### 24.11.29 금요일
 
