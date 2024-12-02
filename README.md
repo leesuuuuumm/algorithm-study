@@ -3058,7 +3058,7 @@
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
   | 이수민 | []() | [✔]() | []() | [✔]() |
-  | 이연상 | []() | [✔]() | []() | [✔]() |
+  | 이연상 | [백준 16324 인구 이동(G5)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/57%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) | [백준 21758 꿀 따기(G5)](https://www.acmicpc.net/problem/21758) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/57%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%BF%80%EB%94%B0%EA%B8%B0.java) |
 
  
   
