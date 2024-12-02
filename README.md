@@ -3057,7 +3057,7 @@
   | 이름 | 문제 1 | 코드 | 문제 2 | 코드 |
   | :--: | :-----------: | :-----: | :-----------: | :-----: | 
   | 김민수 | []() | [✔]() | []() | [✔]() |
-  | 이수민 | []() | [✔]() | []() | [✔]() |
+  | 이수민 | [프로그래머스 교점에 별 만들기(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/87377) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/57%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EA%B5%90%EC%A0%90%EC%97%90%20%EB%B3%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java) | [프로그래머스 빛의 경로 사이클(LV2)](https://school.programmers.co.kr/learn/courses/30/lessons/86052) | [✔](https://github.com/leesuuuuumm/algorithm-study/blob/main/57%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%88%98%EB%AF%BC/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.java) |
   | 이연상 | [백준 16324 인구 이동(G5)](https://www.acmicpc.net/problem/16234) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/57%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99.java) | [백준 21758 꿀 따기(G5)](https://www.acmicpc.net/problem/21758) | [✔](https://github.com/leeys1218/algorithm-study/blob/main/57%EC%A3%BC%EC%B0%A8/%EC%9D%B4%EC%97%B0%EC%83%81/%EA%BF%80%EB%94%B0%EA%B8%B0.java) |
 
  
